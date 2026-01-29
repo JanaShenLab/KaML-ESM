@@ -1,12 +1,11 @@
 # KaML: Acid-Base Constant Prediction From Protein Sequence (ESM) or Structure (CBT)
 
 Companion repository for:
--  Shen, Mingzhe*, Dayhoff II, Guy W.*, et al. "Protein Electrostatic Properties are Fine-Tuned Through Evolution." bioRxiv (2025): 2025-09. (https://www.biorxiv.org/content/10.1101/2025.04.17.649309v1)
--  *shared first-author
+-  Shen, Mingzhe, Dayhoff II, Guy W., et al. "Protein Electrostatic Properties are Fine-Tuned Through Evolution." bioRxiv (2025): 2025-09. (https://www.biorxiv.org/content/10.1101/2025.04.17.649309v1)
 
 ## How to cite KaML
 
-If you use the KaML models, command-line interface, or web-based atlas
+If you use the KaML models, command-line interface, or precomputed human-wide pKa predictions
 in your work, please cite:
 
     Shen, M., Dayhoff II, G.W., et al., 2025. Protein Electrostatic 
