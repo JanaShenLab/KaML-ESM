@@ -186,7 +186,7 @@ or use the provided wizard.
 Clone the repository:
 
     git clone https://github.com/JanaShenLab/KaML-ESM.git
-    cd KaML-ESM_v1
+    cd KaML-ESM
 
 Run the installation wizard:
 
