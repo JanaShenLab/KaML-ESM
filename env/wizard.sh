@@ -3,10 +3,10 @@
 #installation wizard 
 
 #create python venv
-python3 -m venv KaML
+python3 -m venv KaML-ESM
 
 #activate it
-source KaML/bin/activate
+source KaML-ESM/bin/activate
 
 #update pip
 pip install -U pip
@@ -17,28 +17,26 @@ pip install numpy torch esm tqdm httpx colorama
 #download wts from zenodo
 cd wts
 
-#ligcysS
+#KaML-ESM2
 echo "Fetching ESM2 weights: this could take a few minutes"
-wget https://zenodo.org/records/17693548/files/ligcysS_v1.tar.xz
+wget https://zenodo.org/records/18397706/files/esm2.tar.gz
 echo "Extracting ESM2 weights: this could take a few minutes"
-tar -xJf ligcysS_v1.tar.xz
+tar -xJf esm2.tar.xz
 
-#ligcysA
+#KaML-ESMC
 echo "Fetching ESMC weights: this could take a few minutes"
-wget https://zenodo.org/records/17693548/files/ligcysA_v1.tar.xz
+wget https://zenodo.org/records/18407675/files/esmC.tar.gz
 echo "Extracting ESMC weights: this could take a few minutes"
-tar -xJf ligcysA_v1.tar.xz
+tar -xJf esmC.tar.gz
 
-#ligbind
+#CBTree2
 echo "Fetching CBtree2 weights: this could take a few minutes"
-wget https://zenodo.org/records/17693713/files/ligbind_v1.tar.xz
+wget https://zenodo.org/records/18392532/files/CBtree2.tar.gz
 echo "Extracting CBtree2 weights: this could take a few minutes"
-tar -xJf ligbind_v1.tar.xz
+tar -xJf CBtree2.tar.xz
 
 #housekeeping
 echo "Peforming housekeeping"
-rm ligcysS_v1.tar.xz
-rm ligcysA_v1.tar.xz
-rm ligbind_v1.tar.xz
-rm ssbind_v1.tar.xz
-rm znbind_v1.tar.xz
+rm esmC.tar.gz
+rm esm2.tar.gz
+rm CBtree2.tar.gz
