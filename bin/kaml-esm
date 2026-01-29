@@ -64,15 +64,16 @@ FORGE_URL = "https://forge.evolutionaryscale.ai"
 FORGE_MDL = "esm3-medium-2024-08"
 
 # -------- Global Inference Params --------
-norm_dict = {
-    0: [2.3, 0.24], 1: [2.29, 0.22], 2: [2.29, 0.23],
-    3: [2.31, 0.24], 4: [2.31, 0.24], 5: [2.32, 0.24],
-    6: [2.29, 0.26], 7: [2.29, 0.28], 8: [2.32, 0.23],
-    9: [2.33, 0.24], 10: [2.28, 0.21], 11: [2.33, 0.25],
-    12: [2.32, 0.22], 13: [2.31, 0.22], 14: [2.29, 0.29],
-    15: [2.28, 0.20], 16: [2.30, 0.27], 17: [2.31, 0.22],
-    18: [2.30, 0.22], 19: [2.28, 0.19],
-}
+norm_dict = {0: [2.3, 0.24], 1: [2.29, 0.22], 2: [2.29, 0.23], 3: [2.31, 0.24], 4: [2.31, 0.24],
+             5: [2.32, 0.24], 6: [2.29, 0.26], 7: [2.29, 0.28], 8: [2.32, 0.23], 9: [2.33, 0.24],
+             10: [2.28, 0.21], 11: [2.33, 0.25], 12: [2.32, 0.22], 13: [2.31, 0.22], 14: [2.29, 0.29],
+             15: [2.28, 0.2], 16: [2.3, 0.27], 17: [2.31, 0.22], 18: [2.3, 0.22], 19: [2.28, 0.19],
+             20: [2.21, 0.08], 21: [2.21, 0.08], 22: [2.21, 0.08], 23: [2.21, 0.08], 24: [2.21, 0.08],
+             25: [2.21, 0.08], 26: [2.21, 0.08], 27: [2.21, 0.08], 28: [2.21, 0.08], 29: [2.21, 0.08],
+             30: [2.21, 0.08], 31: [2.21, 0.08], 32: [2.21, 0.08], 33: [2.21, 0.08], 34: [2.21, 0.08],
+             35: [2.21, 0.08], 36: [2.21, 0.08], 37: [2.21, 0.08], 38: [2.21, 0.08], 39: [2.21, 0.08],
+             40: [2.21, 0.08], 41: [2.21, 0.08], 42: [2.21, 0.08], 43: [2.21, 0.08], 44: [2.21, 0.08],
+             45: [2.21, 0.08], 46: [2.21, 0.08], 47: [2.21, 0.08], 48: [2.21, 0.08], 49: [2.21, 0.08]}
 model_pka_dict = {
     "D": 3.7, "E": 4.2, "H": 6.5, "C": 8.5, "K": 10.4, "Y": 10.1,
 }
@@ -192,29 +193,70 @@ def parse_args():
     grp.add_argument("--pdbid",   type=str, help="PDB ID to fetch structure")
     grp.add_argument("--uniprot", type=str, help="UniProt ID to fetch seq")
     grp.add_argument("--fasta",   type=str, help="Path to multi-FASTA file")
-    p.add_argument("--nofold",     action="store_true",
-                   help="Skip structure folding step")
-    p.add_argument("--outdir",    type=str, default="output",
-                   help="Output directory")
-    p.add_argument("--nproc",     type=int, default=1,
-                   help="Parallel workers for multi-fasta")
-    p.add_argument("--nthreads", type=int, default=1,
-                   help="Threads per sequence for ensemble inference")
-    p.add_argument("--debug",     action="store_true",
-                   help="Enable debug logging")
-    p.add_argument("--skip_safety", action="store_true",
-                   help="Skip safety filter (ESM permission required)")
-   #TODO: finishing this sometime, but esm3-open has a small len limit soo...eh
-   # p.add_argument("--localfold", action="store_true",
-   #                help="Use local folding (esm3-open + SCWRL4)")
-    p.add_argument("--acidic", type=str, default="esm2",
-                   choices=["esm2", "esmC"],
-                   help="Acidic channel model (ignored if len>1022)")
-    p.add_argument("--basic",  type=str, default="esmC",
-                   choices=["esm2", "esmC"],
-                   help="Basic channel model")
-    p.add_argument("--nocbtree", action="store_true",
-                   help="Skip CBTREE predictions")
+    p.add_argument(
+        "--structs",
+        type=str,
+        default=None,
+        help=(
+            "Directory of precomputed PDB structures; "
+            "will look for <unique_id>.pdb here before folding/fetching"
+        ),
+    )
+    p.add_argument(
+        "--nofold",
+        action="store_true",
+        help="Skip structure folding step"
+    )
+    p.add_argument(
+        "--outdir",
+        type=str,
+        default="output",
+        help="Output directory"
+    )
+    p.add_argument(
+        "--nproc",
+        type=int,
+        default=1,
+        help="Parallel workers for multi-fasta"
+    )
+    p.add_argument(
+        "--nthreads",
+        type=int,
+        default=1,
+        help="Threads per sequence for ensemble inference"
+    )
+    p.add_argument(
+        "--debug",
+        action="store_true",
+        help="Enable debug logging"
+    )
+    p.add_argument(
+        "--skip_safety",
+        action="store_true",
+        help="Skip safety filter (ESM permission required)"
+    )
+    # TODO: finishing this sometime, but esm3-open has a small len limit soo...eh
+    # p.add_argument("--localfold", action="store_true",
+    #                help="Use local folding (esm3-open + SCWRL4)")
+    p.add_argument(
+        "--acidic",
+        type=str,
+        default="esm2",
+        choices=["esm2", "esmC"],
+        help="Acidic channel model (ignored if len>1022)"
+    )
+    p.add_argument(
+        "--basic",
+        type=str,
+        default="esm2",
+        choices=["esm2", "esmC"],
+        help="Basic channel model"
+    )
+    p.add_argument(
+        "--nocbtree",
+        action="store_true",
+        help="Skip CBTREE predictions"
+    )
     return p.parse_args()
 
 
@@ -318,6 +360,31 @@ def retry_operation(func, max_retries=3, initial_delay=2,
                               attempt, max_retries, e)
                 raise
 
+def get_struct_from_dir(unique_id, structs_dir, out_dir):
+    """
+    Check for a PDB file named <unique_id>.pdb in structs_dir.
+    If found, copy it into out_dir and return its new path; otherwise return None.
+    """
+    import os
+    import shutil
+    import logging
+
+    src = os.path.join(structs_dir, f"{unique_id}.pdb")
+    if os.path.isfile(src):
+        dest = os.path.join(out_dir, f"{unique_id}.pdb")
+        try:
+            shutil.copy(src, dest)
+            logging.info(
+                "Using provided structure for %s from %s",
+                unique_id, src
+            )
+            return dest
+        except Exception as e:
+            logging.error(
+                "Failed to copy structure for %s from %s: %s",
+                unique_id, src, e
+            )
+    return None
 
 def get_titratable_indices(residue_info, channel):
     # Handle both one‑letter (no‑fold) and three‑letter (PDB) codes
@@ -503,7 +570,7 @@ def extract_esmc_representation(sequence, header):
 def preload_weights(model_dir, channel):
     import torch
     weights = {}
-    num_splits = 20
+    num_splits = 50
     replicas = 10
     for split in tqdm(
         range(num_splits),
@@ -1043,11 +1110,11 @@ def process_single_pipeline(
     args,
     unique_id,
 ):
+    import os
     import logging
+
     from __main__ import (
-        split_pdb_by_chain,
         parse_pdb_to_sequence,
-        combine_pdb_files,
         get_acidic_embedding,
         run_acidic_inference,
         run_ensemble_inference,
@@ -1057,197 +1124,180 @@ def process_single_pipeline(
         run_cb_tree_channel,
         fold_structure,
         forge_fold_structure,
-        optimize_side_chains,
+        split_pdb_by_chain,
+        combine_pdb_files,
     )
 
-    if (
-        provided_structure_file
-        and provided_structure_file.lower().endswith(".pdb")
-    ):
+    # 1) If --structs provided, try to symlink <unique_id>.pdb -> folded_structure.pdb
+    if args.structs:
+        src = os.path.join(args.structs, f"{unique_id}.pdb")
+        if os.path.isfile(src):
+            link = os.path.join(out_dir, "folded_structure.pdb")
+            try:
+                os.symlink(os.path.abspath(src), link)
+                logging.info(
+                    "Symlinked precomputed structure for %s -> %s",
+                    unique_id, link
+                )
+            except FileExistsError:
+                logging.debug("Symlink already present: %s", link)
+            provided_structure_file = link
+        else:
+            logging.info(
+                "No precomputed %s.pdb in %s; will fold/fetch",
+                unique_id, args.structs
+            )
+
+    # 2) If we now have any PDB on disk, split chains & run inference
+    if provided_structure_file and provided_structure_file.lower().endswith(".pdb"):
         chain_files = split_pdb_by_chain(provided_structure_file, out_dir)
         if len(chain_files) > 1:
             logging.warning(
-                "Multiple chains found; model is single-chain but proceeding."
+                "Multiple chains found; processing each separately."
             )
+
         combined_preds = {}
         updated_chain_files = []
 
         for chain, chain_file in chain_files.items():
+            # parse
             seq_chain, residue_info = parse_pdb_to_sequence(chain_file)
             chain_header = header + f"_{chain}"
 
-            emb_acidic, acidic_channel = get_acidic_embedding(
+            # embeddings
+            emb_acidic, acidic_ch = get_acidic_embedding(
                 seq_chain, chain_header, args.acidic
             )
             if args.basic == "esm2":
                 from __main__ import extract_esm2_representation
-                out_b = extract_esm2_representation(
-                    seq_chain, chain_header
-                )
-                emb_basic = out_b["representations"][ESM2_REPR[0]]
+                outb = extract_esm2_representation(seq_chain, chain_header)
+                emb_basic = outb["representations"][ESM2_REPR[0]]
             else:
                 from __main__ import extract_esmc_representation
-                out_b = extract_esmc_representation(
-                    seq_chain, chain_header
-                )
-                emb_basic = out_b["representations"][ESMC_REPR[0]]
+                outb = extract_esmc_representation(seq_chain, chain_header)
+                emb_basic = outb["representations"][ESMC_REPR[0]]
 
-            a_idx, a_info = (
-                get_titratable_indices(residue_info, "acidic"),
-                [
-                    residue_info[i]
-                    for i in get_titratable_indices(
-                        residue_info, "acidic"
-                    )
-                ],
-            )
-            b_idx, b_info = (
-                get_titratable_indices(residue_info, "basic"),
-                [
-                    residue_info[i]
-                    for i in get_titratable_indices(
-                        residue_info, "basic"
-                    )
-                ],
-            )
+            # titratable indices
+            a_idx = get_titratable_indices(residue_info, "acidic")
+            a_info = [residue_info[i] for i in a_idx]
+            b_idx = get_titratable_indices(residue_info, "basic")
+            b_info = [residue_info[i] for i in b_idx]
             emb_a = emb_acidic[a_idx]
             emb_b = emb_basic[b_idx]
 
+            # run ensembles
             logging.info("Running ensemble: acidic (chain %s)...", chain)
-            preds_acidic = run_acidic_inference(
-                emb_a, a_info, acidic_channel, args.nthreads
+            preds_a = run_acidic_inference(
+                emb_a, a_info, acidic_ch, args.nthreads
             )
-
             logging.info("Running ensemble: basic (chain %s)...", chain)
             from __main__ import PRELOADED_BASIC_WEIGHTS
-
-            preds_basic = run_ensemble_inference(
-                emb_b,
-                b_info,
-                "basic",
-                args.nthreads,
+            preds_b = run_ensemble_inference(
+                emb_b, b_info, "basic", args.nthreads,
                 PRELOADED_BASIC_WEIGHTS,
             )
 
+            # merge predictions
             final_preds = {}
             for res in residue_info:
-                rname, rseq, ch_id, seq_index = res
-                uid = f"{rname}_{seq_index}_{ch_id}"
-                if uid in preds_acidic:
-                    final_preds[uid] = preds_acidic[uid]
-                elif uid in preds_basic:
-                    final_preds[uid] = preds_basic[uid]
+                rname, rseq, ch_id, seq_i = res
+                uid = f"{rname}_{seq_i}_{ch_id}"
+                if uid in preds_a:
+                    final_preds[uid] = preds_a[uid]
+                elif uid in preds_b:
+                    final_preds[uid] = preds_b[uid]
                 else:
                     final_preds[uid] = (0.0, 0.0, 0.0)
 
+            # optional CBTREE
             if not args.nocbtree:
-                cbtree = run_cb_tree_channel(
+                cbt = run_cb_tree_channel(
                     chain_file, out_dir, unique_id + f"_{chain}"
                 )
                 for uid, val in final_preds.items():
-                    cbtree_val = cbtree.get(uid, 0.0)
-                    final_preds[uid] = (val[0], val[1], val[2], cbtree_val)
+                    final_preds[uid] = (*val, cbt.get(uid, 0.0))
 
+            # update per-chain PDB
+            updated = chain_file + ".upd.pdb"
+            update_pdb_beta_factors(chain_file, final_preds, updated)
+            updated_chain_files.append(updated)
             combined_preds.update(final_preds)
-            updated_file = chain_file + ".upd.pdb"
-            update_pdb_beta_factors(chain_file, final_preds, updated_file)
-            updated_chain_files.append(updated_file)
 
+        # write out combined CSV + PDB
         csv_out = os.path.join(out_dir, "predictions.csv")
         write_predictions_csv(combined_preds, csv_out)
         combined_pdb = os.path.join(out_dir, "predicted_structure.pdb")
         combine_pdb_files(updated_chain_files, combined_pdb)
-        logging.info("Pipeline done for %s.", unique_id)
+
+        logging.info("Pipeline done for %s using PDB.", unique_id)
         return
 
-    # Single chain or no PDB
+    # 3) No PDB on disk: fold via Forge (or skip if --nofold)
     residue_info = None
     if not provided_structure_file and not args.nofold:
-       # if args.localfold:
-       #     folded = fold_structure(sequence, out_dir)
-       # else:
-        folded = forge_fold_structure(
-            sequence, header, out_dir
-        )
-        #if not args.nopdb:
-        provided_structure_file = (
-            #optimize_side_chains(folded, out_dir)
-            #if args.localfold
-            #else folded
-            folded
-        )
-
-        seq_from_pdb, residue_info = parse_pdb_to_sequence(
-            provided_structure_file
-        )
+        folded = forge_fold_structure(sequence, header, out_dir)
+        provided_structure_file = folded
+        seq_from_pdb, residue_info = parse_pdb_to_sequence(folded)
         if len(seq_from_pdb) != len(sequence):
-            logging.warning("Folded structure mismatch vs input length!")
+            logging.warning("Folded structure length ≠ input sequence!")
+
+    # 4) If still no residue_info (e.g. --nofold + no PDB), fake it from seq
     if residue_info is None:
         residue_info = [
             (aa, str(i + 1), "X", i + 1)
             for i, aa in enumerate(sequence)
         ]
 
-    emb_acidic, acidic_channel_name = get_acidic_embedding(
+    # 5) Single-chain inference on folded/fetched structure
+    emb_acidic, acidic_ch = get_acidic_embedding(
         sequence, header, args.acidic
     )
-
     if args.basic == "esm2":
         from __main__ import extract_esm2_representation
-
-        out_b = extract_esm2_representation(sequence, header)
-        emb_basic = out_b["representations"][ESM2_REPR[0]]
+        outb = extract_esm2_representation(sequence, header)
+        emb_basic = outb["representations"][ESM2_REPR[0]]
     else:
         from __main__ import extract_esmc_representation
+        outb = extract_esmc_representation(sequence, header)
+        emb_basic = outb["representations"][ESMC_REPR[0]]
 
-        out_b = extract_esmc_representation(sequence, header)
-        emb_basic = out_b["representations"][ESMC_REPR[0]]
-
-    a_idx, a_info = (
-        get_titratable_indices(residue_info, "acidic"),
-        [residue_info[i] for i in get_titratable_indices(residue_info, "acidic")],
-    )
-    b_idx, b_info = (
-        get_titratable_indices(residue_info, "basic"),
-        [residue_info[i] for i in get_titratable_indices(residue_info, "basic")],
-    )
+    a_idx = get_titratable_indices(residue_info, "acidic")
+    a_info = [residue_info[i] for i in a_idx]
+    b_idx = get_titratable_indices(residue_info, "basic")
+    b_info = [residue_info[i] for i in b_idx]
     emb_a = emb_acidic[a_idx]
     emb_b = emb_basic[b_idx]
 
     logging.info("Running ensemble: acidic ...")
-    preds_acidic = run_acidic_inference(
-        emb_a, a_info, acidic_channel_name, args.nthreads
+    preds_a = run_acidic_inference(
+        emb_a, a_info, acidic_ch, args.nthreads
     )
-
     logging.info("Running ensemble: basic ...")
     from __main__ import PRELOADED_BASIC_WEIGHTS
-
-    preds_basic = run_ensemble_inference(
-        emb_b, b_info, "basic", args.nthreads, PRELOADED_BASIC_WEIGHTS
+    preds_b = run_ensemble_inference(
+        emb_b, b_info, "basic", args.nthreads,
+        PRELOADED_BASIC_WEIGHTS,
     )
 
+    # merge, optional CBTREE, write CSV & PDB
     final_preds = {}
     for res in residue_info:
-        rname, rseq, ch, seq_index = res
-        uid = f"{rname}_{seq_index}_{ch}"
-        if uid in preds_acidic:
-            final_preds[uid] = preds_acidic[uid]
-        elif uid in preds_basic:
-            final_preds[uid] = preds_basic[uid]
+        rname, rseq, ch, seq_i = res
+        uid = f"{rname}_{seq_i}_{ch}"
+        if uid in preds_a:
+            final_preds[uid] = preds_a[uid]
+        elif uid in preds_b:
+            final_preds[uid] = preds_b[uid]
         else:
             final_preds[uid] = (0.0, 0.0, 0.0)
 
     if not args.nocbtree and provided_structure_file:
-        cbtree = run_cb_tree_channel(
-            provided_structure_file, out_dir, unique_id
-        )
+        cbt = run_cb_tree_channel(provided_structure_file, out_dir, unique_id)
         for uid, val in final_preds.items():
-            cbtree_val = cbtree.get(uid, 0.0)
-            final_preds[uid] = (val[0], val[1], val[2], cbtree_val)
+            final_preds[uid] = (*val, cbt.get(uid, 0.0))
 
     csv_out = os.path.join(out_dir, "predictions.csv")
     write_predictions_csv(final_preds, csv_out)
-
     if provided_structure_file:
         pdb_out = os.path.join(out_dir, "predicted_structure.pdb")
         update_pdb_beta_factors(provided_structure_file, final_preds, pdb_out)
