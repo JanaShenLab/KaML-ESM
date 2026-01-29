@@ -1,124 +1,319 @@
-# KaML-ESM Inference Pipeline
+# KaML: Acid-Base Constant Prediction From Protein Sequence (ESM) or Structure (CBT)
 
-An end-to-end pKa prediction pipeline using state-of-the-art ESM embeddings
-and ensemble MLP inference. Supports single‑sequence, PDB, UniProt and
-multi‑FASTA inputs, with configurable channels.
+Companion repository for:
+-  Shen, Mingzhe*, Dayhoff II, Guy W.*, et al. "Protein Electrostatic Properties are Fine-Tuned Through Evolution." bioRxiv (2025): 2025-09. (https://www.biorxiv.org/content/10.1101/2025.04.17.649309v1)
+-  *shared first-author
 
-## Overview
+## How to cite KaML
 
-KaML‑ESM runs:
-- Embedding extraction (ESM2 or ESMC)
-- Ensemble inference (AcidicMLP & BasicMLP)
-- Structure folding (ESM3-medium)
-- Confomer-based inference (KaML-CBTree)
-- Results export (CSV, beta-factor-labeled PDB, logs)
+If you use the KaML models, command-line interface, or web-based atlas
+in your work, please cite:
 
-## Features
+    Shen, M., Dayhoff II, G.W., et al., 2025. Protein Electrostatic 
+    Properties are Fine-Tuned Through Evolution. bioRxiv (2025)
 
-- **Inputs**:  
-    • `--seq` (raw sequence)  
-    • `--pdb` (local PDB file)  
-    • `--pdbid` (fetch PDB by ID)  
-    • `--uniprot` (fetch UniProt sequence)  
-    • `--fasta` (multi‑FASTA batch)
+    Shen, Mingzhe, et al. "KaMLs for Predicting Protein pKa Values and 
+    Ionization States: Are Trees All You Need?." JCTC 21.3 (2025): 1446-1458.
 
-- **Channels**:  
-    • Acidic: `--acidic` (`esm2` or `esmC`)  
-    • Basic:  `--basic`  (`esm2` or `esmC`)
+BibTeX:
 
-- **Structure**:  
-    • Default: Forge folding* via `ESM_FORGE_TOKEN`  
-    • `--nofold` (do not fold a structure, will disable CBTree unless pdbid/pdb provided)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* in our tests folding takes approximately 20s on average
+    @article{shen2025kamlesm,
+      title={Protein Electrostatic Properties are Fine-Tuned Through Evolution},
+      author={Shen, Mingzhe and Dayhoff II, Guy W and Shen, Jana},
+      journal={bioRxiv},
+      pages={2025--04},
+      year={2025},
+      publisher={Cold Spring Harbor Laboratory}
+    }
 
-- **Safety**:  
-    • `--skip_safety` to bypass ESM safety filter (permission required)  
+    @article{shen2025kamls,
+      title={KaMLs for Predicting Protein p K a Values and Ionization States: Are Trees All You Need?},
+      author={Shen, Mingzhe and Kortzak, Daniel and Ambrozak, Simon and Bhatnagar, Shubham and Buchanan, Ian and Liu, Ruibin and Shen, Jana},
+      journal={Journal of Chemical Theory and Computation},
+      volume={21},
+      number={3},
+      pages={1446--1458},
+      year={2025},
+      publisher={ACS Publications}
+    }
 
-- **CBTREE**:  
-    • Disabled with `--nocbtree` and `--nofold` unless a pdb or pdbID is input 
+## License ## 
+**License** Content © 2025 Mingzhe Shen, Guy W. Dayhoff II and Jana Shen, licensed under
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Unless otherwise noted, this repository’s content is © 2025 Guy W. Dayhoff II (on behalf of all authors) and is licensed under Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0).
+
+Plain English: You may copy, adapt, and share the repository’s content for non-commercial purposes as long as you provide proper attribution. For any commercial use, please contact the authors for permission.
+
+# Web-based Inference and Human proteome-wide pKas
+
+We provide a browser-based KaML interface for both on-demand
+predictions and interactive exploration of a precomputed human
+proteome atlas:
+
+    Home:      https://kaml.computchem.org
+    Atlas:     https://kaml.computchem.org/human
+
+The web tools run the same KaML models described in the manuscript and
+use ESM-2 (`esm2_t33_650M_UR50D`) and/or ESM-C (`esmc-6b-2024-12`) via 
+the EvolutionaryScale Forge API for protein embeddings where on-demand 
+inference is required.
+
+------------------------------------------------------------
+Web-based inference: https://kaml.computchem.org
+------------------------------------------------------------
+
+The web-base interface provides a simple front end to the KaML inference
+pipeline for user-supplied sequences.
+
+Requirements for KaML-ESM2:
+- A modern web browser.
+
+Requirements for KaML-ESMC:
+- An active ESM Forge API token issued by EvolutionaryScale.
+
+The KaML web interface does not issue ESM Forge tokens. Each user must
+obtain and manage their own token directly from EvolutionaryScale.
+
+Obtaining an ESM Forge API token:
+
+1. Visit the EvolutionaryScale Forge site:
+
+       https://forge.evolutionaryscale.ai
+
+2. Sign up or sign in with your account.
+3. In the leftmost menu, under the API header select 'API Keys'
+4. In the textbox with the 'API Key Name' placehold text, name your key, e.g. aipp
+5. Create a new Forge API token and copy the token string.
+
+Treat this token as a secret (similar to a password); do not publish
+or commit it.
+
+Using the token in the KaML web interface:
+
+1. Open:
+
+       https://kaml.computchem.org
+
+2. Select ESMC for either channel, i.e. Acidic or Basic.
+2. Enter your protein sequence, UniProtID, or PDBID-CHAINID into the input box.
+3. Paste your ESM Forge API token into the token field.
+4. Submit to run predictions.
+
+The Forge token is used only to obtain ESM-C embeddings for your
+sequences via the Forge API; KaML then applies the pre-trained KaML-ESMC
+heads to produce residue-level predictions.
+
+Please follow EvolutionaryScale’s terms of use and your institution’s
+policies when requesting, storing, and using Forge API tokens.
+
+------------------------------------------------------------
+Precomputed human proteome-wide atlas: kaml.computchem.org/human
+------------------------------------------------------------
+
+The `/human` view provides interactive access to a precomputed
+KaML “human atlas” of predictions across the human proteome.
+
+Key points:
+
+- Predictions in this atlas were precomputed using the KaML-ESM2 models and
+  ESM-2 embeddings described in the manuscript.
+- Exploration of the atlas (searching, browsing, viewing scores) does
+  not require an ESM Forge token, because no new embeddings or model
+  inference are run client-side.
+- The atlas is intended as a convenient starting point for exploring
+  residue-level predictions without installing local software.
+
+Typical usage:
+
+1. Open:
+
+       https://kaml.computchem.org/human
+
+2. Search or browse for a protein of interest by UniProtKB accession
+   or gene name.
+3. Inspect the per-residue KaML-ESM2 predictions. 
+
+The precomputed human proteome-wide atlas integrates three key types of information, which correspond
+to sections in the web interface:
+
+# Command-line Inference Interface 
+Command-line interface for running KaML-ESM2, KaML-ESMC, and KaML-CBT2 
+residue-level predictions on protein sequences using either ESM-2 or ESM-C
+embeddings and pre-trained weights.
+
+---
+
+## Repository layout
+
+- kamlCLI.py
+  Main command-line interface.
+
+- env/wizard.sh
+  Simple installation wizard that creates a Python virtual environment,
+  installs dependencies, and downloads pretrained weights from Zenodo.
+
+- env/wts/
+  Default location for model weight directories. The CLI expects
+  task-specific subdirectories here (i.e. esm2, esmC, cbt2).
+
+---
 
 ## Requirements
 
-- Python 3.10+
-- Internet (for Forge API, UniProt, PDB fetch)
-- Python packages described in: env/KaML-ESM_env.txt
+- NVIDIA GPU with >= 24GB VRAM (e.g. RTX 4090)
+- 40 GB disk space
+- 128 GB system memory
+- Python 3.10 or newer
+- POSIX-like environment (Linux / macOS)
+- Packages:
+  - numpy
+  - torch
+  - esm
+  - tqdm
+  - httpx
+  - colorama
 
-## Environment Setup
+You can install these manually:
 
-Use the script in `env/` for venv:
+    pip install numpy torch esm tqdm colorama httpx
 
-    cd env
-    ./setup_envs.sh venv
+or use the provided wizard.
 
-This creates a Python 3.10.12 environment, installs dependencies, and
-adds `bin/` to your `PATH`.
+---
 
-## ESM Forge Token
+## Installation
 
-KaML‑ESM requires `ESM_FORGE_TOKEN` for Forge and ESMC:
+Clone the repository:
 
-    export ESM_FORGE_TOKEN=$(cat path/to/forge_token.txt)
+    git clone https://github.com/JanaShenLab/KaML-ESM.git
+    cd KaML-ESM_v1
 
-Keep this token private.
+Run the installation wizard:
 
-## Usage Examples
+    bash env/wizard.sh
 
-Single sequence:
+The wizard:
 
-    kaml-esm --seq "MEEPQSDPSV..." --outdir results/seq1
+- creates a virtual environment named "AiPP"
+- activates it
+- upgrades pip
+- installs core Python dependencies
+- is the place to add commands to download weights from Zenodo into
+  env/wts/
 
-Fetch by UniProt:
+To re-activate the environment later:
 
-    kaml-esm --uniprot P04637 --outdir results/p53
+    source KaML/bin/activate
 
-Fetch PDB:
+---
 
-    kaml-esm --pdbid 1CRN --outdir results/1crn
+## Weights
 
-Multi‑FASTA:
+By default, kamlCLI.py looks for model weights under:
 
-    kaml-esm --fasta proteins.fasta --nproc 4 --outdir results/all
+    env/wts/
 
-Skip safety filter (requires permission):
+with task-specific subdirectories (for example):
 
-    kaml-esm --seq "MEEPQSDPSV..." --skip_safety
+- env/wts/esm2
+- env/wts/esmC
+- env/wts/cbt2
 
-Skip structure folding:
+You can override the root directory for weights with:
 
-    kaml-esm --seq "MEEPQSDPSV..." --nofold
+    export KAML_WTS_DIR=/path/to/wts
 
-Disable CBTREE:
+and the CLI will use that directory instead of env/wts/.
 
-    kaml-esm --seq "MEEPQSDPSV..." --nocbtree
+---
 
-## Outputs
+## Forge token
 
-Default `--outdir` is `output/`, containing:
+NOTE: This section ONLY pertains to KaML-ESMC models.
 
-- `predictions.csv`  — per‑residue pKa, shift, error, optional CBTREE  
-- `predicted_structure.pdb`  — updated B‑factors in PDB  
-- `pipeline.log`  — debug/info log  
-- subfolders for multi‑FASTA runs  
+The CLI requires an ESM Forge token to compute ESM-C embeddings.
 
-## Code Layout
+- To obtain an ESM Forge token see Web-based inference.
 
-    bin/kaml-esm            # main CLI script
-    bin/kaml-cbtree         # KaML-CBtree helper script
-    bin/rida                # rida binary (req. by CBtree)
-    bin/mkdssp              # dssp binary (req. by CBtree)
-    env/setup_envs.sh       # env setup for python virtual enviroment (venv)
-    src/plmpg/esm2          # vendored ESM2 code
-    wts/                    # pretrained weights
-    README.md               # this file
+Token handling:
 
-## Citation
+1. First run:
+   - Provide a token via --forge-token, either as the raw string or a
+     path to a file that contains the token.
+   - The token is cached to a user-level file (by default:
+     ~/.aipp_forge_token).
 
-If you use KaML‑ESM, please cite:
+2. Subsequent runs:
+   - If --forge-token is omitted, the cached token is used.
+   - If no cached token exists, the CLI will prompt for one
+     interactively (input is hidden) and then cache it.
 
-> Protein Electrostatic Properties are Fine‑Tuned Through Evolution  
-> Shen M., Dayhoff II G.W., Shen J. 2025 (In‑Review)
+You can override the cache location with:
 
-## License
+    export KAML_FORGE_TOKEN_FILE=/path/to/token_file
 
-MIT License
+---
 
+## Basic usage
+
+Activate the environment:
+
+    source KaML/bin/activate
+
+Run a single sequence:
+
+    python kamlCLI.py \
+      --sequence "ACDEFGHIKLMNPQRSTVWY" \
+      --id example1 \
+      --forge-token /path/to/forge_token.txt
+
+Run multiple sequences from a FASTA file:
+
+    python kamlCLI.py \
+      --fasta proteins.fasta \
+      --forge-token /path/to/forge_token.txt
+
+If a token has already been cached, you can omit --forge-token and the
+CLI will reuse the saved token or prompt for one if needed.
+
+---
+
+## Output
+
+By default, per-residue predictions are printed as a tab-separated
+table to standard output.
+
+To write the table to a file:
+
+    python kamlCLI.py \
+      --sequence "MQLKPMEINPEMLNKVLSRLGVAGQWRFVDVLGLEEESLGSVPAPACALLLLFPLTAQHENFRKKQIEELKGQEVSPKVYFMKQTIGNSCGTIGLIHAVANNQDKLGFEDGSVLKQFLSETEKMSPEDRAKCFEKNEAIQAAHDAVAQEGQCRVDDKVNFHFILFNNVDGHLYELDGRMPFPVNHGASSEDTLLKDAAKVCREFTEREQGEVRFSAVALCKAA" \
+      --id uchl1 \
+      --out uchl1.tsv
+
+At the end of the run you will see:
+
+    output written to: results.tsv
+
+The first line of the file is a header:
+
+    Residue_ID    Pred_pKa  Pred_Shift     Error
+    ...
+
+Each subsequent line corresponds to a residue position.
+
+---
+
+## Reproducibility
+
+The CLI echoes the full command line used to invoke it immediately
+after the splash screen. This makes it straightforward to record and
+reproduce runs from logs or publications.
+
+------------------------------------------------------------
+# Archived artifacts (immutable, citable)
+
+Pre-trained Ensemble Weights:
+- **KaML-ESM2 ensemble weights v1.0.0 (Zenodo)** — DOI: `https://doi.org/10.5281/zenodo.17943825`
+- **KaML-ESMC ensemble weights v1.0.0 (Zenodo)** — DOI: `https://doi.org/10.5281/zenodo.17943447`
+- **KaML-CBT2 weights v1.0.0 (Zenodo)** - DOI: `https://doi.org/10.5281/zenodo.17943947`
