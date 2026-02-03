@@ -203,7 +203,7 @@ The wizard:
 
 To re-activate the environment later:
 
-    source KaML/bin/activate
+    source activate
 
 ---
 
