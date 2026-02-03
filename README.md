@@ -219,7 +219,7 @@ with task-specific subdirectories (for example):
 
 You can override the root directory for weights with:
 
-    export KAML_WTS_DIR=/path/to/wts
+    export KAML_WTS_DIR=$(path_to)/wts
 
 and the CLI will use that directory instead of env/wts/.
 
@@ -248,7 +248,7 @@ Token handling:
 
 You can override the cache location with:
 
-    export KAML_FORGE_TOKEN_FILE=/path/to/token_file
+    export KAML_FORGE_TOKEN_FILE=$(path_to)/token_file
 
 ---
 
@@ -256,7 +256,7 @@ You can override the cache location with:
 
 Activate the environment:
 
-    source KaML/bin/activate
+    source activate
 
 Run a single sequence:
 
