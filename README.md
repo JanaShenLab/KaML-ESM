@@ -254,43 +254,173 @@ You can override the cache location with:
 
 ## Basic usage
 
-Activate the environment:
+### Activate the environment
 
-    source activate
+```bash
+source env/KaML/bin/activate
+```
 
-Run a single sequence:
+### CLI help (all options)
 
-    python kamlCLI.py \
-      --sequence "ACDEFGHIKLMNPQRSTVWY" \
-      --id example1 \
-      --forge-token /path/to/forge_token.txt
+```bash
+python kamlCLI.py --help
+```
 
-Run multiple sequences from a FASTA file:
+### Forge token requirement (important)
 
-    python kamlCLI.py \
-      --fasta proteins.fasta \
-      --forge-token /path/to/forge_token.txt
+If you do **not** pass `--nofold`, KaML may need to fold a structure. Folding uses **ESM Forge**, so you must have a Forge token available (via `--forge-token` or the cached token mechanism) **unless** you provide a structure:
 
-If a token has already been cached, you can omit --forge-token and the
-CLI will reuse the saved token or prompt for one if needed.
+- Provide a structure directly: `--pdb ...` or `--pdbid ...`
+- Or provide a precomputed structure directory: `--structs ...` containing `<unique_id>.pdb`
+
+> Practical rule: If you are running on `--seq`, `--uniprot`, or `--fasta` and you **don’t** pass `--nofold`, you should assume a Forge token is required unless you are sure a matching structure will be found via `--structs`.
 
 ---
 
+### Inputs (choose exactly one)
+
+- `--seq <AASEQ>` : amino-acid sequence string
+- `--uniprot <UNIPROT_ID>` : fetch sequence from UniProt
+- `--pdb <PATH>` : use a local PDB file
+- `--pdbid <PDB_ID>` : fetch a PDB from RCSB
+- `--fasta <PATH>` : process a multi-FASTA file (one output subdir per record)
+
+---
+
+### Common options
+
+- `--outdir <DIR>` : output directory (default: `output/`)
+- `--structs <DIR>` : directory of precomputed structures; KaML looks for `<unique_id>.pdb` here before folding
+- `--nofold` : skip folding (sequence-only inference when no structure is provided)
+- `--nproc <INT>` : parallel workers for multi-FASTA (default: 1)
+- `--nthreads <INT>` : threads per sequence for ensemble inference (default: 1)
+- `--acidic {esm2,esmC}` : acidic channel model preference (default: `esm2`)
+- `--basic  {esm2,esmC}` : basic channel model (default: `esm2`)
+- `--nocbtree` : skip CBTree2 predictions
+- `--debug` : enable debug logging
+- `--skip_safety` : skip Forge safety filter (requires permission)
+- `--forge-token <TOKEN_OR_FILE>` : Forge token string or a path to a file containing it (used/cached when Forge is needed)
+
+---
+
+### Examples
+
+#### 1) Single sequence, **no folding** (no Forge required)
+
+```bash
+python kamlCLI.py \\
+--seq "ACDEFGHIKLMNPQRSTVWY" \\
+--nofold \\
+--outdir output
+```
+
+#### 2) Single sequence, **fold via Forge** (Forge token required)
+
+```bash
+python kamlCLI.py \\
+--seq "ACDEFGHIKLMNPQRSTVWY" \\
+--forge-token /path/to/forge_token.txt \\
+--outdir output
+```
+
+#### 3) Provide a structure explicitly (no folding; no Forge required)
+
+```bash
+python kamlCLI.py \\
+--pdb /path/to/structure.pdb \\
+--outdir output
+```
+
+#### 4) Fetch a structure by PDB ID (no folding; no Forge required)
+
+```bash
+python kamlCLI.py \\
+--pdbid 1ABC \\
+--outdir output
+```
+
+#### 5) Multi-FASTA, **no folding** (no Forge required)
+
+```bash
+python kamlCLI.py \\
+--fasta proteins.fasta \\
+--nofold \\
+--nproc 4 \\
+--outdir output
+```
+
+#### 6) Multi-FASTA, **fold via Forge** (Forge token required unless `--structs` covers every record)
+
+```bash
+python kamlCLI.py \\
+--fasta proteins.fasta \\
+--nproc 4 \\
+--forge-token /path/to/forge_token.txt \\
+--outdir output
+```
+
+#### 7) Multi-FASTA using precomputed structures (no folding if every `<unique_id>.pdb` exists)
+
+```bash
+python kamlCLI.py \\
+--fasta proteins.fasta \\
+--structs /path/to/structs_dir \\
+--nproc 4 \\
+--outdir output
+```
+
+#### 8) Prefer ESM-C embeddings (Forge token required)
+
+```bash
+python kamlCLI.py \\
+--seq "ACDEFGHIKLMNPQRSTVWY" \\
+--nofold \\
+--basic esmC \\
+--acidic esmC \\
+--forge-token /path/to/forge_token.txt \\
+--outdir output
+```
+
+#### 9) Disable CBTree2
+
+```bash
+python kamlCLI.py \\
+--seq "ACDEFGHIKLMNPQRSTVWY" \\
+--nofold \\
+--nocbtree \\
+--outdir output
+```
+
 ## Output
 
-By default, per-residue predictions are printed as a tab-separated
-table to standard output.
+KaML writes outputs to an output directory (default: `./output/`). It does **not** print a tab-separated prediction table to standard output.
 
-To write the table to a file:
+You control the output location with `--outdir`:
 
-    python kamlCLI.py \
-      --sequence "MQLKPMEINPEMLNKVLSRLGVAGQWRFVDVLGLEEESLGSVPAPACALLLLFPLTAQHENFRKKQIEELKGQEVSPKVYFMKQTIGNSCGTIGLIHAVANNQDKLGFEDGSVLKQFLSETEKMSPEDRAKCFEKNEAIQAAHDAVAQEGQCRVDDKVNFHFILFNNVDGHLYELDGRMPFPVNHGASSEDTLLKDAAKVCREFTEREQGEVRFSAVALCKAA" \
-      --id uchl1 \
-      --out uchl1.tsv
+```bash
+python kamlCLI.py \\
+--seq "MQLKPMEINPEMLNKVLSRLGVAGQWRFVDVLGLEEESLGSVPAPACALLLLFPLTAQHENFRKKQIEELKGQEVSPKVYFMKQTIGNSCGTIGLIHAVANNQDKLGFEDGSVLKQFLSETEKMSPEDRAKCFEKNEAIQAAHDAVAQEGQCRVDDKVNFHFILFNNVDGHLYELDGRMPFPVNHGASSEDTLLKDAAKVCREFTEREQGEVRFSAVALCKAA" \\
+--nofold \\
+--outdir output
+```
 
-At the end of the run you will see:
+### Output files
 
-    output written to: results.tsv
+For a single sequence run, KaML writes:
+
+- `<outdir>/predictions.csv`
+- `<outdir>/predicted_structure.pdb` (only if a structure was provided or generated)
+
+For multi-FASTA runs (`--fasta`), KaML creates one subdirectory per sequence under `<outdir>/`, using `<unique_id>` from the FASTA header (first whitespace-delimited token), and writes the same files inside each subdirectory.
+
+### Notes
+
+- If you do **not** pass `--nofold` and you do not provide a structure (`--pdb`, `--pdbid`, or `--structs`), KaML will attempt to fold via ESM Forge (Forge token required).
+- At the end of the run, KaML prints a completion message indicating the output directory, e.g.:
+
+```text
+KaML run complete. Outputs written to ./output/
+```
 
 The first line of the file is a header:
 
