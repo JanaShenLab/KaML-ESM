@@ -154,7 +154,7 @@ embeddings and pre-trained weights.
 
 - env/wts/
   Default location for model weight directories. The CLI expects
-  task-specific subdirectories here (i.e. esm2, esmC, cbt2).
+  task-specific subdirectories here (i.e. esm2, esmC, CBtree2).
 
 ---
 
@@ -170,9 +170,10 @@ embeddings and pre-trained weights.
 You can install these manually:
 
     pip install -r env/KaML-ESM_env.txt
-    note: if you do a manual installation, you must add $(project_root)/bin to your PATH variable.
 
-or use the provided wizard.
+note: if you do a manual installation, you must add $(project_root)/bin to your PATH variable.
+
+alternatively (recommended): use the provided wizard.
 
 ---
 
