@@ -169,7 +169,7 @@ embeddings and pre-trained weights.
 
 You can install these manually:
 
-    pip install -r env/KaML-ESM_env.txt
+    pip install -r $(path_to)/KaML-ESM_env.txt
 
 note: if you do a manual installation, you must add $(project_root)/bin to your PATH variable.
 
