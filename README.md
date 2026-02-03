@@ -82,7 +82,7 @@ Obtaining an ESM Forge API token:
 
 2. Sign up or sign in with your account.
 3. In the leftmost menu, under the API header select 'API Keys'
-4. In the textbox with the 'API Key Name' placehold text, name your key, e.g. aipp
+4. In the textbox with the 'API Key Name' placehold text, name your key, e.g. esm
 5. Create a new Forge API token and copy the token string.
 
 Treat this token as a secret (similar to a password); do not publish
@@ -194,7 +194,7 @@ Run the installation wizard:
 
 The wizard:
 
-- creates a virtual environment named "AiPP"
+- creates a virtual environment named "KaML"
 - activates it
 - upgrades pip
 - installs core Python dependencies
@@ -241,7 +241,7 @@ Token handling:
    - Provide a token via --forge-token, either as the raw string or a
      path to a file that contains the token.
    - The token is cached to a user-level file (by default:
-     ~/.aipp_forge_token).
+     ~/.esm_forge_token).
 
 2. Subsequent runs:
    - If --forge-token is omitted, the cached token is used.

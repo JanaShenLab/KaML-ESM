@@ -3,10 +3,10 @@
 #installation wizard 
 
 #create python venv
-python3 -m venv KaML-ESM
+python3 -m venv env/KaML
 
 #activate it
-source KaML-ESM/bin/activate
+source env/KaML/bin/activate
 
 #update pip
 pip install -U pip
@@ -15,25 +15,28 @@ pip install -U pip
 pip install numpy torch esm tqdm httpx colorama
 
 #download wts from zenodo
-cd wts
+mkdir env/wts
+cd env/wts
 
 #KaML-ESM2
 echo "Fetching ESM2 weights: this could take a few minutes"
 wget https://zenodo.org/records/18397706/files/esm2.tar.gz
 echo "Extracting ESM2 weights: this could take a few minutes"
-tar -xJf esm2.tar.xz
+tar -xf esm2.tar.gz
 
 #KaML-ESMC
 echo "Fetching ESMC weights: this could take a few minutes"
 wget https://zenodo.org/records/18407675/files/esmC.tar.gz
 echo "Extracting ESMC weights: this could take a few minutes"
-tar -xJf esmC.tar.gz
+tar -xf esmC.tar.gz
+mv home/wayyne/lab/kaml/wts/esmC .
+rm -rf home/wayyne/lab/kaml/wts
 
 #CBTree2
 echo "Fetching CBtree2 weights: this could take a few minutes"
 wget https://zenodo.org/records/18392532/files/CBtree2.tar.gz
 echo "Extracting CBtree2 weights: this could take a few minutes"
-tar -xJf CBtree2.tar.xz
+tar -xf CBtree2.tar.gz
 
 #housekeeping
 echo "Peforming housekeeping"

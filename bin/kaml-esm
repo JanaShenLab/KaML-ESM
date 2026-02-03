@@ -92,11 +92,11 @@ THREE_TO_ONE = {
 ONE_TO_THREE = {v: k for k, v in THREE_TO_ONE.items()}
 
 # For toggling acidic channel if seq > 1022
-ACIDIC_MODEL_DIR      = "wts/esm2/acidic"
-BASIC_MODEL_DIR       = "wts/esmC/basic"
-CBTREE_MODEL_DIR      = "wts/CBtree"
-ACIDIC_MODEL_DIR_ESM2 = "wts/esm2/acidic"
-ACIDIC_MODEL_DIR_ESMC = "wts/esmC/acidic"
+ACIDIC_MODEL_DIR      = "env/wts/esm2/acidic"
+BASIC_MODEL_DIR       = "env/wts/esm2/basic"
+CBTREE_MODEL_DIR      = "env/wts/CBtree2"
+ACIDIC_MODEL_DIR_ESM2 = "env/wts/esm2/acidic"
+ACIDIC_MODEL_DIR_ESMC = "env/wts/esmC/acidic"
 
 PRELOADED_ACIDIC_WEIGHTS      = {}
 PRELOADED_BASIC_WEIGHTS       = {}
@@ -1438,11 +1438,11 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     root_dir   = os.path.abspath(os.path.join(script_dir, os.pardir))
     # override default with user inputs (now relative to repo root)
-    ACIDIC_MODEL_DIR      = os.path.join(root_dir, "wts", args.acidic, "acidic")
-    BASIC_MODEL_DIR       = os.path.join(root_dir, "wts", args.basic,  "basic")
-    ACIDIC_MODEL_DIR_ESM2 = os.path.join(root_dir, "wts", "esm2",   "acidic")
-    ACIDIC_MODEL_DIR_ESMC = os.path.join(root_dir, "wts", "esmC",   "acidic")
-    CBTREE_MODEL_DIR      = os.path.join(root_dir, "wts", "CBtree")
+    ACIDIC_MODEL_DIR      = os.path.join(root_dir, "env/wts", args.acidic, "acidic")
+    BASIC_MODEL_DIR       = os.path.join(root_dir, "env/wts", args.basic,  "basic")
+    ACIDIC_MODEL_DIR_ESM2 = os.path.join(root_dir, "env/wts", "esm2",   "acidic")
+    ACIDIC_MODEL_DIR_ESMC = os.path.join(root_dir, "env/wts", "esmC",   "acidic")
+    CBTREE_MODEL_DIR      = os.path.join(root_dir, "env/wts", "CBtree2")
 
     GLOBAL_MLP_CLASSES["acidic"]      = AcidicMLP if args.acidic == "esm2" else BasicMLP
     GLOBAL_MLP_CLASSES["basic"]       = AcidicMLP if args.basic  == "esm2" else BasicMLP
