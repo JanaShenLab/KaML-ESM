@@ -1551,14 +1551,21 @@ def main():
     global PRELOADED_ACIDIC_WEIGHTS_ESM2, PRELOADED_ACIDIC_WEIGHTS_ESMC
     global GLOBAL_MLP_CLASSES
 
-    # make all wts paths relative to the script location, not cwd
+    # make all wts paths relative to the working directory unless overridden
     root_dir = os.path.abspath(os.getcwd())
-    # override default with user inputs (now relative to repo root)
-    ACIDIC_MODEL_DIR      = os.path.join(root_dir, "env/wts", args.acidic, "acidic")
-    BASIC_MODEL_DIR       = os.path.join(root_dir, "env/wts", args.basic,  "basic")
-    ACIDIC_MODEL_DIR_ESM2 = os.path.join(root_dir, "env/wts", "esm2",   "acidic")
-    ACIDIC_MODEL_DIR_ESMC = os.path.join(root_dir, "env/wts", "esmC",   "acidic")
-    CBTREE_MODEL_DIR      = os.path.join(root_dir, "env/wts", "CBtree2")
+
+    # Allow override of the weights root directory
+    # Default: <cwd>/env/wts
+    wts_root = os.environ.get("KAML_WTS_DIR", os.path.join(root_dir, "env", "wts"))
+    if not os.path.isabs(wts_root):
+        wts_root = os.path.abspath(os.path.join(root_dir, wts_root))
+
+    # weights live under: <wts_root>/{esm2,esmC,CBtree2}/{acidic,basic}
+    ACIDIC_MODEL_DIR      = os.path.join(wts_root, args.acidic, "acidic")
+    BASIC_MODEL_DIR       = os.path.join(wts_root, args.basic,  "basic")
+    ACIDIC_MODEL_DIR_ESM2 = os.path.join(wts_root, "esm2", "acidic")
+    ACIDIC_MODEL_DIR_ESMC = os.path.join(wts_root, "esmC", "acidic")
+    CBTREE_MODEL_DIR      = os.path.join(wts_root, "CBtree2")
 
     GLOBAL_MLP_CLASSES["acidic"]      = AcidicMLP if args.acidic == "esm2" else BasicMLP
     GLOBAL_MLP_CLASSES["basic"]       = AcidicMLP if args.basic  == "esm2" else BasicMLP

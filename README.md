@@ -165,17 +165,12 @@ embeddings and pre-trained weights.
 - 128 GB system memory
 - Python 3.10 or newer
 - POSIX-like environment (Linux / macOS)
-- Packages:
-  - numpy
-  - torch
-  - esm
-  - tqdm
-  - httpx
-  - colorama
+- Packages: $(project_root)/env/KaML-ESM_env.txt
 
 You can install these manually:
 
-    pip install numpy torch esm tqdm colorama httpx
+    pip install -r env/KaML-ESM_env.txt
+    note: if you do a manual installation, you must add $(project_root)/bin to your PATH variable.
 
 or use the provided wizard.
 
@@ -215,9 +210,11 @@ By default, kamlCLI.py looks for model weights under:
 
 with task-specific subdirectories (for example):
 
-- env/wts/esm2
-- env/wts/esmC
-- env/wts/cbt2
+- env/wts/esm2/acidic
+- env/wts/esm2/basic
+- env/wts/esmC/acidic
+- env/wts/esmC/basic
+- env/wts/CBtree2
 
 You can override the root directory for weights with:
 
@@ -296,10 +293,10 @@ At the end of the run you will see:
 
 The first line of the file is a header:
 
-    Residue_ID    Pred_pKa  Pred_Shift     Error
+    Residue_ID    Pred_pKa  Pred_Shift     Error  Conf_pKa
     ...
 
-Each subsequent line corresponds to a residue position.
+Each subsequent line corresponds to a residue position. Note: Conf_pKa only present when CBTree2 has been invoked.
 
 ---
 
