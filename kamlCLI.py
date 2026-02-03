@@ -28,6 +28,7 @@ import tempfile
 import logging
 import statistics
 import time
+import getpass
 import gc
 import traceback
 from concurrent.futures import ProcessPoolExecutor, as_completed
@@ -43,6 +44,111 @@ warnings.filterwarnings(
 )
 warnings.simplefilter("ignore", FutureWarning)
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+# -------- Forge token cache (mirrors AiPP behavior) --------
+TOKEN_FILE = os.environ.get(
+    "KAML_FORGE_TOKEN_FILE",
+    os.path.join(os.path.expanduser("~"), ".kaml_forge_token"),
+)
+
+
+def load_saved_token(path):
+    try:
+        with open(path, "r") as f:
+            token = f.read().strip()
+        return token or None
+    except FileNotFoundError:
+        return None
+
+
+def save_token(path, token):
+    directory = os.path.dirname(path)
+    if directory:
+        os.makedirs(directory, exist_ok=True)
+    with open(path, "w") as f:
+        f.write(token.strip() + "\n")
+
+
+def get_forge_token(token_arg):
+    """
+    If token_arg is a path to a file, read the token from that file.
+    Otherwise treat token_arg as the token string itself.
+    """
+    if os.path.isfile(token_arg):
+        with open(token_arg, "r") as f:
+            token = f.read().strip()
+        return token
+    return token_arg.strip()
+
+
+def needs_forge_token(args):
+    # Any ESMC usage requires Forge
+    if getattr(args, "basic", "esm2") != "esm2":
+        return True
+    if getattr(args, "acidic", "esm2") != "esm2":
+        return True
+
+    # Folding via Forge is used when we don't have a structure input and --nofold is not set
+    if not getattr(args, "nofold", False):
+        if getattr(args, "seq", None) or getattr(args, "uniprot", None) or getattr(args, "fasta", None):
+            return True
+
+    return False
+
+
+def ensure_forge_token(args):
+    """
+    Resolution order (AiPP-style):
+      1) --forge-token (string or file path), then cache
+      2) cached TOKEN_FILE
+      3) prompt (getpass), then cache
+
+    Once resolved, sets os.environ["ESM_FORGE_TOKEN"] and args.forge_token_resolved.
+    """
+    if getattr(args, "forge_token", None):
+        forge_token = get_forge_token(args.forge_token)
+        try:
+            save_token(TOKEN_FILE, forge_token)
+            print(f"Saved Forge token to {TOKEN_FILE}", file=sys.stderr)
+        except OSError as e:
+            print(
+                f"Warning: could not save Forge token to {TOKEN_FILE}: {e}",
+                file=sys.stderr,
+            )
+    else:
+        forge_token = load_saved_token(TOKEN_FILE)
+        if forge_token:
+            print(f"Using Forge token from {TOKEN_FILE}", file=sys.stderr)
+        else:
+            print(
+                "No Forge token provided on the command line and none "
+                f"found in {TOKEN_FILE}.",
+                file=sys.stderr,
+            )
+            try:
+                token_in = getpass.getpass(
+                    "Please enter a Forge token (input hidden, will be cached): "
+                ).strip()
+            except (EOFError, KeyboardInterrupt):
+                raise SystemExit("No Forge token provided; aborting.")
+
+            if not token_in:
+                raise SystemExit("Empty Forge token provided; aborting.")
+
+            forge_token = token_in
+            try:
+                save_token(TOKEN_FILE, forge_token)
+                print(f"Saved Forge token to {TOKEN_FILE}", file=sys.stderr)
+            except OSError as e:
+                print(
+                    f"Warning: could not save Forge token to {TOKEN_FILE}: {e}",
+                    file=sys.stderr,
+                )
+
+    os.environ["ESM_FORGE_TOKEN"] = forge_token
+    args.forge_token_resolved = forge_token
+    return forge_token
+
 
 # -------- Global Extraction Parameters --------
 ESM2_MODEL = "esm2_t33_650M_UR50D"
@@ -235,6 +341,19 @@ def parse_args():
         action="store_true",
         help="Skip safety filter (ESM permission required)"
     )
+
+    p.add_argument(
+        "--forge-token",
+        type=str,
+        default=None,
+        help=(
+            "Either the Forge token string, or a path to a file containing the token. "
+            "If omitted, a cached token from $KAML_FORGE_TOKEN_FILE "
+            "(default: ~/.kaml_forge_token) will be used; if none exists, "
+            "you will be prompted and the token will be cached."
+        ),
+    )
+
     # TODO: finishing this sometime, but esm3-open has a small len limit soo...eh
     # p.add_argument("--localfold", action="store_true",
     #                help="Use local folding (esm3-open + SCWRL4)")
@@ -1316,6 +1435,9 @@ def process_one_sequence_in_parallel(record, args):
     import sys
     import os
 
+    if getattr(args, "forge_token_resolved", None):
+        os.environ["ESM_FORGE_TOKEN"] = args.forge_token_resolved
+
     header, sequence = record
     unique_id = header.split()[0].lstrip(">")
 
@@ -1420,13 +1542,8 @@ def main():
     setup_logging(log_file, debug=args.debug)
     logging.info("Starting KaML-ESM pipeline...")
 
-    if args.nofold is not True and args.basic != "esm2":
-      token = os.getenv("ESM_FORGE_TOKEN")
-      if token is None or len(token) == 0:
-        logging.error("ESM_FORGE_TOKEN not set.")
-        print("Alas, you must set the environmental variable ESM_FORGE_TOKEN before running.")
-        print("      e.g. export ESM_FORGE_TOKEN=<your_esm_forge_token>\n")
-        sys.exit(1)
+    if needs_forge_token(args):
+        ensure_forge_token(args)
 
     global ACIDIC_MODEL_DIR, BASIC_MODEL_DIR, CBTREE_MODEL_DIR
     global ACIDIC_MODEL_DIR_ESM2, ACIDIC_MODEL_DIR_ESMC
@@ -1435,8 +1552,7 @@ def main():
     global GLOBAL_MLP_CLASSES
 
     # make all wts paths relative to the script location, not cwd
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    root_dir   = os.path.abspath(os.path.join(script_dir, os.pardir))
+    root_dir = os.path.abspath(os.getcwd())
     # override default with user inputs (now relative to repo root)
     ACIDIC_MODEL_DIR      = os.path.join(root_dir, "env/wts", args.acidic, "acidic")
     BASIC_MODEL_DIR       = os.path.join(root_dir, "env/wts", args.basic,  "basic")
