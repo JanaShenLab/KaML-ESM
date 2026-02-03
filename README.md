@@ -431,12 +431,6 @@ Each subsequent line corresponds to a residue position. Note: Conf_pKa only pres
 
 ---
 
-## Reproducibility
-
-The CLI echoes the full command line used to invoke it immediately
-after the splash screen. This makes it straightforward to record and
-reproduce runs from logs or publications.
-
 ------------------------------------------------------------
 # Archived artifacts (immutable, citable)
 
