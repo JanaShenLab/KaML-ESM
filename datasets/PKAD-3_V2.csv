@@ -1,0 +1,1805 @@
+PDB_ID,Chain,Res_Name,resid,Expt_pKa,Uniprot_ID,uni_resid,Ref,note
+1BG8,A,D,47,4.1,P0AES9,68,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+1KQV,A,D,47,3,P02633,51,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+5IIF,A,D,62,8.7,P00644,144,,Δ+PHS T62D
+2M5S,A,D,246,4.2,P26747,246,https://www.sciencedirect.com/science/article/pii/S0021925820408749?via%3Dihub,/
+5DEH,A,D,100,6.9,P00644,182,,Δ+PHS N100D
+1HPX,A,D,29,3.19,P03367,529,https://pubs.acs.org/doi/10.1021/bi961268z,/
+2CI2,I,D,74,5,P01053,75,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+3FX5,B,D,129,3.65,P03367,529,https://pubs.acs.org/doi/10.1021/bi961268z,/
+1IG5,A,D,47,3.04,P02633,51,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1LSE,A,D,119,3.2,P00698,137,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1W4H,A,D,145,3.71,P0AFG6,128,https://www.sciencedirect.com/science/article/pii/S0022283610009423?via%3Dihub,/
+1TRW,A,D,58,2.8,P10599,58,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1FNA,A,D,67,4.2,P02751,1604,https://pubs.acs.org/doi/abs/10.1021/bi010916y,/
+5J1Z,A,D,90,7.5,P00644,172,,Δ+PHS A90D
+1CA5,A,D,16,2.89,P13123,16,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2IGD,A,D,51,3.6,P06654,342,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1QT8,A,D,47,3.1,P00720,47,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1CX6,A,D,72,3.5,P00720,72,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+1LNI,A,D,33,2.39,P05798,33,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1LYS,A,D,119,3.2,P00698,137,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+Swiss,A,D,98,6.87,Q6J4G7,98,/,A178S
+4LZT,A,D,119,3.2,P00698,137,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1ERT,A,D,58,3.1,P10599,58,https://pubs.acs.org/doi/abs/10.1021/bi00128a019,reduced form
+1A2P,A,D,54,2.2,P00648,101,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+3ICB,A,D,47,3.04,P02633,51,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+2IGH,A,D,51,3.6,P06654,342,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1IGV,A,D,47,3.04,P02633,51,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+3RN3,A,D,53,3.9,P61823,79,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1UBQ,A,D,32,3.8,P0CG48,640,https://pubs.acs.org/doi/10.1021/bi025571d,/
+1IGD,A,D,51,3.6,P06654,342,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2SNI,I,D,74,5,P01053,75,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1AZP,A,D,16,2.89,P13123,16,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+3FX5,A,D,29,3.19,P03367,529,https://pubs.acs.org/doi/10.1021/bi961268z,/
+1KSM,A,D,47,3,P02633,51,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1QT8,A,D,92,2.7,P00720,92,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+2LZT,A,D,119,3.2,P00698,137,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1SAP,A,D,16,2.89,P13123,16,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1XNB,A,D,83,2,P09850,111,https://www.ncbi.nlm.nih.gov/pubmed/9416621,/
+4LDS,A,D,22,8.5,A0A0H2VG78,22,https://www.sciencedirect.com/science/article/pii/S0021925817503592?via%3Dihub,/
+AADAA,A,D,3,3.7,AADAA,3,model_compound,/
+1IWG,A,D,408,7.4,P31224,408,https://pubs.acs.org/doi/10.1021/bi900446j,/
+4ICB,A,D,47,3.04,P02633,51,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1SSO,A,D,34,2.16,P61991,35,https://www.nature.com/articles/nsb1194-808,/
+1IGC,A,D,51,3.6,P06654,342,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2M5S,A,E,323,3.6,P26747,323,https://www.sciencedirect.com/science/article/pii/S0021925820408749?via%3Dihub,/
+1I0V,A,E,31,5.36,P00651,57,https://link.springer.com/article/10.1007/s002490100138,/
+1HV1,A,E,172,7.2,P09850,200,https://pubs.acs.org/doi/abs/10.1021/bi0105429,/
+1RGG,A,E,14,5.02,P05798,14,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1BVI,B,E,31,5.36,P00651,57,https://link.springer.com/article/10.1007/s002490100138,/
+1YGW,A,E,31,5.36,P00651,57,https://link.springer.com/article/10.1007/s002490100138,/
+Swiss,A,E,106,4.1,P09850,106,/,Y174D
+3FT7,B,E,31,3.91,Q54323,31,,/
+1TRS,A,E,95,4.1,P10599,95,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1ERU,A,E,95,4.1,P10599,95,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+3ICB,A,E,11,4.74,P02633,15,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+Swiss,A,E,106,3.5,P09850,106,/,Q7E
+1XNB,A,E,172,6.7,P09850,200,https://www.ncbi.nlm.nih.gov/pubmed/9416621,/
+3RN3,A,E,2,2.8,P61823,28,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+3ICB,A,E,64,3.84,P02633,68,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1H4G,A,E,126,4.51,Q7SIE3,126,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1IGV,A,E,11,4.74,P02633,15,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+Swiss,A,E,200,7.3,P09850,200,/,R112E
+1KSM,A,E,11,4.7,P02633,15,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+Swiss,A,E,52,7.7,P00644,140,/,Δ+PHS A58E
+Swiss,A,E,106,3.8,P09850,106,/,G92D
+1IGV,A,E,64,3.84,P02633,68,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+3BDC,A,E,129,3.8,P00644,211,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+3BDC,A,E,67,3.8,P00644,149,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+1KQV,A,E,11,4.7,P02633,15,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+Swiss,A,E,106,4.2,P09850,106,/,/
+1QH7,A,E,126,4.51,Q7SIE3,126,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+Swiss,A,E,136,4.6,P00644,142,/,/
+1HIC,A,E,35,4.32,P01050,35,https://www.ncbi.nlm.nih.gov/pubmed/8049231,/
+1IG5,A,E,64,3.84,P02633,68,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1STN,A,E,122,3.89,P00644,204,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+1FMH,A,E,6,4.82,P03069,254,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+1KQV,A,E,64,3.8,P02633,68,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+4ICB,A,E,64,3.84,P02633,68,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+9RNT,A,E,31,5.36,P00651,57,https://link.springer.com/article/10.1007/s002490100138,/
+1BHC,J,E,7,3.7,P00974,42,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1IG5,A,E,11,4.74,P02633,15,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+4PTI,A,E,7,3.7,P00974,42,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1STN,A,E,57,3.49,P00644,139,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+1FMH,A,E,27,4.65,P03069,275,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+1RGG,A,E,41,4.14,P05798,41,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+4ICB,A,E,11,4.74,P02633,15,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1QT8,A,E,64,4.4,P00720,64,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1KSM,A,E,64,3.8,P02633,68,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1HV0,A,E,172,7.2,P09850,200,https://pubs.acs.org/doi/abs/10.1021/bi0105429,/
+5ISR,A,E,10,3.1,P00644,92,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+3H6M,A,E,104,9.4,P00644,186,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS V104E
+1D0D,B,E,7,3.7,P00974,42,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1BG8,A,E,81,4.2,P0AES9,102,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+Swiss,A,E,38,6.8,P00644,120,/,Δ+PHS L38E
+Swiss,A,E,106,3.6,P09850,106,/,Q172H
+4MBN,A,H,48,5.57,P02185,49,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+2KIX,A,H,27,7.6,B4UQM4,27,https://academic.oup.com/jb/article/145/4/543/2182450?login=true,/
+1U2U,A,H,28,6.79,1U2U,28,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+1RNH,A,H,83,5.5,P0A7Y4,83,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+3SRN,A,H,105,6.82,P61823,131,https://www.pnas.org/content/88/18/8116,/
+7RSA,A,H,105,6.5,P61823,131,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1MBC,A,H,48,5.5,P02185,49,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+6GST,A,H,83,5.18,P04905,84,https://www.ncbi.nlm.nih.gov/pubmed/1918058,/
+1A6M,A,H,24,6.2,P02185,25,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1KF3,A,H,105,6.5,P61823,131,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+1THE,A,H,111,7.7,P00787,190,https://www.ncbi.nlm.nih.gov/pubmed/1537854,/
+1FKS,A,H,87,6.51,P62942,88,https://www.sciencedirect.com/science/article/pii/0167483894901325?via%3Dihub,/
+2MB5,A,H,48,5.5,P02185,49,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1THE,A,H,199,8.6,P00787,278,https://www.ncbi.nlm.nih.gov/pubmed/1537854,/
+1HHO,A,H,72,7.1,P69905,73,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,deoxy form
+1A6K,A,H,48,5.25,P02185,49,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1RNZ,A,H,105,6.5,P61823,131,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+9RAT,A,H,105,6.5,P61823,131,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+5H3M,A,H,59,4.2,P06396,113,https://www.nature.com/articles/srep45230,/
+1GOA,A,H,83,5.5,P0A7Y4,83,https://pubs.acs.org/doi/abs/10.1021/bi00079a010,/
+5H3M,A,H,2,5.9,P06396,56,https://www.nature.com/articles/srep45230,/
+1B2V,A,H,128,7.1,Q54450,128,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2373534/,/
+2RN2,A,H,83,5.5,P0A7Y4,83,https://www.sciencedirect.com/science/article/pii/S0006349512007333?via%3Dihub#app2,/
+4HHB,A,H,72,7.3,P69905,73,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,HbCO form
+3FT7,B,H,22,4.79,Q54323,22,,/
+1KXI,A,H,4,5.6,P62375,25,https://pubs.acs.org/doi/abs/10.1021/bi960077t,/
+1A6M,A,H,48,5.25,P02185,49,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1A6K,A,H,24,6.2,P02185,25,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+2L6D,A,C,31,4.8,Q72F37,31,https://www.sciencedirect.com/science/article/pii/S0021925820532651?via%3Dihub,reduced form
+1YPT,A,C,403,4.67,P15273,403,,/
+5X79,A,C,15,10.2,P09211,15,https://pubs.acs.org/doi/10.1021/tx900095r,/
+1NI7,A,C,61,6.5,P0AGF2,61,https://pubs.acs.org/doi/10.1021/pr1006087,/
+Swiss,A,K,60,5.7,P00644,148,/,Δ+PHS K64AV66K
+1TGU,A,K,22,10.3,P00432,23,https://www.sciencedirect.com/science/article/pii/S0003986117301996?via%3Dihub,/
+4ICB,A,K,71,10.72,P02633,75,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+3ICB,A,K,71,10.73,P02633,75,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1D0D,B,K,46,10.6,P00974,81,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+Swiss,A,K,60,6.4,P00644,148,/,Δ+PHS V66KE67G
+2BCA,A,K,71,10.73,P02633,75,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+Swiss,A,K,126,10.4,P00644,214,/,Δ+PHS A132K
+1PPF,I,K,29,11.12,P68390,158,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,/
+1LSE,A,K,96,10.8,P00698,114,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+4PTI,A,K,46,10.6,P00974,81,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1KQV,A,K,71,10.7,P02633,75,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1IG5,A,K,71,10.73,P02633,75,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1KSM,A,K,71,10.7,P02633,75,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+3C1F,A,K,104,7.7,P00644,186,https://www.pnas.org/doi/suppl/10.1073/pnas.1010750108,Δ+PHS V104K
+1PPF,I,K,34,10.13,P68390,163,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,/
+1LYS,A,K,96,10.8,P00698,114,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+Swiss,A,K,41,9.3,P00644,123,/,Δ+PHS T41K
+1IGV,A,K,71,10.73,P02633,75,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1BHC,J,K,46,10.6,P00974,81,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+4LZT,A,K,96,10.8,P00698,114,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+2LZT,A,K,96,10.8,P00698,114,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+2OVO,A,Y,11,10.16,P67954,11,https://www.ncbi.nlm.nih.gov/pubmed/9628726,/
+4PTI,A,Y,35,11.1,P00974,70,https://pubs.acs.org/doi/abs/10.1021/bi00688a008,/
+2LZT,A,Y,20,10.3,P00698,38,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1JV8,A,Y,21,9.94,P00974,56,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+1H4G,A,D,5,3.84,Q7SIE3,5,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+Swiss,A,D,60,8.9,P00644,148,/,Δ+PHS V66D
+1DE3,A,D,57,4.3,P00655,84,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+Swiss,A,D,98,7.7,Q6J4G7,98,/,A178R
+1BEO,A,D,30,2.51,P15570,50,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+1LSE,A,D,87,2.07,P00698,105,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+Swiss,A,D,98,7.64,Q6J4G7,98,/,A178K
+2BUS,A,D,6,4,P01001,29,https://www.sciencedirect.com/science/article/pii/0022283684904698?via%3Dihub,/
+1BNR,A,D,22,3.3,P00648,69,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1C8C,A,D,35,2.6,P39476,35,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+2IGD,A,D,52,3.4,P06654,343,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1AZP,A,D,35,3.42,P13123,35,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1VII,A,D,46,3.5,P02640,796,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+1GOA,A,D,10,6.1,P0A7Y4,10,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1BNJ,A,D,22,3.3,P00648,69,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+3FX5,B,D,130,3.78,P03367,530,https://pubs.acs.org/doi/10.1021/bi961268z,/
+2LZT,A,D,48,1.6,P00698,66,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1KF3,A,D,38,2.1,P61823,64,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+3EGF,A,D,40,3.6,P01132,1016,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+2QMT,A,D,40,4,P19909,341,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1YGW,A,D,29,4.26,P00651,55,https://link.springer.com/article/10.1007/s002490100138,/
+1CX6,A,D,159,3.5,P00720,159,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+2L6X,A,D,97,6.43,Q9F7P4,97,,/
+1A2P,A,D,44,3.6,P00648,91,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1GB1,A,D,46,3.6,P06654,272,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1XNB,A,D,4,3,P09850,32,https://www.ncbi.nlm.nih.gov/pubmed/9416621,/
+1RGG,A,D,84,3.01,P05798,84,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+5H3M,A,D,23,4.8,P06396,77,https://www.nature.com/articles/srep45230,/
+1VII,A,D,44,3.1,P02640,794,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+2IGH,A,D,41,3.9,P06654,332,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1QH7,A,D,90,3.88,Q7SIE3,90,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+2LZM,A,D,70,0.5,P00720,70,https://pubs.acs.org/doi/abs/10.1021/bi00461a025,/
+Swiss,A,D,98,7.94,Q6J4G7,98,/,A178L
+1BF4,A,D,35,2.6,P13123,35,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1BEG,A,D,21,2.49,P15570,41,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+1BEO,A,D,21,2.49,P15570,41,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+Swiss,A,D,98,7.94,Q6J4G7,98,/,A178D
+1XNB,A,D,11,2.5,P09850,39,https://www.ncbi.nlm.nih.gov/pubmed/9416621,/
+7RSA,A,D,53,3.7,P61823,79,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1YRF,A,D,44,3.04,P02640,794,,/
+2GB1,A,D,46,3.6,P06654,272,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1PGA,A,D,22,2.9,P06654,248,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2QMT,A,D,36,3.8,P19909,337,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1RNZ,A,D,38,2.1,P61823,64,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+9RNT,A,D,76,0.5,P00651,102,https://pubs.acs.org/doi/10.1021/bi991422s,/
+1PGA,A,D,40,4,P06654,266,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1TRS,A,D,58,2.7,P10599,58,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+3BDC,A,D,19,2.2,P00644,101,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+9RNT,A,D,29,4.26,P00651,55,https://link.springer.com/article/10.1007/s002490100138,/
+4LZT,A,D,87,2.07,P00698,105,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1TRW,A,D,26,9.9,P10599,26,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1TRS,A,D,26,8.1,P10599,26,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1A2P,A,D,8,3.1,P00648,55,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1DE3,A,D,75,3.9,P00655,102,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1STN,A,D,95,2.16,P00644,177,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+3FX5,A,D,30,3.88,P03367,530,https://pubs.acs.org/doi/10.1021/bi961268z,/
+1XNB,A,D,106,2.7,P09850,134,https://www.ncbi.nlm.nih.gov/pubmed/9416621,/
+1GB1,A,D,36,3.8,P06654,262,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+4HMJ,A,D,36,7.9,P00644,118,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.23136,Δ+PHS L36D
+1EPG,A,D,40,3.6,P01132,1016,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1TEW,A,D,52,3.78,P00703,70,https://reader.elsevier.com/reader/sd/pii/S0006349594809002?token=3D6664526AD45A3909B80FDC6879934AF28431AFF02233FC744194410646D9BBAB83885869BC39F14A040B11EE5A3A30&originRegion=us-east-1&originCreation=20230216013558,/
+1BG8,A,D,76,3.8,P0AES9,97,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+3EGF,A,D,46,3.8,P01132,1022,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1QH7,A,D,21,3.46,Q7SIE3,21,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1HNG,A,D,26,3.58,P08921,48,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1IGC,A,D,52,3.4,P06654,343,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1GB1,A,D,22,2.9,P06654,248,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1BNR,A,D,86,4.2,P00648,133,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1CA5,A,D,35,3.42,P13123,35,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+3RN3,A,D,14,1.8,P61823,40,https://scripts.iucr.org/cgi-bin/paper?S0108767389009177,/
+1UBQ,A,D,39,3.6,P0CG48,647,https://pubs.acs.org/doi/10.1021/bi025571d,/
+3FX5,B,D,160,2.99,P03367,560,https://pubs.acs.org/doi/10.1021/bi961268z,/
+4LZT,A,D,52,3.68,P00698,70,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1CDC,A,D,28,3.57,P08921,50,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1BVI,B,D,76,0.5,P00651,102,https://link.springer.com/article/10.1007/s002490100138,/
+1SAP,A,D,35,3.42,P13123,35,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2QMT,A,D,22,2.9,P19909,323,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+5H3M,A,D,39,3.9,P06396,93,https://www.nature.com/articles/srep45230,/
+1BCX,A,D,4,3,P09850,32,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+Swiss,A,D,103,7.5,P00644,191,/,Δ+PHS A109D
+1FW7,A,D,86,4.2,P00648,133,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+2QMT,A,D,46,3.6,P19909,347,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+5G39,A,D,24,3.1,P0A432,50,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.201900739,/
+5ISR,A,D,21,6.6,P00644,103,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+1UBQ,A,D,52,3.4,P0CG48,660,https://pubs.acs.org/doi/10.1021/bi025571d,/
+2QMT,A,D,47,3.4,P19909,348,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1RDD,A,D,10,6.1,P0A7Y4,10,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1LYS,A,D,66,0.9,P00698,84,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1HNG,A,D,72,4.14,P08921,94,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+Swiss,A,D,126,7,P00644,214,/,Δ+PHS A132D
+1BNJ,A,D,12,3.8,P00648,59,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1BI6,H,D,13,3.8,P01068,200,https://www.ncbi.nlm.nih.gov/pubmed/12674503,/
+1IGC,A,D,27,2.9,P06654,318,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1TRS,A,D,61,5.2,P10599,61,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1LSE,A,D,48,1.6,P00698,66,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+2OEO,A,D,92,8.1,P00644,174,https://onlinelibrary.wiley.com/doi/10.1002/prot.23092,Δ+PHS I92D
+1BG8,A,D,69,3.7,P0AES9,90,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+1B2X,A,D,8,3.1,P00648,55,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1HNG,A,D,2,3.55,P08921,24,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1RGG,A,D,93,3.09,P05798,93,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1BNI,A,D,22,3.3,P00648,69,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1EPI,A,D,46,3.8,P01132,1022,https://www.ncbi.nlm.nih.gov/pubmed/2036358,/
+1I0V,A,D,15,3.52,P00651,41,https://link.springer.com/article/10.1007/s002490100138,/
+1A2P,A,D,101,2,P00648,148,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1DE3,A,D,109,3.7,P00655,136,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1BUS,A,D,6,4.1,P01001,29,https://www.ncbi.nlm.nih.gov/pubmed/6094827,/
+1SAP,A,D,36,3.12,P13123,36,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2LZT,A,D,66,0.9,P00698,84,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1TRW,A,D,64,3.2,P10599,64,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+3P75,A,D,104,9.7,P00644,186,https://onlinelibrary.wiley.com/doi/10.1002/prot.23092,Δ+PHS V104D
+135L,A,D,18,2.68,P00703,36,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+Swiss,A,D,98,7.56,Q6J4G7,98,/,A178Y
+1UBQ,A,D,21,3.1,P0CG48,629,https://pubs.acs.org/doi/10.1021/bi025571d,/
+1HIC,A,D,5,4.25,P01050,5,https://www.ncbi.nlm.nih.gov/pubmed/8049231,/
+2HBA,A,D,23,3.06,P02417,23,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+4KY6,A,D,25,6.8,P00644,107,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.23136,Δ+PHS L25D
+9RNT,A,D,15,3.52,P00651,41,https://link.springer.com/article/10.1007/s002490100138,/
+1BVI,B,D,15,3.52,P00651,41,https://link.springer.com/article/10.1007/s002490100138,/
+1BNI,A,D,12,3.8,P00648,59,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+Swiss,A,D,89,2.1,P00644,95,/,Δ+PHS L38K
+1PPF,I,D,7,2.67,P68390,136,https://www.ncbi.nlm.nih.gov/pubmed/7718577,/
+2LZT,A,D,87,2.07,P00698,105,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1TRS,A,D,16,4.2,P10599,16,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1EPH,A,D,27,4,P01132,1003,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1BG8,A,D,25,3.7,P0AES9,46,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+1C8C,A,D,16,2.9,P39476,16,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1BNI,A,D,8,3.1,P00648,55,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+Swiss,A,D,98,8.02,Q6J4G7,98,/,A178F
+1BNZ,A,D,35,2.67,P39476,35,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1BNI,A,D,86,4.2,P00648,133,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1ERT,A,D,26,9.9,P10599,26,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1EPH,A,D,46,3.8,P01132,1022,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1A91,A,D,44,5.6,P68699,44,https://pubs.acs.org/doi/abs/10.1021/bi00049a034,/
+1HNG,A,D,25,3.53,P08921,47,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1ERT,A,D,64,3.1,P10599,64,https://pubs.acs.org/doi/abs/10.1021/bi00128a019,reduced form
+1RNH,A,D,134,4.1,P0A7Y4,134,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1SAP,A,D,49,3.55,P13123,49,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1YGW,A,D,15,3.52,P00651,41,https://link.springer.com/article/10.1007/s002490100138,/
+Swiss,A,D,98,7.53,Q6J4G7,98,/,A178I
+1AZP,A,D,56,3.35,P13123,56,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2M5S,A,D,316,3,P26747,316,https://www.sciencedirect.com/science/article/pii/S0021925820408749?via%3Dihub,/
+3MKH,A,D,399,5.9,B2AM55,399,https://pubs.acs.org/doi/10.1021/bi100610e,/
+1SAP,A,D,56,3.35,P13123,56,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+3BDC,A,D,40,3.9,P00644,122,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+1I0V,A,D,66,3.9,P00651,92,https://link.springer.com/article/10.1007/s002490100138,/
+1LNI,A,D,17,3.72,P05798,17,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1C8C,A,D,50,3,P39476,50,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1LYS,A,D,48,1.6,P00698,66,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+5H3M,A,D,83,4.3,P06396,137,https://www.nature.com/articles/srep45230,/
+1B2X,A,D,44,3.6,P00648,91,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1TEW,A,D,119,3.35,P00703,137,https://reader.elsevier.com/reader/sd/pii/S0006349594809002?token=3D6664526AD45A3909B80FDC6879934AF28431AFF02233FC744194410646D9BBAB83885869BC39F14A040B11EE5A3A30&originRegion=us-east-1&originCreation=20230216013558,/
+1SGZ,A,D,228,3.5,P56817,289,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+1BF4,A,D,50,3,P13123,49,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1CA5,A,D,49,3.55,P13123,49,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1HNG,A,D,28,3.57,P08921,50,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+3GB1,A,D,22,2.9,P06654,248,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1EGF,A,D,40,3.6,P01132,1016,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1CX6,A,D,20,3.6,P00720,20,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+Swiss,A,D,34,7.8,P00644,116,/,Δ+PHS F34D
+1Q74,A,D,15,7.3,P9WJN3,15,https://www.sciencedirect.com/science/article/pii/S0021925820654527?via%3Dihub,/
+Swiss,A,D,37,4,P00644,119,/,Δ+PHS L37D
+1HPX,A,D,60,2.99,P03367,560,https://pubs.acs.org/doi/10.1021/bi961268z,/
+1RNZ,A,D,83,3.3,P61823,109,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1LNI,A,D,25,4.87,P05798,25,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1HIC,A,D,33,4.24,P01050,33,https://www.ncbi.nlm.nih.gov/pubmed/8049231,/
+9RNT,A,D,49,4.22,P00651,75,https://link.springer.com/article/10.1007/s002490100138,/
+1BPI,A,D,3,3,P00974,38,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1W4H,A,D,129,3.91,P0AFG6,112,https://www.sciencedirect.com/science/article/pii/S0022283610009423?via%3Dihub,/
+1HNG,A,D,71,3.18,P08921,93,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+3RN3,A,D,38,3.5,P61823,64,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1DE3,A,D,9,3.9,P00655,36,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1RGG,A,D,79,7.37,P05798,79,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+3BDC,A,D,95,2.2,P00644,177,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+1QT8,A,D,127,3.5,P00720,127,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+2LZT,A,D,52,3.68,P00698,70,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1AZP,A,D,36,3.12,P13123,36,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1SSO,A,D,49,2.96,P61991,50,https://www.nature.com/articles/nsb1194-808,/
+Swiss,A,D,98,6.97,Q6J4G7,98,/,A178V
+1A2P,A,D,12,3.8,P00648,59,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1DE3,A,D,85,3.8,P00655,112,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+2IGH,A,D,52,3.4,P06654,343,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1PGB,A,D,40,4,P06654,266,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2IGH,A,D,45,4.4,P06654,336,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1BNI,A,D,44,3.6,P00648,91,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1CVO,A,D,42,3.2,P62375,63,https://pubs.acs.org/doi/abs/10.1021/bi960077t,/
+4LZT,A,D,18,2.66,P00698,36,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1B2X,A,D,86,4.2,P00648,133,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+9RAT,A,D,38,2.1,P61823,64,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1QT8,A,D,72,3.3,P00720,72,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+5JAV,A,D,91,7.2,P00644,173,,Δ+PHS Y91D
+1PGA,A,D,46,3.6,P06654,272,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1LNI,A,D,84,3.01,P05798,84,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+5G39,A,D,23,3.4,P0A432,49,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.201900739,/
+9RAT,A,D,53,3.7,P61823,79,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1KXI,A,D,59,2.3,P62375,80,https://pubs.acs.org/doi/abs/10.1021/bi960077t,/
+1LSE,A,D,52,3.68,P00698,70,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+Swiss,A,D,140,4,P00644,146,/,Δ+PHS L38K
+1ERU,A,D,61,5.2,P10599,61,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1RNH,A,D,70,2.6,P0A7Y4,70,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1IGC,A,D,41,3.9,P06654,332,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1IGD,A,D,45,4.4,P06654,336,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2M5S,A,D,336,4.3,P26747,336,https://www.sciencedirect.com/science/article/pii/S0021925820408749?via%3Dihub,/
+2OVO,A,D,27,2.3,P67954,27,https://pubs.acs.org/doi/abs/10.1021/bi00014a028,/
+1PGB,A,D,22,2.9,P06654,248,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1CX6,A,D,127,3.5,P00720,127,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+1BVI,B,D,66,3.9,P00651,92,https://link.springer.com/article/10.1007/s002490100138,/
+1CDC,A,D,94,3.87,P08921,116,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1BG8,A,D,51,3.8,P0AES9,72,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+1IGD,A,D,52,3.4,P06654,343,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2RN2,A,D,70,2.6,P0A7Y4,70,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1BI6,H,D,32,3.1,P01068,219,https://www.ncbi.nlm.nih.gov/pubmed/12674503,/
+1I0V,A,D,76,0.5,P00651,102,https://link.springer.com/article/10.1007/s002490100138,/
+Swiss,A,D,98,7.89,Q6J4G7,98,/,A178M
+1EGF,A,D,11,3.9,P01132,987,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1ERU,A,D,64,3.2,P10599,64,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1RDD,A,D,70,2.6,P0A7Y4,70,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+2TGA,A,D,102,1.4,P00760,107,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,zymogen
+1DE3,A,D,59,4.1,P00655,86,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1EGF,A,D,27,4,P01132,1003,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1QH7,A,D,12,3.94,Q7SIE3,12,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1STN,A,D,40,3.87,P00644,122,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+1ERT,A,D,60,4.2,P10599,60,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1FNA,A,D,80,3.4,P02751,1617,https://pubs.acs.org/doi/abs/10.1021/bi010916y,/
+5H3M,A,D,82,5.5,P06396,136,https://www.nature.com/articles/srep45230,/
+1RDD,A,D,94,3.2,P0A7Y4,94,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1BCX,A,D,121,3.6,P09850,149,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+Swiss,A,D,20,4,P00644,102,/,Δ+PHS G20D
+135L,A,D,52,3.78,P00703,70,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1EX3,A,D,102,1.36,P00766,102,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,/
+2SNI,I,D,64,3.8,P01053,65,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+4LZT,A,D,48,1.6,P00698,66,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1LNI,A,D,1,3.44,P05798,1,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+2HBB,A,D,23,3.05,P02417,23,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+Swiss,A,D,98,7.94,Q6J4G7,98,/,A178E
+1RDD,A,D,134,4.3,P0A7Y4,134,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+2ZTA,A,D,7,3.48,P03069,255,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+5ISR,A,D,95,2.3,P00644,177,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+3BDC,A,D,21,6.5,P00644,103,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+3FT7,B,D,23,2.45,Q54323,23,,/
+Swiss,A,D,41,4,P00644,123,/,Δ+PHS T41D
+3SK5,A,D,39,8.1,P00644,121,,Δ+PHS V39D
+Swiss,A,D,119,7.6,P00644,207,/,Δ+PHS L125D
+1BNZ,A,D,16,2.62,P39476,16,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+4PTI,A,D,50,3.4,P00974,85,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1RNZ,A,D,53,3.7,P61823,79,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1EPG,A,D,27,4,P01132,1003,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1B2X,A,D,22,3.3,P00648,69,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1BNZ,A,D,50,3.55,P39476,50,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2IGD,A,D,45,4.4,P06654,336,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1ERT,A,D,61,5.3,P10599,61,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1TRW,A,D,60,4.2,P10599,60,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+Swiss,A,D,21,6.5,P00644,21,/,Δ+PHS L38K
+1FW7,A,D,12,3.8,P00648,59,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1A2P,A,D,22,3.3,P00648,69,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+4KY7,A,D,74,8.3,P00644,156,,Δ+PHS V74D
+3RN3,A,D,121,3.1,P61823,147,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1H4G,A,D,90,3.88,Q7SIE3,90,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+3FX5,A,D,60,2.99,P03367,560,https://pubs.acs.org/doi/10.1021/bi961268z,/
+1BNJ,A,D,44,3.6,P00648,91,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+4KY5,A,D,23,6.8,P00644,105,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.23136,Δ+PHS V23D
+2IGH,A,D,27,2.9,P06654,318,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1HNG,A,D,94,3.87,P08921,116,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+3EGF,A,D,27,4,P01132,1003,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1BNR,A,D,12,3.8,P00648,59,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1QT8,A,D,89,4,P00720,89,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1YPH,C,D,102,2.77,P00766,102,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,/
+3GB1,A,D,40,4,P06654,266,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+135L,A,D,119,3.35,P00703,137,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1XOB,A,D,26,7.4,P0AA25,27,https://pubs.acs.org/doi/full/10.1021/bi952404n,/
+1YRF,A,D,46,3.44,P02640,796,,/
+1YGW,A,D,66,3.9,P00651,92,https://link.springer.com/article/10.1007/s002490100138,/
+1EPI,A,D,27,4,P01132,1003,https://www.ncbi.nlm.nih.gov/pubmed/2036358,/
+1A91,A,D,61,7.1,P68699,61,https://pubs.acs.org/doi/abs/10.1021/bi00049a034,/
+1HNG,A,D,62,4.15,P08921,84,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1LSE,A,D,66,0.9,P00698,84,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1LNI,A,D,93,3.09,P05798,93,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1HPX,A,D,30,3.88,P03367,530,https://pubs.acs.org/doi/10.1021/bi961268z,/
+1DIV,A,D,23,3.05,P02417,23,https://pubs.acs.org/doi/full/10.1021/bi982931h,/
+1AZP,A,D,49,3.55,P13123,49,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2TRX,A,D,26,7.5,P0AA25,27,https://pubs.acs.org/doi/abs/10.1021/bi961801a,/
+5I6W,A,D,58,6.8,P00644,140,,Δ+PHS A58D
+1CX6,A,D,61,3.6,P00720,61,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+1CDC,A,D,25,3.53,P08921,47,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+5KGU,A,D,118,7,P00644,200,,Δ+PHS N118D
+2RN2,A,D,94,3.2,P0A7Y4,94,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+4LZT,A,D,66,0.9,P00698,84,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1BUS,A,D,12,3.6,P01001,35,https://www.ncbi.nlm.nih.gov/pubmed/6094827,/
+3FT7,B,D,49,2.62,Q54323,49,,/
+1QT8,A,D,159,3.4,P00720,159,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1GOA,A,D,70,2.6,P0A7Y4,70,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+2CI2,I,D,71,2.8,P01053,72,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1BEG,A,D,72,2.61,P15570,92,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+1EPG,A,D,46,3.8,P01132,1022,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1IGD,A,D,27,2.9,P06654,318,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1I0V,A,D,29,4.26,P00651,55,https://link.springer.com/article/10.1007/s002490100138,/
+3GB1,A,D,36,3.8,P06654,262,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+9RAT,A,D,83,3.3,P61823,109,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1LNI,A,D,79,7.37,P05798,79,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1FW7,A,D,8,3.1,P00648,55,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1TRS,A,D,60,3.9,P10599,60,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+2GB1,A,D,22,2.9,P06654,248,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1RNH,A,D,10,6.1,P0A7Y4,10,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1BF4,A,D,16,2.9,P13123,16,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1CDC,A,D,72,4.14,P08921,94,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1BI6,H,D,9,3,P01068,196,https://www.ncbi.nlm.nih.gov/pubmed/12674503,/
+3FT7,B,D,52,2.88,Q54323,52,,/
+1BNR,A,D,44,3.6,P00648,91,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1LYS,A,D,52,3.68,P00698,70,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+Swiss,A,D,98,7.75,Q6J4G7,98,/,A178P
+2IGD,A,D,41,3.9,P06654,332,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1BVI,B,D,49,4.22,P00651,75,https://link.springer.com/article/10.1007/s002490100138,/
+Swiss,A,D,98,8.04,Q6J4G7,98,/,A178N
+1QT8,A,D,61,3.6,P00720,61,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+Swiss,A,D,40,3.8,P00644,40,/,Δ+PHS L38K
+1FW7,A,D,22,3.3,P00648,69,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1QH7,A,D,5,3.84,Q7SIE3,5,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1RNH,A,D,94,3.2,P0A7Y4,94,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1BPI,A,D,50,3.4,P00974,85,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1BCX,A,D,106,2.7,P09850,134,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+9RNT,A,D,66,3.9,P00651,92,https://link.springer.com/article/10.1007/s002490100138,/
+1QT8,A,D,20,1.5,P00720,20,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1ERU,A,D,26,8.1,P10599,26,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+3GB1,A,D,46,3.6,P06654,272,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1EPG,A,D,11,3.9,P01132,987,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1I0V,A,D,3,3.54,P00651,29,https://link.springer.com/article/10.1007/s002490100138,/
+1PGB,A,D,36,3.8,P06654,262,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1XNB,A,D,121,3.6,P09850,149,https://www.ncbi.nlm.nih.gov/pubmed/9416621,/
+2CI2,I,D,42,3.3,P01053,43,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+2SNI,I,D,71,2.8,P01053,72,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1EPI,A,D,40,3.6,P01132,1016,https://www.ncbi.nlm.nih.gov/pubmed/2036358,/
+1RGG,A,D,25,4.87,P05798,25,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1EPH,A,D,40,3.6,P01132,1016,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1BCX,A,D,119,3.2,P09850,147,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+1EGF,A,D,46,3.8,P01132,1022,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1GU8,A,D,75,3.5,P42196,75,https://www.sciencedirect.com/science/article/pii/S0301462200001952,/
+1H4G,A,D,21,3.46,Q7SIE3,21,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1FW7,A,D,44,3.6,P00648,91,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1TRW,A,D,61,5.3,P10599,61,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+2RN2,A,D,134,4.3,P0A7Y4,134,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1TEW,A,D,18,2.68,P00703,36,https://reader.elsevier.com/reader/sd/pii/S0006349594809002?token=3D6664526AD45A3909B80FDC6879934AF28431AFF02233FC744194410646D9BBAB83885869BC39F14A040B11EE5A3A30&originRegion=us-east-1&originCreation=20230216013558,/
+4EQO,A,D,99,8.5,P00644,181,,Δ+PHS V99D
+1B2X,A,D,12,3.8,P00648,59,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+2TGA,A,D,194,2.3,P00760,199,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,zymogen
+2IGD,A,D,27,2.9,P06654,318,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1W4H,A,D,162,3.27,P0AFG6,145,https://www.sciencedirect.com/science/article/pii/S0022283610009423?via%3Dihub,/
+1RGA,A,D,76,0.5,P00651,102,https://link.springer.com/article/10.1007/s002490100138,/
+1CX6,A,D,89,4,P00720,89,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+1YGW,A,D,49,4.22,P00651,75,https://link.springer.com/article/10.1007/s002490100138,/
+2BUS,A,D,12,3.6,P01001,35,https://www.sciencedirect.com/science/article/pii/0022283684904698?via%3Dihub,/
+1KXI,A,D,42,3.2,P62375,63,https://pubs.acs.org/doi/abs/10.1021/bi960077t,/
+7RSA,A,D,38,2.1,P61823,64,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1XOA,A,D,26,7.5,P0AA25,27,https://www.sciencedirect.com/science/article/pii/S0969212694000867?via%3Dihub,/
+1KF3,A,D,53,3.7,P61823,79,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+1BEO,A,D,72,2.61,P15570,92,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+1CA5,A,D,36,3.12,P13123,36,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2LZT,A,D,18,2.66,P00698,36,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1A91,A,D,7,5.6,P68699,7,https://pubs.acs.org/doi/abs/10.1021/bi00049a034,/
+1BHC,J,D,50,3.4,P00974,85,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1CDC,A,D,62,4.15,P08921,84,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1BG8,A,D,20,3.7,P0AES9,41,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+1BNR,A,D,8,3.1,P00648,55,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1BG8,A,D,83,4,P0AES9,104,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+5J22,A,D,103,8.7,P00644,185,,Δ+PHS L103D
+1PGB,A,D,46,3.6,P06654,272,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1GOA,A,D,134,4.1,P0A7Y4,134,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1ERT,A,D,16,3.7,P10599,16,https://pubs.acs.org/doi/abs/10.1021/bi00128a019,reduced form
+1D0D,B,D,3,3,P00974,38,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+9RNT,A,D,3,3.54,P00651,29,https://link.springer.com/article/10.1007/s002490100138,/
+1ERU,A,D,58,2.7,P10599,58,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1BCX,A,D,11,2.5,P09850,39,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+7B03,A,D,98,7.7,Q6J4G7,98,https://pubs.acs.org/doi/10.1021/bi301412n,/
+Swiss,A,D,98,6.96,Q6J4G7,98,/,A178C
+1LYS,A,D,87,2.07,P00698,105,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+5ISR,A,D,40,3.9,P00644,122,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+Swiss,A,D,98,7.24,Q6J4G7,98,/,A178G
+2GB1,A,D,40,4,P06654,266,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1TRS,A,D,64,3.2,P10599,64,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1LYS,A,D,18,2.66,P00698,36,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1CX6,A,D,92,2.5,P00720,92,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+1I0V,A,D,49,4.22,P00651,75,https://link.springer.com/article/10.1007/s002490100138,/
+2L8L,A,D,121,6.1,P9WHJ3,5121,https://pubs.acs.org/doi/10.1021/ja203209f,/
+7RSA,A,D,83,3.3,P61823,109,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1RGG,A,D,1,3.44,P05798,1,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1GB1,A,D,40,4,P06654,266,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1JV8,A,D,50,3.2,P00974,85,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+1ERU,A,D,60,3.9,P10599,60,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1BI6,H,D,38,3.7,P01068,225,https://www.ncbi.nlm.nih.gov/pubmed/12674503,/
+2SNI,I,D,42,3.3,P01053,43,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1PGA,A,D,36,3.8,P06654,262,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1CDC,A,D,26,3.58,P08921,48,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+Swiss,A,D,98,7.54,Q6J4G7,98,/,A178W
+1CVO,A,D,59,2.3,P62375,80,https://pubs.acs.org/doi/abs/10.1021/bi960077t,/
+1CA5,A,D,56,3.35,P13123,56,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1EPI,A,D,11,3.9,P01132,987,https://www.ncbi.nlm.nih.gov/pubmed/2036358,/
+2GB1,A,D,36,3.8,P06654,262,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1BNJ,A,D,86,4.2,P00648,133,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+2RN2,A,D,10,6.1,P0A7Y4,10,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1TRW,A,D,16,4,P10599,16,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1BHC,J,D,3,3,P00974,38,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+Swiss,A,D,98,7.72,Q6J4G7,98,/,A178H
+3EGF,A,D,11,3.9,P01132,987,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1XNB,A,D,119,3.2,P09850,147,https://www.ncbi.nlm.nih.gov/pubmed/9416621,/
+1BNJ,A,D,8,3.1,P00648,55,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1ERU,A,D,16,4.2,P10599,16,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1BEG,A,D,30,2.51,P15570,50,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+1KF3,A,D,83,3.3,P61823,109,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+1H4G,A,D,12,3.94,Q7SIE3,12,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1SSO,A,D,15,2.11,P61991,16,https://www.nature.com/articles/nsb1194-808,/
+1UBQ,A,D,58,3.6,P0CG48,666,https://pubs.acs.org/doi/10.1021/bi025571d,/
+2CI2,I,D,64,3.8,P01053,65,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+Swiss,A,D,137,4,P00644,143,/,Δ+PHS L38K
+1GOA,A,D,94,3.2,P0A7Y4,94,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1IGD,A,D,41,3.9,P06654,332,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1D0D,B,D,50,3.4,P00974,85,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1EPH,A,D,11,3.9,P01132,987,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1BVI,B,D,29,4.26,P00651,55,https://link.springer.com/article/10.1007/s002490100138,/
+1IGC,A,D,45,4.4,P06654,336,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1CDC,A,D,71,3.18,P08921,93,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+2OVO,A,D,7,2.67,P67954,7,https://pubs.acs.org/doi/abs/10.1021/bi00014a028,/
+Swiss,A,D,98,6.75,Q6J4G7,98,/,A178T
+1BVI,B,D,3,3.54,P00651,29,https://link.springer.com/article/10.1007/s002490100138,/
+1YGW,A,D,3,3.54,P00651,29,https://link.springer.com/article/10.1007/s002490100138,/
+1A2P,A,D,86,4.2,P00648,133,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+4PTI,A,D,3,3,P00974,38,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1LSE,A,D,18,2.66,P00698,36,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1TRS,A,E,88,3.6,P10599,88,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1C8C,A,E,11,3.5,P39476,11,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+Swiss,A,E,123,3.8,P00644,129,/,Δ+PHS L38K
+1PGA,A,E,42,4.4,P06654,268,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2RN2,A,E,6,4.5,P0A7Y4,6,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+2QMT,A,E,27,4.5,P19909,328,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1RNZ,A,E,111,3.5,P61823,137,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+5I6Y,A,E,90,6.4,P00644,172,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS A90E
+9RAT,A,E,86,4,P61823,112,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+2RN2,A,E,147,4.2,P0A7Y4,147,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1C8C,A,E,48,3.5,P39476,48,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+2ZTA,A,E,20,4.38,P03069,268,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+7RSA,A,E,2,2.7,P61823,28,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1LYS,A,E,7,2.85,P00698,25,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1PGA,A,E,27,4.5,P06654,253,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1HNG,A,E,56,3.92,P08921,78,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1CA5,A,E,62,3.99,P13123,62,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2SNI,I,E,23,3.2,P01053,24,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1QH7,A,E,167,3.58,Q7SIE3,167,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+2SNI,I,E,34,3.8,P01053,35,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+Swiss,A,E,200,7.2,P09850,200,/,Q7E
+1RNZ,A,E,9,4,P61823,35,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1LSE,A,E,35,6.2,P00698,53,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+3RN3,A,E,9,4,P61823,35,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1RNH,A,E,48,4.4,P0A7Y4,48,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1HV0,A,E,78,4.6,P09850,106,https://pubs.acs.org/doi/abs/10.1021/bi0105429,/
+1STN,A,E,75,3.26,P00644,157,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+3BDC,A,E,73,3.3,P00644,155,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+1BVI,B,E,46,3.62,P00651,72,https://link.springer.com/article/10.1007/s002490100138,/
+2RN2,A,E,119,4.1,P0A7Y4,119,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+3VZJ,A,E,78,3.4,P09850,106,https://pubs.acs.org/doi/10.1021/bi400034m,E172H
+1TRS,A,E,13,4.4,P10599,13,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+5CCE,A,E,12,5.6,Q9ZMY2,12,https://www.pnas.org/doi/10.1073/pnas.1609718113?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed,/
+5ISR,A,E,129,3.9,P00644,211,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+1B2X,A,E,73,2.1,P00648,120,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+3ERO,A,E,72,7.3,P00644,154,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS I72E
+1YGW,A,E,28,5.61,P00651,54,https://link.springer.com/article/10.1007/s002490100138,/
+1JV8,A,E,7,3.85,P00974,42,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+135L,A,E,35,6.06,P00703,53,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1EPH,A,E,24,4.1,P01132,1000,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+2SNI,I,E,26,3.3,P01053,27,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+2V8N,A,E,325,10.5,P02920,325,https://www.pnas.org/doi/10.1073/pnas.1820744116?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed,/
+1MUT,A,E,53,7.6,P08337,53,https://pubs.acs.org/doi/abs/10.1021/bi9918745,/
+7RSA,A,E,86,4,P61823,112,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+2RN2,A,E,57,3.2,P0A7Y4,57,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+2SNI,I,E,33,4.2,P01053,34,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1AZP,A,E,47,4.21,P13123,47,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1BF4,A,E,12,3.5,P13123,12,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1GOA,A,E,6,4.5,P0A7Y4,6,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+3GB1,A,E,42,4.4,P06654,268,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1BF4,A,E,60,4.1,P13123,62,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1PGB,A,E,56,4,P06654,282,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1IGC,A,E,61,4.2,P06654,352,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+3RN3,A,E,111,3.5,P61823,137,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+2QMT,A,E,19,3.7,P19909,320,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1BNZ,A,E,11,4.17,P39476,11,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2CI2,I,E,60,3.5,P01053,61,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1LNI,A,E,41,4.14,P05798,41,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1BNR,A,E,29,3.75,P00648,76,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1CDC,A,E,29,4.42,P08921,51,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+2LZT,A,E,7,2.85,P00698,25,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+5ISR,A,E,43,4.4,P00644,125,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+3ICB,A,E,26,4.08,P02633,30,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+9RAT,A,E,9,4,P61823,35,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+Swiss,A,E,106,4.1,P09850,106,/,T110D
+1GOA,A,E,64,4.4,P0A7Y4,64,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1B2X,A,E,29,3.75,P00648,76,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+3FT7,B,E,27,3.52,Q54323,27,,/
+1RNH,A,E,32,3.6,P0A7Y4,32,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1BVI,B,E,82,3.27,P00651,108,https://link.springer.com/article/10.1007/s002490100138,/
+1BNJ,A,E,29,3.75,P00648,76,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1TEW,A,E,35,6.06,P00703,53,https://reader.elsevier.com/reader/sd/pii/S0006349594809002?token=3D6664526AD45A3909B80FDC6879934AF28431AFF02233FC744194410646D9BBAB83885869BC39F14A040B11EE5A3A30&originRegion=us-east-1&originCreation=20230216013558,/
+1DE3,A,E,144,4.3,P00655,171,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1CDC,A,E,41,6.73,P08921,63,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1FMH,A,E,1,4.14,P03069,249,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+1VII,A,E,45,4,P02640,795,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+1ERT,A,E,70,4.6,P10599,70,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+5ISR,A,E,57,3.6,P00644,139,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+1RGA,A,E,28,5.61,P00651,54,https://link.springer.com/article/10.1007/s002490100138,/
+2LZT,A,E,35,6.2,P00698,53,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+Swiss,A,E,200,6.8,P09850,200,/,N63D
+1BCX,A,E,78,4.6,P09850,106,https://pubs.acs.org/doi/abs/10.1021/bi0105429,/
+1SAP,A,E,62,3.99,P13123,62,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1BUS,A,E,9,4.5,P01001,32,https://www.ncbi.nlm.nih.gov/pubmed/6094827,/
+1AZP,A,E,12,4.41,P13123,12,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1KF3,A,E,86,4,P61823,112,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+1IGV,A,E,17,3.62,P02633,21,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1STN,A,E,135,3.76,P00644,217,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+1DE3,A,E,96,5.1,P00655,123,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1AZP,A,E,62,3.99,P13123,62,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+Swiss,A,E,200,7,P09850,200,/,Y88D
+1RNZ,A,E,86,4,P61823,112,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+3VZK,A,E,78,5.3,P09850,106,https://pubs.acs.org/doi/10.1021/bi400034m,N35E
+3BDC,A,E,43,4.36,P00644,125,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+1SAP,A,E,47,4.21,P13123,47,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1TRW,A,E,88,3.7,P10599,88,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1ERT,A,E,47,4.1,P10599,47,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1QH7,A,E,94,3.94,Q7SIE3,94,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1STN,A,E,101,3.81,P00644,183,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+1GB1,A,E,27,4.5,P06654,253,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+3VZL,A,E,172,3.4,P09850,200,https://pubs.acs.org/doi/10.1021/bi400034m,N35H
+Swiss,A,E,106,4.5,P09850,106,/,Y88D
+2HBB,A,E,48,4.21,P02417,48,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+1SSO,A,E,11,3.9,P61991,12,https://www.nature.com/articles/nsb1194-808,/
+1TRW,A,E,70,4.6,P10599,70,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+2CI2,I,E,23,3.2,P01053,24,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1H4G,A,E,17,4.31,Q7SIE3,17,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1SAP,A,E,12,4.41,P13123,12,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2BUS,A,E,20,4.1,P01001,43,https://www.sciencedirect.com/science/article/pii/0022283684904698?via%3Dihub,/
+7RSA,A,E,9,4,P61823,35,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1QT8,A,E,108,4.2,P00720,108,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1KQV,A,E,17,3.62,P02633,21,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1ERU,A,E,6,4.9,P10599,6,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1SAP,A,E,64,4.23,P13123,64,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2CI2,I,E,34,3.8,P01053,35,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1ERT,A,E,13,4.8,P10599,13,https://pubs.acs.org/doi/abs/10.1021/bi00128a019,reduced form
+Swiss,A,E,106,4.1,P09850,106,/,R112G
+1QT8,A,E,45,3.8,P00720,45,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+2BCA,A,E,26,4.08,P02633,30,https://onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1BUS,A,E,20,4.4,P01001,43,https://www.ncbi.nlm.nih.gov/pubmed/6094827,/
+3ICB,A,E,48,4.62,P02633,52,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+3D4D,A,E,91,7.1,P00644,173,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS Y91E
+1RNH,A,E,61,3.9,P0A7Y4,61,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1FMH,A,E,15,4.11,P03069,263,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+1PPF,I,E,19,3.21,P68390,148,https://www.ncbi.nlm.nih.gov/pubmed/7718577,/
+3FT7,B,E,20,4.12,Q54323,20,,/
+135L,A,E,7,2.68,P00703,25,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1CX6,A,E,62,2.8,P00720,62,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+1RNH,A,E,119,4.1,P0A7Y4,119,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1ERU,A,E,98,3.9,P10599,98,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+4ICB,A,E,26,4.08,P02633,30,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1FMH,A,E,20,4.41,P03069,268,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+1KQV,A,E,4,3.8,P02633,8,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1YRF,A,E,45,3.95,P02640,795,,/
+5ISR,A,E,75,3.3,P00644,157,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+1UBQ,A,E,24,4.3,P0CG48,632,https://pubs.acs.org/doi/10.1021/bi025571d,/
+1KSM,A,E,26,4.1,P02633,30,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+Swiss,A,E,119,9.1,P00644,207,/,Δ+PHS L125E
+1BI6,L,E,5,4,P01068,176,https://www.ncbi.nlm.nih.gov/pubmed/12674503,/
+9RNT,A,E,102,5.3,P00651,128,https://link.springer.com/article/10.1007/s002490100138,/
+Swiss,A,E,39,8.2,P00644,121,/,Δ+PHS V39E
+1RNZ,A,E,2,2.7,P61823,28,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+Swiss,A,E,23,7.1,P00644,105,/,Δ+PHS V23E
+Swiss,A,E,200,7.5,P09850,200,/,A115E
+1RDD,A,E,129,3.6,P0A7Y4,129,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1H4G,A,E,167,3.58,Q7SIE3,167,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+2QMT,A,E,42,4.4,P19909,343,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+5H3M,A,E,65,4.3,P06396,119,https://www.nature.com/articles/srep45230,/
+2OVO,A,E,10,4.14,P67954,10,https://pubs.acs.org/doi/abs/10.1021/bi00014a028,/
+1RNH,A,E,6,4.5,P0A7Y4,6,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1PGB,A,E,15,4.4,P06654,241,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1VII,A,E,72,4.4,P02640,822,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+1HNG,A,E,33,4.16,P08921,55,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1KF3,A,E,111,3.5,P61823,137,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+1U2U,A,E,6,4.9,1U2U,6,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+1FW7,A,E,29,3.75,P00648,76,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1BF4,A,E,36,5.4,P13123,36,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1DE3,A,E,115,4.9,P00655,142,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+Swiss,A,E,51,3.6,P00644,57,/,Δ+PHS L38K
+1TRS,A,E,70,4.8,P10599,70,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+2RN2,A,E,32,3.6,P0A7Y4,32,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1QT8,A,E,22,4.3,P00720,22,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1LYS,A,E,35,6.2,P00698,53,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1RDD,A,E,147,4.2,P0A7Y4,147,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1IGD,A,E,29,4.2,P06654,320,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2IGH,A,E,20,4.3,P06654,311,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2OVO,A,E,19,3.21,P67954,19,https://pubs.acs.org/doi/abs/10.1021/bi00014a028,/
+5KIX,A,E,92,9,P00644,174,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS I92E
+1KQV,A,E,48,4.6,P02633,52,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1FNA,A,E,47,3.9,P02751,1584,https://pubs.acs.org/doi/abs/10.1021/bi010916y,/
+1STN,A,E,129,3.75,P00644,211,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+1CDC,A,E,99,4.25,P08921,121,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+3BDC,A,E,122,3.9,P00644,204,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+1SAP,A,E,14,4,P13123,14,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1CDC,A,E,33,4.16,P08921,55,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1GOA,A,E,61,3.9,P0A7Y4,61,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+Swiss,A,E,41,6.8,P00644,123,/,Δ+PHS T41E
+4LZT,A,E,7,2.85,P00698,25,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+Swiss,A,E,61,3.9,P00644,67,/,Δ+PHS L38K
+1YGW,A,E,46,3.62,P00651,72,https://link.springer.com/article/10.1007/s002490100138,/
+1HIC,A,E,17,3.79,P01050,17,https://www.ncbi.nlm.nih.gov/pubmed/8049231,/
+2HBA,A,E,38,4.04,P02417,38,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+1AZP,A,E,14,4,P13123,14,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1KSM,A,E,48,4.6,P02633,52,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+Swiss,A,E,112,4.5,P00644,200,/,Δ+PHS N118E
+Swiss,A,E,34,7.3,P00644,116,/,Δ+PHS F34E
+Swiss,A,E,67,3.3,P00644,73,/,Δ+PHS L38K
+1IGC,A,E,20,4.3,P06654,311,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2RN2,A,E,64,4.4,P0A7Y4,64,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1LSE,A,E,7,2.85,P00698,25,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1ERU,A,E,88,3.6,P10599,88,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1ERU,A,E,13,4.4,P10599,13,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1BF4,A,E,54,3.2,P13123,53,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1IG5,A,E,26,4.08,P02633,30,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1C8C,A,E,36,5.4,P39476,36,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1BNI,A,E,73,2.1,P00648,120,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+2CI2,I,E,33,4.2,P01053,34,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1BVI,B,E,58,3.96,P00651,84,https://link.springer.com/article/10.1007/s002490100138,/
+1RNH,A,E,129,3.6,P0A7Y4,129,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1ERU,A,E,70,4.8,P10599,70,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1U2U,A,E,13,4.42,1U2U,13,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+2GB1,A,E,15,4.4,P06654,241,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+5H3M,A,E,11,4.1,P06396,65,https://www.nature.com/articles/srep45230,/
+Swiss,A,E,46,4.1,P00644,52,/,Δ+PHS L38K
+1C8C,A,E,54,3.2,P39476,54,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1CA5,A,E,47,4.21,P13123,47,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1W4H,A,E,164,4.47,P0AFG6,147,https://www.sciencedirect.com/science/article/pii/S0022283610009423?via%3Dihub,/
+1QT8,A,E,5,3.7,P00720,5,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1YGW,A,E,82,3.27,P00651,108,https://link.springer.com/article/10.1007/s002490100138,/
+AAEAA,A,E,3,4.2,AAEAA,3,model_compound,/
+1KF3,A,E,2,2.7,P61823,28,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+1BNZ,A,E,12,4.33,P39476,12,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+9RNT,A,E,82,3.27,P00651,108,https://link.springer.com/article/10.1007/s002490100138,/
+1IGV,A,E,26,4.08,P02633,30,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1GOA,A,E,48,4.4,P0A7Y4,48,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1IG5,A,E,48,4.62,P02633,52,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1CA5,A,E,14,4,P13123,14,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2GB1,A,E,19,3.7,P06654,245,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1IGD,A,E,20,4.3,P06654,311,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1BVI,B,E,102,5.3,P00651,128,https://link.springer.com/article/10.1007/s002490100138,/
+2IGH,A,E,29,4.2,P06654,320,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+4ICB,A,E,4,3.77,P02633,8,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1RDD,A,E,61,3.9,P0A7Y4,61,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1DE3,A,E,31,4.6,P00655,58,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1U2U,A,E,1,4.1,1U2U,1,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+1ANS,A,E,20,5.4,P01535,20,https://www.ncbi.nlm.nih.gov/pubmed/8102051,/
+Swiss,A,E,43,4.5,P00644,43,/,Δ+PHS L38K
+Swiss,A,E,106,3.2,P09850,106,/,A115E
+1AZP,A,E,11,4.19,P13123,11,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1HNG,A,E,41,6.73,P08921,63,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+3ICB,A,E,4,3.77,P02633,8,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1H4G,A,E,178,4.1,Q7SIE3,178,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+2IGD,A,E,61,4.2,P06654,352,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1BG8,A,E,19,4.4,P0AES9,40,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+1TRW,A,E,47,4.1,P10599,47,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1U2U,A,E,8,4.89,1U2U,8,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+Swiss,A,E,116,3.9,P00644,122,/,Δ+PHS L38K
+1TRW,A,E,103,4.4,P10599,103,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1RDD,A,E,64,4.4,P0A7Y4,64,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1GB1,A,E,56,4,P06654,282,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1DIV,A,E,48,4.21,P02417,48,https://pubs.acs.org/doi/full/10.1021/bi982931h,/
+Swiss,A,E,200,7.1,P09850,200,/,T110D
+2BUS,A,E,9,4.3,P01001,32,https://www.sciencedirect.com/science/article/pii/0022283684904698?via%3Dihub,/
+1IGD,A,E,61,4.2,P06654,352,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1RNH,A,E,147,4.2,P0A7Y4,147,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+2IGD,A,E,20,4.3,P06654,311,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+3BDC,A,E,10,2.8,P00644,92,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+4PTI,A,E,49,3.8,P00974,84,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1PGA,A,E,56,4,P06654,282,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1PGA,A,E,15,4.4,P06654,241,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1GB1,A,E,15,4.4,P06654,241,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+9RNT,A,E,58,3.96,P00651,84,https://link.springer.com/article/10.1007/s002490100138,/
+1IGV,A,E,48,4.62,P02633,52,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1FMH,A,E,13,4.37,P03069,261,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+Swiss,A,E,94,7.6,P00644,182,/,Δ+PHS N100E
+1CA5,A,E,64,4.23,P13123,64,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1FMH,A,E,8,4.52,P03069,256,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+4LZT,A,E,35,6.2,P00698,53,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1ERT,A,E,88,3.7,P10599,88,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+3VZK,A,E,172,8,P09850,200,https://pubs.acs.org/doi/10.1021/bi400034m,N35E
+3TP8,A,E,36,8.7,P00644,118,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS L36E
+Swiss,A,E,200,7.3,P09850,200,/,Q127H
+Swiss,A,E,200,6.6,P09850,200,/,Q7K
+1PGB,A,E,27,4.5,P06654,253,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1HV1,A,E,78,4.6,P09850,106,https://pubs.acs.org/doi/abs/10.1021/bi0105429,/
+1I0V,A,E,102,5.3,P00651,128,https://link.springer.com/article/10.1007/s002490100138,/
+1BNZ,A,E,36,4.89,P39476,36,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+5ISR,A,E,52,4,P00644,134,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+2GB1,A,E,42,4.4,P06654,268,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1SSO,A,E,35,4.33,P61991,36,https://www.nature.com/articles/nsb1194-808,/
+3GB1,A,E,27,4.5,P06654,253,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1CVO,A,E,17,4,P62375,38,https://pubs.acs.org/doi/abs/10.1021/bi960077t,/
+1A91,A,E,2,5.5,P68699,2,https://pubs.acs.org/doi/abs/10.1021/bi00049a034,/
+2OVO,A,E,43,4.81,P67954,43,https://pubs.acs.org/doi/abs/10.1021/bi00014a028,/
+1RDD,A,E,119,4.1,P0A7Y4,119,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1I0V,A,E,28,5.61,P00651,54,https://link.springer.com/article/10.1007/s002490100138,/
+1U2U,A,E,27,4.74,1U2U,27,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+1RNZ,A,E,49,4.3,P61823,75,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1FW7,A,E,60,3,P00648,107,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+2ZTA,A,E,6,4.6,P03069,254,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+Swiss,A,E,129,3.9,P00644,135,/,Δ+PHS L38K
+1U9R,A,E,66,8.5,P00644,148,https://www.pnas.org/doi/10.1073/pnas.0805113105,PHS V66E
+1KSM,A,E,4,3.8,P02633,8,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1KF3,A,E,9,4,P61823,35,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+2RN2,A,E,48,4.4,P0A7Y4,48,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+9RAT,A,E,49,4.3,P61823,75,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+Swiss,A,E,106,3.1,P09850,106,/,T67D
+9RAT,A,E,2,2.7,P61823,28,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1HIC,A,E,8,4.28,P01050,8,https://www.ncbi.nlm.nih.gov/pubmed/8049231,/
+1SSO,A,E,47,3.45,P61991,48,https://www.nature.com/articles/nsb1194-808,/
+7RSA,A,E,111,3.5,P61823,137,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+3GB1,A,E,19,3.7,P06654,245,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1SSO,A,E,53,3.01,P61991,54,https://www.nature.com/articles/nsb1194-808,/
+1RNH,A,E,57,3.2,P0A7Y4,57,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1H4G,A,E,94,3.94,Q7SIE3,94,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1BNJ,A,E,73,2.1,P00648,120,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1ERT,A,E,6,4.8,P10599,6,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1U2U,A,E,29,4.63,1U2U,29,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+1BPI,A,E,49,3.8,P00974,84,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+2RN2,A,E,131,4.3,P0A7Y4,131,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+2QMT,A,E,15,4.4,P19909,316,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1CA5,A,E,53,3.53,P13123,53,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1PGB,A,E,42,4.4,P06654,268,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+5H3M,A,E,129,3.8,P06396,183,https://www.nature.com/articles/srep45230,/
+Swiss,A,E,200,6.9,P09850,200,/,T111D
+9RNT,A,E,28,5.61,P00651,54,https://link.springer.com/article/10.1007/s002490100138,/
+2ZTA,A,E,11,4.05,P03069,259,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+1RDD,A,E,57,3.2,P0A7Y4,57,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1XNB,A,E,78,4.6,P09850,106,https://www.ncbi.nlm.nih.gov/pubmed/9416621,/
+1VA3,A,E,601,4.3,P08047,690,https://pubs.acs.org/doi/10.1021/ja211417g,/
+1DE3,A,E,19,4.6,P00655,46,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+3VZL,A,E,78,5.5,P09850,106,https://pubs.acs.org/doi/10.1021/bi400034m,N35H
+1UBQ,A,E,51,3.8,P0CG48,659,https://pubs.acs.org/doi/10.1021/bi025571d,/
+1BNR,A,E,60,3,P00648,107,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+9RNT,A,E,46,3.62,P00651,72,https://link.springer.com/article/10.1007/s002490100138,/
+1BNI,A,E,60,3,P00648,107,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1YRF,A,E,72,4.37,P02640,822,,/
+1RDD,A,E,48,4.4,P0A7Y4,48,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1BI6,H,E,24,4.2,P01068,211,https://www.ncbi.nlm.nih.gov/pubmed/12674503,/
+Swiss,A,E,106,3.8,P09850,106,/,R73A
+1IGC,A,E,29,4.2,P06654,320,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1HIC,A,E,43,4.24,P01050,43,https://www.ncbi.nlm.nih.gov/pubmed/8049231,/
+1QT8,A,E,62,2.9,P00720,62,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1FMH,B,E,1,4.22,P03069,249,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+1RDD,A,E,6,4.5,P0A7Y4,6,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1M56,A,E,286,9.4,P33517,286,https://www.sciencedirect.com/science/article/pii/S0005272810000745?via%3Dihub,/
+1QT8,A,E,128,4.4,P00720,128,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1QH7,A,E,17,4.31,Q7SIE3,17,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1RNH,A,E,64,4.4,P0A7Y4,64,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1STN,A,E,67,3.76,P00644,149,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+1CDC,A,E,56,3.92,P08921,78,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1BI6,H,E,1,3.3,P01068,188,https://www.ncbi.nlm.nih.gov/pubmed/12674503,/
+3GB1,A,E,56,4,P06654,282,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1RDD,A,E,32,3.6,P0A7Y4,32,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1W4H,A,E,141,4.49,P0AFG6,124,https://www.sciencedirect.com/science/article/pii/S0022283610009423?via%3Dihub,/
+6EEG,A,E,62,7.7,P00644,144,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS T62E
+1RDD,A,E,131,4.3,P0A7Y4,131,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1GOA,A,E,129,3.6,P0A7Y4,129,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+2RN2,A,E,61,3.9,P0A7Y4,61,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1FNA,A,E,38,3.8,P02751,1575,https://pubs.acs.org/doi/abs/10.1021/bi010916y,/
+1JV8,A,E,49,3.91,P00974,84,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+1TRS,A,E,6,4.9,P10599,6,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1QH7,A,E,178,4.1,Q7SIE3,178,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+Swiss,A,E,106,3.6,P09850,106,/,S117D
+1BNZ,A,E,48,4.03,P39476,48,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1TRW,A,E,6,4.8,P10599,6,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1DIV,A,E,17,3.57,P02417,17,https://pubs.acs.org/doi/full/10.1021/bi982931h,/
+3TP7,A,E,99,8.4,P00644,181,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS V99E
+4YIJ,A,E,109,7.9,P00644,191,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS A109E
+2HBB,A,E,17,3.57,P02417,17,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+1B2X,A,E,60,3,P00648,107,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1U2U,A,E,20,4.21,1U2U,20,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+2HBA,A,E,48,4.21,P02417,48,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+1GBG,A,E,109,7,P27051,138,https://www.sciencedirect.com/science/article/pii/S000862151400055X?via%3Dihub,/
+1SSO,A,E,10,3.78,P61991,11,https://www.nature.com/articles/nsb1194-808,/
+1RGG,A,E,78,3.13,P05798,78,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+7RSA,A,E,49,4.3,P61823,75,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+2SNI,I,E,60,3.5,P01053,61,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1IGV,A,E,4,3.77,P02633,8,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1EGF,A,E,24,4.1,P01132,1000,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+Swiss,A,E,200,7,P09850,200,/,G92D
+1GB1,A,E,19,3.7,P06654,245,https://pubs.acs.org/doi/full/10.1021/bi9630927,/
+3EGF,A,E,24,4.1,P01132,1000,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+Swiss,A,E,126,7,P00644,214,/,Δ+PHS A132E
+1BI6,H,E,2,3.3,P01068,189,https://www.ncbi.nlm.nih.gov/pubmed/12674503,/
+1FMH,A,E,29,4.63,P03069,277,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+1I0V,A,E,82,3.27,P00651,108,https://link.springer.com/article/10.1007/s002490100138,/
+5ISR,A,E,135,3.8,P00644,217,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+1IG5,A,E,17,3.62,P02633,21,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1BF4,A,E,11,3.5,P13123,11,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+2IGD,A,E,29,4.2,P06654,320,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1FMH,A,E,22,4.82,P03069,270,https://pubs.acs.org/doi/abs/10.1021/bi001242e,P03069-1
+Swiss,A,E,68,7.8,P00644,156,/,Δ+PHS V74E
+1HNG,A,E,29,4.42,P08921,51,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1RNH,A,E,131,4.3,P0A7Y4,131,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+Swiss,A,E,200,6.8,P09850,200,/,T126D
+1STN,A,E,73,3.31,P00644,155,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+2RN2,A,E,129,3.6,P0A7Y4,129,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1TRS,A,E,68,5.1,P10599,68,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+2CI2,I,E,45,3.9,P01053,46,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+2GB1,A,E,56,4,P06654,282,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1SAP,A,E,53,3.53,P13123,53,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+Swiss,A,E,200,6.5,P09850,200,/,S117D
+5ISR,A,E,101,3.9,P00644,183,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+1BF4,A,E,48,3.5,P13123,47,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+2HBB,A,E,38,4.04,P02417,38,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+1UBQ,A,E,64,4.5,P0CG48,672,https://pubs.acs.org/doi/10.1021/bi025571d,/
+1TRS,A,E,47,4.3,P10599,47,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+2ZTA,A,E,10,3.94,P03069,258,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+1RGA,A,E,58,3.96,P00651,84,https://link.springer.com/article/10.1007/s002490100138,/
+1ERT,A,E,95,4.1,P10599,95,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1A91,A,E,37,5.5,P68699,37,https://pubs.acs.org/doi/abs/10.1021/bi00049a034,/
+1STN,A,E,43,4.32,P00644,125,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+1GOA,A,E,57,3.2,P0A7Y4,57,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1TRW,A,E,95,4.1,P10599,95,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1U2U,A,E,15,4.09,1U2U,15,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+1DE3,A,E,140,4.3,P00655,167,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+Swiss,A,E,200,6.8,P09850,200,/,R73A
+1LNI,A,E,78,3.13,P05798,78,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+3BDC,A,E,101,3.8,P00644,183,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+1TRW,A,E,13,4.4,P10599,13,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1UBQ,A,E,34,4.5,P0CG48,642,https://pubs.acs.org/doi/10.1021/bi025571d,/
+1LNI,A,E,54,2.26,P05798,54,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1BNJ,A,E,60,3,P00648,107,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1DIV,A,E,38,4.04,P02417,38,https://pubs.acs.org/doi/full/10.1021/bi982931h,/
+1YGW,A,E,102,5.3,P00651,128,https://link.springer.com/article/10.1007/s002490100138,/
+1AZP,A,E,64,4.23,P13123,64,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1BPI,A,E,7,3.7,P00974,42,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1EPH,A,E,51,4,P01132,1027,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1BNR,A,E,73,2.1,P00648,120,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1CA5,A,E,12,4.41,P13123,12,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1BNZ,A,E,54,3.56,P39476,54,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+5ISR,A,E,122,3.8,P00644,204,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+1QT8,A,E,11,4.7,P00720,11,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1I0V,A,E,58,3.96,P00651,84,https://link.springer.com/article/10.1007/s002490100138,/
+1GOA,A,E,32,3.6,P0A7Y4,32,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1ERU,A,E,47,4.3,P10599,47,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+3GB1,A,E,15,4.4,P06654,241,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1GOA,A,E,131,4.3,P0A7Y4,131,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1BHC,J,E,49,3.8,P00974,84,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+3BDC,A,E,75,3.3,P00644,157,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+3ICB,A,E,17,3.62,P02633,21,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1PGJ,A,E,192,7.1,P31072,193,https://www.sciencedirect.com/science/article/pii/S1570963914000387?via%3Dihub,/
+3BDC,A,E,52,4,P00644,134,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+3RN3,A,E,49,4.7,P61823,75,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1UBQ,A,E,18,4.3,P0CG48,626,https://pubs.acs.org/doi/10.1021/bi025571d,/
+1SSO,A,E,59,3.82,P61991,60,https://www.nature.com/articles/nsb1194-808,/
+1PGB,A,E,19,3.7,P06654,245,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1ERT,A,E,103,4.4,P10599,103,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1KF3,A,E,49,4.3,P61823,75,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+1YGW,A,E,58,3.96,P00651,84,https://link.springer.com/article/10.1007/s002490100138,/
+3BDC,A,E,135,3.8,P00644,217,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+1RGG,A,E,54,3.42,P05798,54,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1HNG,A,E,99,4.25,P08921,121,https://pubs.acs.org/doi/abs/10.1021/bi992209z,/
+1KXI,A,E,17,4,P62375,38,https://pubs.acs.org/doi/abs/10.1021/bi960077t,/
+1GOA,A,E,147,4.2,P0A7Y4,147,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1BVI,B,E,28,5.61,P00651,54,https://link.springer.com/article/10.1007/s002490100138,/
+2HBA,A,E,17,3.69,P02417,17,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+1PPF,I,E,43,4.81,P68390,172,https://www.ncbi.nlm.nih.gov/pubmed/7718577,/
+1EPG,A,E,24,4.1,P01132,1000,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+4ICB,A,E,48,4.62,P02633,52,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1ERT,A,E,68,4.9,P10599,68,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1DIV,A,E,54,4.21,P02417,54,https://pubs.acs.org/doi/full/10.1021/bi982931h,/
+Swiss,A,E,106,2.9,P09850,106,/,Q7K
+1GB1,A,E,42,4.4,P06654,268,https://pubs.acs.org/doi/full/10.1021/bi9630927,/
+1UBQ,A,E,16,3.9,P0CG48,624,https://pubs.acs.org/doi/10.1021/bi025571d,/
+1CA5,A,E,11,4.19,P13123,11,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2GB1,A,E,27,4.5,P06654,253,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1STN,A,E,10,2.82,P00644,92,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+Swiss,A,E,200,7,P09850,200,/,T67D
+1BNZ,A,E,60,4.24,P39476,60,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+3RN3,A,E,86,4.1,P61823,112,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+2IGH,A,E,61,4.2,P06654,352,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1TRS,A,E,98,3.9,P10599,98,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1C8C,A,E,12,3.5,P39476,12,https://www.ncbi.nlm.nih.gov/pubmed/12578354,/
+1GOA,A,E,119,4.1,P0A7Y4,119,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1BNI,A,E,29,3.75,P00648,76,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1LNI,A,E,74,3.47,P05798,74,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+5EGT,A,E,66,8.5,P00644,148,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS V66E
+1IG5,A,E,4,3.77,P02633,8,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1SAP,A,E,11,4.19,P13123,11,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+1TEW,A,E,7,2.68,P00703,25,https://reader.elsevier.com/reader/sd/pii/S0006349594809002?token=3D6664526AD45A3909B80FDC6879934AF28431AFF02233FC744194410646D9BBAB83885869BC39F14A040B11EE5A3A30&originRegion=us-east-1&originCreation=20230216013558,/
+1U2U,A,E,22,4.83,1U2U,22,https://pubs.acs.org/doi/abs/10.1021/bi048771t,/
+9RAT,A,E,111,3.5,P61823,137,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1I0V,A,E,46,3.62,P00651,72,https://link.springer.com/article/10.1007/s002490100138,/
+1KSM,A,E,17,3.62,P02633,21,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1ERU,A,E,68,5.1,P10599,68,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+Swiss,A,E,200,6.9,P09850,200,/,R112G
+Swiss,A,E,106,4.2,P09850,106,/,N63D
+1FW7,A,E,73,2.1,P00648,120,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1D0D,B,E,49,3.8,P00974,84,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1KQV,A,E,26,4.1,P02633,30,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1EPI,A,E,24,4.1,P01132,1000,https://www.ncbi.nlm.nih.gov/pubmed/2036358,/
+2CI2,I,E,26,3.3,P01053,27,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+4ICB,A,E,17,3.62,P02633,21,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+Swiss,A,E,10,3.1,P00644,10,/,Δ+PHS L38K
+1CX6,A,E,11,5.4,P00720,11,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+1TRW,A,E,68,4.9,P10599,68,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1AZP,A,E,53,3.53,P13123,53,https://www.sciencedirect.com/science/article/pii/S0022283607008972,/
+2SNI,I,E,45,3.9,P01053,46,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,/
+1PGA,A,E,19,3.7,P06654,245,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1WLA,A,H,116,6.79,P68082,117,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+4LZT,A,H,15,5.36,P00698,33,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1HHO,A,H,112,8.1,P69905,113,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,deoxy form
+1GOA,A,H,127,7.9,P0A7Y4,127,https://www.ncbi.nlm.nih.gov/pubmed/8380173,/
+2MB5,A,H,36,8.2,P02185,37,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1DUK,A,H,116,6.63,P02185,117,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,/
+1THE,A,H,110,6.9,P00787,189,https://www.ncbi.nlm.nih.gov/pubmed/1537854,/
+1FKS,A,H,94,5.84,P62942,95,https://www.sciencedirect.com/science/article/pii/0167483894901325?via%3Dihub,/
+2CPL,A,H,126,6.34,P62937,126,https://www.sciencedirect.com/science/article/pii/0167483894901325?via%3Dihub,/
+1ERT,A,H,43,5.5,P10599,43,https://pubs.acs.org/doi/abs/10.1021/bi00128a019,reduced form
+2L6C,A,H,33,4.6,Q72F37,33,https://www.sciencedirect.com/science/article/pii/S0021925820532651?via%3Dihub,oxidized form
+4MBN,A,H,81,6.89,P02185,82,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1TEW,A,H,41,5.56,P00703,59,https://reader.elsevier.com/reader/sd/pii/S0006349594809002?token=3D6664526AD45A3909B80FDC6879934AF28431AFF02233FC744194410646D9BBAB83885869BC39F14A040B11EE5A3A30&originRegion=us-east-1&originCreation=20230216013558,/
+1YMB,A,H,36,7.98,P68082,37,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+3NBS,A,H,18,2.5,P00004,19,https://pubs.acs.org/doi/abs/10.1021/bi00654a018,/
+6K5W,A,H,18,6.8,Q12432,18,https://portlandpress.com/bioscirep/article/40/2/BSR20191958/222061/The-Eaf3-chromodomain-acts-as-a-pH-sensor-for-gene,/
+9RNT,A,H,92,7.31,P00651,118,https://link.springer.com/article/10.1007/s002490100138,/
+1A6K,A,H,113,5.44,P02185,114,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1A2P,A,H,102,6.3,P00648,149,https://www.ncbi.nlm.nih.gov/pubmed/3173493,/
+1DE3,A,H,137,5.8,P00655,164,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1PNT,A,H,72,9.19,P11064,73,https://pubs.acs.org/doi/abs/10.1021/bi9712448,/
+1YGW,A,H,27,7.57,P00651,53,https://link.springer.com/article/10.1007/s002490100138,/
+1STY,A,H,121,5.3,P00644,203,https://www.pnas.org/doi/abs/10.1073/pnas.90.8.3275,126G127
+1GYM,A,H,92,5.4,P14262,123,https://www.ncbi.nlm.nih.gov/pubmed/9300493,/
+4MBN,A,H,36,7.83,P02185,37,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1A6M,A,H,81,6.68,P02185,82,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1BNR,A,H,102,6.3,P00648,149,https://www.ncbi.nlm.nih.gov/pubmed/3173493,/
+1FW7,A,H,18,7.75,P00648,65,https://pubs.acs.org/doi/abs/10.1021/bi00241a021,/
+1A93,A,H,29,6.85,P01106,429,https://www.sciencedirect.com/science/article/pii/S0022283685706341?via%3Dihub,/
+1DWR,A,H,119,6.56,P68082,120,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1A6K,A,H,97,5.63,P02185,98,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1MGS,A,H,34,5.8,P09341,68,https://pubs.acs.org/doi/10.1021/acs.biochem.8b00756,/
+1HHO,B,H,77,7.8,P68871,78,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,deoxy form
+1A6K,A,H,116,6.49,P02185,117,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+2LZM,A,H,31,9.1,P00720,31,https://pubs.acs.org/doi/abs/10.1021/bi00461a025,/
+6GST,A,H,167,7.77,P04905,168,https://www.ncbi.nlm.nih.gov/pubmed/1918058,/
+1BCX,A,H,156,6.5,P09850,184,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+3SRN,A,H,12,6.03,P61823,38,https://www.pnas.org/content/88/18/8116,/
+6LYZ,A,H,15,5.5,P00698,33,https://www.ncbi.nlm.nih.gov/pubmed/1420975,/
+1HHO,B,H,2,6.7,P68871,3,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,deoxy form
+5DFR,A,H,149,6.5,P0ABQ4,149,https://pubs.acs.org/doi/10.1021/bi300911d,/
+1GOA,A,H,124,7.1,P0A7Y4,124,https://www.ncbi.nlm.nih.gov/pubmed/8380173,/
+1EY0,A,H,8,6.52,P00644,90,https://www.ncbi.nlm.nih.gov/pubmed/11969427,/
+3RN3,A,H,12,6.2,P61823,38,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+AAHAA,A,H,3,6.5,AAHAA,3,model_compound,/
+1EY0,A,H,46,5.86,P00644,128,https://www.ncbi.nlm.nih.gov/pubmed/11969427,/
+1A6K,A,H,119,6.13,P02185,120,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+2ZTA,A,H,18,6.24,P03069,266,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+1TEW,A,H,121,5.25,P00703,139,https://reader.elsevier.com/reader/sd/pii/S0006349594809002?token=3D6664526AD45A3909B80FDC6879934AF28431AFF02233FC744194410646D9BBAB83885869BC39F14A040B11EE5A3A30&originRegion=us-east-1&originCreation=20230216013558,/
+4MBN,A,H,116,6.66,P02185,117,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1GOA,A,H,62,7,P0A7Y4,62,https://www.ncbi.nlm.nih.gov/pubmed/8380173,/
+1HRC,A,H,33,6.4,P00004,34,https://pubs.acs.org/doi/abs/10.1021/bi00654a018,/
+1LZ1,A,H,78,7.12,P61626,96,https://onlinelibrary.wiley.com/doi/pdf/10.1002/bip.360320802,/
+1LNI,A,H,85,6.35,P05798,85,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1YPH,C,H,40,7.2,P00766,40,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,/
+1BNI,A,H,18,7.75,P00648,65,https://pubs.acs.org/doi/abs/10.1021/bi00241a021,/
+1YMB,A,H,81,6.72,P68082,82,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1YMB,A,H,119,6.37,P68082,120,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1DWR,A,H,81,6.94,P68082,82,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+2MB5,A,H,113,5.4,P02185,114,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1M2C,A,H,12,6.5,P56636,60,https://pubs.acs.org/doi/10.1021/jp3117227,/
+2RN2,A,H,127,7.9,P0A7Y4,127,https://www.ncbi.nlm.nih.gov/pubmed/8380173,/
+3O79,A,H,187,5.1,Q9TSF8,188,https://www.nature.com/articles/s41598-017-00954-7,/
+1RNZ,A,H,12,6,P61823,38,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1BNI,A,H,102,6.3,P00648,149,https://www.ncbi.nlm.nih.gov/pubmed/3173493,/
+4MYD,A,H,232,8,P37355,232,https://pubs.acs.org/doi/10.1021/bi900897h,/
+1PTD,A,H,92,5.4,P14262,123,https://www.ncbi.nlm.nih.gov/pubmed/9300493,/
+3VZJ,A,H,172,5.2,P09850,200,https://pubs.acs.org/doi/10.1021/bi400034m,E172H
+1GYM,A,H,32,7.6,P14262,63,https://www.ncbi.nlm.nih.gov/pubmed/9300493,/
+1WLA,A,H,113,5.87,P68082,114,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1A6M,A,H,113,5.44,P02185,114,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1PNT,A,H,66,8.29,P11064,67,https://pubs.acs.org/doi/abs/10.1021/bi9712448,/
+2KT2,A,H,17,7,P00392,17,https://pubs.acs.org/doi/10.1021/bi100537f,reduced form
+4HHB,A,H,112,8.1,P69905,113,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,HbCO form
+1B2V,A,H,83,5.6,Q54450,83,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2373534/,/
+9RNT,A,H,40,7.44,P00651,66,https://link.springer.com/article/10.1007/s002490100138,/
+1WLA,A,H,36,7.8,P68082,37,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1RDD,A,H,124,7.1,P0A7Y4,124,https://www.ncbi.nlm.nih.gov/pubmed/8380173,/
+2CPL,A,H,54,4.2,P62937,54,https://pubmed.ncbi.nlm.nih.gov/26408449/,/
+1RDD,A,H,127,7.9,P0A7Y4,127,https://www.ncbi.nlm.nih.gov/pubmed/8380173,/
+1W4H,A,H,166,5.39,P0AFG6,149,https://reader.elsevier.com/reader/sd/pii/S0022283608015775?token=8C192BAB9BD31FB1BB721F78F6B77FE845C07468F7077843DD0CD414A8359D4A59E46178949814C49A13B86F282FF871&originRegion=us-east-1&originCreation=20230307153503,/
+1STG,A,H,46,5.8,P00644,128,https://pubs.acs.org/doi/abs/10.1021/bi00406a051,/
+1POH,A,H,76,6,P0AA04,76,https://www.ncbi.nlm.nih.gov/pubmed/6809041,/
+4HHB,B,H,146,8.1,P68871,147,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,HbCO form
+1W4H,A,H,142,6.47,P0AFG6,125,https://reader.elsevier.com/reader/sd/pii/S0022283608015775?token=8C192BAB9BD31FB1BB721F78F6B77FE845C07468F7077843DD0CD414A8359D4A59E46178949814C49A13B86F282FF871&originRegion=us-east-1&originCreation=20230307153503,/
+1RGA,A,H,40,7.44,P00651,66,https://link.springer.com/article/10.1007/s002490100138,/
+1RNH,A,H,124,7.1,P0A7Y4,124,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1Z12,A,H,66,8.36,P11064,67,https://pubs.acs.org/doi/abs/10.1021/bi990381x,/
+1STN,A,H,8,6.52,P00644,90,https://pubs.acs.org/doi/pdf/10.1021/bi0119417,/
+1WLA,A,H,81,6.94,P68082,82,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1STY,A,H,124,5.73,P00644,206,https://www.pnas.org/doi/abs/10.1073/pnas.90.8.3275,126G127
+1DE3,A,H,50,7.7,P00655,77,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1DE3,A,H,82,7.3,P00655,109,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1MBC,A,H,116,6.6,P02185,117,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1KF3,A,H,12,6,P61823,38,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+7RSA,A,H,12,6,P61823,38,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+2M5S,A,H,305,9.1,P26747,305,https://www.sciencedirect.com/science/article/pii/S0021925820408749?via%3Dihub,/
+2MB5,A,H,119,6.1,P02185,120,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1QH7,A,H,11,6.52,Q7SIE3,11,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1DUK,A,H,119,6.39,P02185,120,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,/
+2DUC,A,H,41,6.3,P0C6X7,3281,https://pubs.acs.org/doi/10.1021/bi400604t,/
+1H4G,A,H,60,4.01,Q7SIE3,60,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1VA3,A,H,611,6.2,P08047,700,https://pubs.acs.org/doi/10.1021/ja211417g,/
+9RNT,A,H,27,7.57,P00651,53,https://link.springer.com/article/10.1007/s002490100138,/
+1BVI,B,H,92,7.31,P00651,118,https://link.springer.com/article/10.1007/s002490100138,/
+1DWR,A,H,116,6.79,P68082,117,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1BVI,B,H,27,7.57,P00651,53,https://link.springer.com/article/10.1007/s002490100138,/
+4HHB,B,H,143,5.6,P68871,144,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,HbCO form
+1YMB,A,H,113,5.51,P68082,114,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+3NBS,A,H,33,6.4,P00004,34,https://pubs.acs.org/doi/abs/10.1021/bi00654a018,/
+1VA3,A,H,615,6.1,P08047,704,https://pubs.acs.org/doi/10.1021/ja211417g,/
+5DFR,A,H,141,8,P0ABQ4,141,https://pubs.acs.org/doi/10.1021/bi300911d,/
+3EBX,A,H,6,2.8,Q90VW1,27,https://www.ncbi.nlm.nih.gov/pubmed/710401,/
+1DE3,A,H,92,6.9,P00655,119,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1DUK,A,H,113,5.46,P02185,114,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,/
+4HHB,B,H,77,7.8,P68871,78,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,HbCO form
+1STN,A,H,124,5.73,P00644,206,https://pubs.acs.org/doi/pdf/10.1021/bi0119417,/
+1MBC,A,H,36,8.2,P02185,37,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1QT8,A,H,31,8.9,P00720,31,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+2CPL,A,H,92,4.2,P62937,92,https://pubmed.ncbi.nlm.nih.gov/26408449/,/
+1B2X,A,H,18,7.75,P00648,65,https://pubs.acs.org/doi/abs/10.1021/bi00241a021,/
+1HHO,B,H,146,7,P68871,147,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,deoxy form
+4MBN,A,H,113,5.51,P02185,114,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+4MBN,A,H,119,6.38,P02185,120,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1GZW,A,H,52,6.3,P09382,53,https://pubs.acs.org/doi/10.1021/bi4001112,/
+1YPH,C,H,57,6.14,P00766,57,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,/
+1PTD,A,H,32,7.6,P14262,63,https://www.ncbi.nlm.nih.gov/pubmed/9300493,/
+1YPI,A,H,103,7.29,P00942,103,https://pubs.acs.org/doi/abs/10.1021/bi00067a024,/
+1I0V,A,H,40,7.44,P00651,66,https://link.springer.com/article/10.1007/s002490100138,/
+2TRX,A,H,6,6.2,P0AA25,7,https://pubs.acs.org/doi/abs/10.1021/bi961801a,/
+1RGG,A,H,85,6.35,P05798,85,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+5DFR,A,H,124,7.6,P0ABQ4,124,https://pubs.acs.org/doi/10.1021/bi300911d,/
+4HHB,B,H,2,6.7,P68871,3,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,HbCO form
+1QT8,A,H,26,6.8,P00720,26,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,T26H
+1XOB,A,H,6,6,P0AA25,7,https://www.sciencedirect.com/science/article/pii/S0969212694000867?via%3Dihub,/
+1YMB,A,H,116,6.7,P68082,117,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1YGW,A,H,92,7.31,P00651,118,https://link.springer.com/article/10.1007/s002490100138,/
+1B10,A,H,187,4.9,P04273,187,https://www.nature.com/articles/s41598-017-00954-7,/
+1HHO,A,H,50,7.1,P69905,51,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,deoxy form
+1QH7,A,H,60,4.01,Q7SIE3,60,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+3SSI,A,H,106,6,P01006,137,https://www.ncbi.nlm.nih.gov/pubmed/6998977,/
+1VA3,A,H,619,6.2,P08047,708,https://pubs.acs.org/doi/10.1021/ja211417g,/
+1A6K,A,H,81,6.68,P02185,82,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1MBC,A,H,113,5.4,P02185,114,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1A6M,A,H,119,6.13,P02185,120,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1FW7,A,H,102,6.3,P00648,149,https://www.ncbi.nlm.nih.gov/pubmed/3173493,/
+1GYM,A,H,82,6.9,P14262,113,https://www.ncbi.nlm.nih.gov/pubmed/9300493,/
+3KMF,A,H,50,7.25,P69905,51,https://www.sciencedirect.com/science/article/pii/S0022283610002548?via%3Dihub,deoxy form
+1YMB,A,H,48,5.61,P68082,49,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1B2X,A,H,102,6.3,P00648,149,https://www.ncbi.nlm.nih.gov/pubmed/3173493,/
+1DG9,A,H,72,9.19,P11064,73,https://pubs.acs.org/doi/abs/10.1021/bi9712448,/
+1RDD,A,H,62,7,P0A7Y4,62,https://www.ncbi.nlm.nih.gov/pubmed/8380173,/
+1A6M,A,H,116,6.49,P02185,117,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1PTD,A,H,227,6.9,P14262,258,https://www.ncbi.nlm.nih.gov/pubmed/9300493,/
+5H3M,A,H,92,4.3,P06396,146,https://www.nature.com/articles/srep45230,/
+1A6K,A,H,36,8.06,P02185,37,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1A42,A,H,64,6,P00918,64,https://www.pnas.org/doi/10.1073/pnas.1502255112?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed,/
+1STG,A,H,124,5.99,P00644,206,https://pubs.acs.org/doi/abs/10.1021/bi00406a051,/
+1BNJ,A,H,102,6.3,P00648,149,https://www.ncbi.nlm.nih.gov/pubmed/3173493,/
+1CX6,A,H,31,9.1,P00720,31,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+1HHO,A,H,89,5.6,P69905,90,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,deoxy form
+9RAT,A,H,12,6,P61823,38,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+2TGA,A,H,57,7.33,P00760,63,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,zymogen
+2RN2,A,H,114,5,P0A7Y4,114,https://www.sciencedirect.com/science/article/pii/S0006349512007333?via%3Dihub#app2,/
+2OVO,A,H,52,7.5,P67954,52,https://pubs.acs.org/doi/abs/10.1021/bi00014a028,/
+1HRC,A,H,18,2.5,P00004,19,https://pubs.acs.org/doi/abs/10.1021/bi00654a018,/
+1A6M,A,H,97,5.63,P02185,98,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1KN6,A,H,40,6.3,P63239,67,https://pubs.acs.org/doi/10.1021/acs.analchem.5b01721,/
+1DE3,A,H,104,6.6,P00655,131,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1EY0,A,H,124,5.73,P00644,206,https://www.ncbi.nlm.nih.gov/pubmed/11969427,/
+1DUI,A,H,64,7.2,P00782,171,https://www.sciencedirect.com/science/article/pii/S0006349512007333?via%3Dihub#app2,/
+1DWR,A,H,113,5.87,P68082,114,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+4HHB,A,H,50,7.2,P69905,51,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,HbCO form
+1STG,A,H,8,6.82,P00644,90,https://pubs.acs.org/doi/abs/10.1021/bi00406a051,/
+5DFR,A,H,45,7,P0ABQ4,45,https://pubs.acs.org/doi/10.1021/bi300911d,/
+1GNS,A,H,64,7.17,P00782,171,https://onlinelibrary.wiley.com/doi/full/10.1110/ps.062538707,/
+1STY,A,H,8,6.52,P00644,90,https://www.pnas.org/doi/abs/10.1073/pnas.90.8.3275,126G127
+2TGA,A,H,40,4.57,P00760,46,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,zymogen
+1BNJ,A,H,18,7.75,P00648,65,https://pubs.acs.org/doi/abs/10.1021/bi00241a021,/
+1DUK,A,H,81,6.58,P02185,82,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,/
+1A2P,A,H,18,7.75,P00648,65,https://pubs.acs.org/doi/abs/10.1021/bi00241a021,/
+3RN3,A,H,48,6,P61823,74,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1MBC,A,H,119,6.1,P02185,120,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+2MB5,A,H,97,5.6,P02185,98,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1MBC,A,H,81,6.7,P02185,82,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1MBC,A,H,97,5.6,P02185,98,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+2KIX,A,H,19,6.5,B4UQM4,19,https://academic.oup.com/jb/article/145/4/543/2182450?login=true,/
+1GYM,A,H,227,6.9,P14262,258,https://www.ncbi.nlm.nih.gov/pubmed/9300493,/
+1DWR,A,H,48,5.62,P68082,49,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+3VZL,A,H,35,7.5,P09850,63,https://pubs.acs.org/doi/10.1021/bi400034m,N35H
+6GST,A,H,84,7.08,P04905,85,https://www.ncbi.nlm.nih.gov/pubmed/1918058,/
+1XNB,A,H,156,6.5,P09850,184,https://www.ncbi.nlm.nih.gov/pubmed/9416621,/
+1WLA,A,H,48,5.62,P68082,49,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+2MB5,A,H,116,6.6,P02185,117,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1STY,A,H,46,5.86,P00644,128,https://www.pnas.org/doi/abs/10.1073/pnas.90.8.3275,126G127
+3RN3,A,H,119,6.1,P61823,145,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1I0V,A,H,92,7.31,P00651,118,https://link.springer.com/article/10.1007/s002490100138,/
+1RNH,A,H,127,7.9,P0A7Y4,127,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1M2C,A,H,9,6.6,P56636,57,https://pubs.acs.org/doi/10.1021/jp3117227,/
+1I0V,A,H,27,7.57,P00651,53,https://link.springer.com/article/10.1007/s002490100138,/
+1RNH,A,H,62,7,P0A7Y4,62,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1EY0,A,H,121,5.3,P00644,203,https://www.ncbi.nlm.nih.gov/pubmed/11969427,/
+1DUK,A,H,36,7.84,P02185,37,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,/
+1PTD,A,H,82,6.9,P14262,113,https://www.ncbi.nlm.nih.gov/pubmed/9300493,/
+1DE3,A,H,150,7.6,P00655,177,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1ERA,A,H,26,5.8,Q90VW1,47,https://www.ncbi.nlm.nih.gov/pubmed/710401,/
+1STN,A,H,121,5.3,P00644,203,https://pubs.acs.org/doi/pdf/10.1021/bi0119417,/
+1BVI,B,H,40,7.44,P00651,66,https://link.springer.com/article/10.1007/s002490100138,/
+2RN2,A,H,62,7,P0A7Y4,62,https://www.ncbi.nlm.nih.gov/pubmed/8380173,/
+1Z12,A,H,72,9.19,P11064,73,https://pubs.acs.org/doi/abs/10.1021/bi990381x,/
+1YGW,A,H,40,7.44,P00651,66,https://link.springer.com/article/10.1007/s002490100138,/
+3RN3,A,H,105,6.7,P61823,131,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1DE3,A,H,35,6.3,P00655,62,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1DE3,A,H,36,6.8,P00655,63,https://pubs.acs.org/doi/abs/10.1021/bi981672t,/
+1STN,A,H,46,5.86,P00644,128,https://pubs.acs.org/doi/pdf/10.1021/bi0119417,/
+2RN2,A,H,124,7.1,P0A7Y4,124,https://www.ncbi.nlm.nih.gov/pubmed/8380173,/
+1WLA,A,H,119,6.56,P68082,120,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+2MB5,A,H,81,6.7,P02185,82,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1MGS,A,H,19,5.2,P09341,53,https://pubs.acs.org/doi/10.1021/acs.biochem.8b00756,/
+3NBS,A,H,26,2.9,P00004,27,https://www.pnas.org/doi/full/10.1073/pnas.1001839107,/
+1RGA,A,H,27,7.57,P00651,53,https://link.springer.com/article/10.1007/s002490100138,/
+1H4G,A,H,11,6.52,Q7SIE3,11,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1BNR,A,H,18,7.75,P00648,65,https://pubs.acs.org/doi/abs/10.1021/bi00241a021,/
+2CPL,A,H,70,5.84,P62937,70,https://www.sciencedirect.com/science/article/pii/0167483894901325?via%3Dihub,/
+2LZT,A,H,15,5.36,P00698,33,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1DG9,A,H,66,8.29,P11064,67,https://pubs.acs.org/doi/abs/10.1021/bi9712448,/
+3FT7,B,H,51,6.94,Q54323,51,,/
+1LNI,A,H,53,8.27,P05798,53,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1GZW,A,H,44,5.7,P09382,45,https://pubs.acs.org/doi/10.1021/bi4001112,/
+1KN6,A,H,48,6,P63239,75,https://pubs.acs.org/doi/10.1021/acs.analchem.5b01721,/
+4HHB,A,H,89,7.2,P69905,90,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,HbCO form
+1A6M,A,H,36,8.06,P02185,37,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+3KMF,A,H,89,6.88,P69905,90,https://www.sciencedirect.com/science/article/pii/S0022283610002548?via%3Dihub,deoxy form
+3EBX,A,H,26,5.8,Q90VW1,47,https://www.ncbi.nlm.nih.gov/pubmed/710401,/
+1RGA,A,H,92,7.31,P00651,118,https://link.springer.com/article/10.1007/s002490100138,/
+1DWR,A,H,36,7.8,P68082,37,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+2L6D,A,H,33,7.2,Q72F37,33,https://www.sciencedirect.com/science/article/pii/S0021925820532651?via%3Dihub,reduced form
+1P5F,A,C,106,5.4,Q99497,106,,/
+1J42,A,C,106,5.4,Q99497,106,https://www.sciencedirect.com/science/article/pii/S1047847711002504?via%3Dihub,/
+1I0E,A,C,283,5.6,P06732,283,,/
+1JBB,A,C,87,11.1,P52490,87,https://www.sciencedirect.com/science/article/pii/S0021925820480986?via%3Dihub,/
+1A2L,A,C,30,3.4,P0AEG4,49,https://onlinelibrary.wiley.com/doi/10.1002/prot.24142,/
+AACAA,A,C,3,8.5,AACAA,3,model_compound,/
+2PPT,A,C,73,5.2,2PPT,73,https://www.sciencedirect.com/science/article/pii/S0021925820480986?via%3Dihub,/
+1DSB,A,C,30,3.4,P0AEG4,49,https://onlinelibrary.wiley.com/doi/10.1002/prot.24142,/
+6AYW,A,C,273,7.4,Q13557,273,https://pubmed.ncbi.nlm.nih.gov/36220393/,/
+6Q46,A,C,39,9.5,P80028,40,https://www.mdpi.com/2076-3921/8/1/10,reduced form
+1SUX,A,C,15,9.3,P52270,15,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018791,/
+5B6M,A,C,47,4.6,P30041,47,https://onlinelibrary.wiley.com/doi/10.1002/prot.24142,/
+1ACV,A,C,30,4.9,P0AEG4,49,https://onlinelibrary.wiley.com/doi/10.1002/prot.24142,H32S
+1ERT,A,C,32,6.3,P10599,32,,reduced form
+1AO6,A,C,34,6.9,P02768,58,,/
+1EH6,A,C,145,5.3,P16455,145,,/
+1PPN,A,C,25,3.32,P00784,158,,/
+1N5U,A,C,34,5,P02768,58,https://onlinelibrary.wiley.com/doi/10.1002/prot.24142,/
+1JAS,A,C,88,10.2,P63146,88,https://www.sciencedirect.com/science/article/pii/S0021925820480986?via%3Dihub,/
+1LJL,A,C,89,9.5,P0A006,89,https://www.sciencedirect.com/science/article/pii/S0021925820480986?via%3Dihub,/
+1LJL,A,C,10,6.8,P0A006,10,https://www.sciencedirect.com/science/article/pii/S0021925820480986?via%3Dihub,/
+1XOB,A,C,32,7.1,P0AA25,33,https://www.sciencedirect.com/science/article/pii/S0021925820480986?via%3Dihub,/
+2KT2,A,C,11,6.2,P00392,11,https://pubs.acs.org/doi/10.1021/bi100537f,reduced form
+2KT2,A,C,14,9,P00392,14,https://pubs.acs.org/doi/10.1021/bi100537f,reduced form
+4MA9,A,C,46,5.94,P0A251,47,,/
+5X79,A,C,48,3.7,P09211,48,https://pubs.acs.org/doi/10.1021/tx900095r,/
+2L6D,A,C,34,11.3,Q72F37,34,https://www.sciencedirect.com/science/article/pii/S0021925820532651?via%3Dihub,reduced form
+1VA3,A,C,602,8.2,P08047,691,https://pubs.acs.org/doi/10.1021/ja211417g,/
+6Q46,A,C,36,6.6,P80028,37,https://www.mdpi.com/2076-3921/8/1/10,reduced form
+1TL4,A,C,12,8.5,O00244,12,https://pubs.acs.org/doi/10.1021/ja1091547,/
+1A2M,A,C,30,3.4,P0AEG4,49,https://onlinelibrary.wiley.com/doi/10.1002/prot.24142,/
+1QLP,A,C,232,6.8,P01009,256,https://link.springer.com/article/10.1007/s10930-014-9564-z,/
+3ERW,A,C,68,7.8,O31687,68,https://www.sciencedirect.com/science/article/pii/S0021925820322687?via%3Dihub,/
+1J6Y,A,C,70,4.9,Q9SL42,69,https://www.frontiersin.org/articles/10.3389/fpls.2021.735423/full,/
+1KTE,A,C,22,4.9,P12309,23,https://link.springer.com/article/10.1007/s10930-014-9564-z,/
+1MEK,A,C,36,4.5,P07237,53,,/
+1AC1,A,C,30,4.4,P0AEG4,49,https://onlinelibrary.wiley.com/doi/10.1002/prot.24142,H32L
+1I7K,A,C,102,10.9,O00762,102,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7772776/,/
+2O89,A,C,29,6.4,P0A0K6,29,https://www.sciencedirect.com/science/article/pii/S0021925820480986?via%3Dihub,/
+3FZ9,A,C,29,2.84,3FZ9,29,https://www.sciencedirect.com/science/article/pii/S0021925820323280?via%3Dihub,/
+6AYW,A,C,290,9.7,Q13557,290,https://pubmed.ncbi.nlm.nih.gov/36220393/,/
+1PPO,A,C,25,3.3,P10056,157,https://link.springer.com/article/10.1007/s10930-014-9564-z,/
+3VJO,A,C,797,5.5,P00533,797,https://www.sciencedirect.com/science/article/pii/S2451945616301970?via%3Dihub,/
+1A2J,A,C,30,3.4,P0AEG4,49,https://onlinelibrary.wiley.com/doi/10.1002/prot.24142,/
+5X79,A,C,170,9.1,P09211,170,https://pubs.acs.org/doi/10.1021/tx900095r,/
+3FZ9,A,C,87,5.63,3FZ9,87,https://www.sciencedirect.com/science/article/pii/S0021925820323280?via%3Dihub,/
+2TRX,A,C,32,7.1,P0AA25,33,,/
+6TIM,A,C,14,10.5,P04789,14,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018791,/
+1VA3,A,C,599,8.3,P08047,688,https://pubs.acs.org/doi/10.1021/ja211417g,/
+2DUC,A,C,145,8,P0C6X7,3385,https://pubs.acs.org/doi/10.1021/bi400604t,/
+2HNP,A,C,215,5.57,P18031,215,,/
+1SU9,A,C,76,8.2,P35160,77,https://www.sciencedirect.com/science/article/pii/S0021925820480986?via%3Dihub,/
+3ERW,A,C,65,5.5,O31687,65,https://www.sciencedirect.com/science/article/pii/S0021925820322687?via%3Dihub,/
+1FOV,A,C,11,4.1,P0AC62,12,https://link.springer.com/article/10.1007/s10930-014-9564-z,/
+5X79,A,C,102,12.7,P09211,102,https://pubs.acs.org/doi/10.1021/tx900095r,/
+2LZT,A,K,33,10.6,P00698,51,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1KQV,A,K,1,10.6,P02633,5,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+3E5S,A,K,103,8.2,P00644,185,https://www.pnas.org/doi/suppl/10.1073/pnas.1010750108,Δ+PHS L103K
+1LE2,A,K,72,10,P02649,90,https://www.cell.com/structure/fulltext/S0969-2126(00)00072-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212600000721%3Fshowall%3Dtrue,/
+3ERQ,A,K,25,6.3,P00644,107,https://pubs.acs.org/doi/10.1021/acs.biochem.5b00522,Δ+PHS L25K
+1NFN,A,K,146,9.2,P02649,164,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+1GS9,A,K,72,10,P02649,90,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+2OVO,A,K,13,9.86,P67954,13,https://www.ncbi.nlm.nih.gov/pubmed/9628726,/
+3EJI,A,K,36,7.2,P00644,118,https://www.pnas.org/doi/suppl/10.1073/pnas.1010750108,Δ+PHS L36K
+1BHC,J,K,26,10.6,P00974,61,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1BEO,A,K,94,9.4,P15570,114,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+2ZTA,A,K,8,11.26,P03069,256,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+4HMI,A,K,99,6.5,P00644,181,https://www.pnas.org/doi/suppl/10.1073/pnas.1010750108,Δ+PHS V99K
+1LSE,A,K,97,10.3,P00698,115,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+2LZT,A,K,97,10.3,P00698,115,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+2BCA,A,K,7,11.36,P02633,11,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1IGV,A,K,16,11.06,P02633,20,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1TGU,A,K,476,10.2,P00432,477,https://www.sciencedirect.com/science/article/pii/S0003986117301996?via%3Dihub,/
+3ICB,A,K,55,11.43,P02633,59,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1LYS,A,K,33,10.6,P00698,51,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1KSM,A,K,12,11.1,P02633,16,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+3ICB,A,K,7,11.39,P02633,11,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1KSM,A,K,16,10.1,P02633,20,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1TGU,A,K,467,10.5,P00432,468,https://www.sciencedirect.com/science/article/pii/S0003986117301996?via%3Dihub,/
+Swiss,A,K,112,10.4,P00644,200,/,Δ+PHS N118K
+4PTI,A,K,15,10.6,P00974,50,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+2ZTA,A,K,27,11.1,P03069,275,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+2OVO,A,K,29,11.12,P67954,29,https://www.ncbi.nlm.nih.gov/pubmed/9628726,/
+1IGD,A,K,24,10.7,P06654,315,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1BEO,A,K,61,10.1,P15570,81,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+3FT7,B,K,12,10.83,Q54323,12,,/
+Swiss,A,K,39,9,P00644,121,/,Δ+PHS V39K
+1L54,A,K,102,6.5,P00720,102,https://pubs.acs.org/doi/abs/10.1021/bi00113a006,/
+1JV8,A,K,41,10.8,P00974,76,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+1IG5,A,K,7,11.36,P02633,11,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+3DMU,A,K,62,8.1,P00644,144,,PHS T62K
+4ICB,A,K,1,10.59,P02633,5,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+4ICB,A,K,72,11.33,P02633,76,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1BPI,A,K,15,10.6,P00974,50,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+4PTI,A,K,26,10.6,P00974,61,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1PPF,I,K,55,11.1,P68390,184,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,/
+2SNM,A,K,66,6.4,P00644,148,,V66K
+1LE2,A,K,143,9.4,P02649,161,https://www.cell.com/structure/fulltext/S0969-2126(00)00072-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212600000721%3Fshowall%3Dtrue,/
+1HRC,A,K,79,9,P00004,80,https://pubs.acs.org/doi/abs/10.1021/bi00654a018,/
+1IG5,A,K,41,10.93,P02633,45,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+2BCA,A,K,41,10.93,P02633,45,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1KSM,A,K,72,11.3,P02633,76,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1PGA,A,K,28,10.9,P06654,254,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+Swiss,A,K,38,10.4,P00644,120,/,Δ+PHS L38K
+1GS9,A,K,75,10.1,P02649,93,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+4ICB,A,K,55,12.12,P02633,59,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+4LZT,A,K,33,10.6,P00698,51,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1KSM,A,K,7,11.4,P02633,11,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1TT2,A,K,92,5.3,P00644,174,https://www.pnas.org/doi/suppl/10.1073/pnas.1010750108,Δ+PHS I92K
+1GB1,A,K,28,10.9,P06654,254,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1KQV,A,K,55,12.1,P02633,59,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+2OVO,A,K,34,10.13,P67954,34,https://www.ncbi.nlm.nih.gov/pubmed/9628726,/
+3ICB,A,K,1,10.61,P02633,5,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1IGV,A,K,55,12.12,P02633,59,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1NFN,A,K,75,10.1,P02649,93,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+1GS9,A,K,146,9.2,P02649,164,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+K64G,A,K,66,7.1,P00644,148,/,/
+1TGU,A,K,236,10.3,P00432,237,https://www.sciencedirect.com/science/article/pii/S0003986117301996?via%3Dihub,/
+3ICB,A,K,41,10.95,P02633,45,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+3ICB,A,K,12,11.06,P02633,16,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1XSN,A,K,312,9.58,Q9UGP5,312,https://pubs.acs.org/doi/abs/10.1021/bi051856p,/
+3FT7,B,K,32,10.43,Q54323,32,,/
+1IG5,A,K,12,11.06,P02633,16,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+3HZX,A,K,66,5.6,P00644,148,https://www.pnas.org/doi/suppl/10.1073/pnas.1010750108,Δ+PHS V66K
+2LZT,A,K,1,10.9,P00698,19,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1KQV,A,K,7,11.4,P02633,11,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1TGU,A,K,498,10.4,P00432,499,https://www.sciencedirect.com/science/article/pii/S0003986117301996?via%3Dihub,/
+1LE2,A,K,69,10.1,P02649,87,https://www.cell.com/structure/fulltext/S0969-2126(00)00072-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212600000721%3Fshowall%3Dtrue,/
+1BEG,A,K,61,10.1,P15570,81,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+1KSM,A,K,55,12.1,P02633,59,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+2LZT,A,K,116,10.4,P00698,134,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1JV8,A,K,26,10.4,P00974,61,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+1BPI,A,K,41,10.8,P00974,76,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1TGU,A,K,456,10.6,P00432,457,https://www.sciencedirect.com/science/article/pii/S0003986117301996?via%3Dihub,/
+1LYS,A,K,1,10.8,P00698,19,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+Swiss,A,K,52,10.4,P00644,140,/,Δ+PHS A58K
+3ICB,A,K,72,11.01,P02633,76,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+2OVO,A,K,55,11.1,P67954,55,https://www.ncbi.nlm.nih.gov/pubmed/9628726,/
+4ICB,A,K,12,11.06,P02633,16,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+Swiss,A,K,60,6.3,P00644,148,/,Δ+PHS K64GV66K
+1KQV,A,K,41,10.9,P02633,45,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+3FT7,B,K,45,11.84,Q54323,45,,/
+2BCA,A,K,1,10.59,P02633,5,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1LE2,A,K,75,10,P02649,93,https://www.cell.com/structure/fulltext/S0969-2126(00)00072-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212600000721%3Fshowall%3Dtrue,/
+1IGV,A,K,72,11.33,P02633,76,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1LSE,A,K,1,10.8,P00698,19,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1KQV,A,K,25,11.7,P02633,29,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1KQV,A,K,16,10.1,P02633,20,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1NZP,A,K,312,9.58,Q9UGP5,312,https://pubs.acs.org/doi/abs/10.1021/bi051856p,/
+1D0D,B,K,26,10.6,P00974,61,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+4ICB,A,K,25,11.81,P02633,29,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1GS9,A,K,157,11.1,P02649,175,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+3FT7,B,K,30,11.18,Q54323,30,,/
+1GS9,A,K,95,10.1,P02649,113,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+1GB1,A,K,10,11,P06654,236,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1NFN,A,K,69,10.4,P02649,87,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+2GB1,A,K,28,10.9,P06654,254,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1KQV,A,K,72,11.3,P02633,76,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+2BCA,A,K,16,11.06,P02633,20,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1LYS,A,K,116,10.4,P00698,134,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1BEG,A,K,94,9.4,P15570,114,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+1BHC,J,K,15,10.6,P00974,50,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1LE2,A,K,157,10.9,P02649,175,https://www.cell.com/structure/fulltext/S0969-2126(00)00072-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212600000721%3Fshowall%3Dtrue,/
+1LYS,A,K,97,10.3,P00698,115,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1NFN,A,K,157,11.1,P02649,175,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+4ICB,A,K,7,11.36,P02633,11,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+3C1E,A,K,125,6.2,P00644,207,https://pubs.acs.org/doi/10.1021/acs.biochem.5b00522,Δ+PHS L125K
+1D0D,B,K,15,10.6,P00974,50,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+4LZT,A,K,1,10.9,P00698,19,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+2RBM,A,K,72,8.6,P00644,154,https://www.pnas.org/doi/suppl/10.1073/pnas.1010750108,Δ+PHS I72K
+1FEZ,A,K,53,9.3,O31156,50,https://pubs.acs.org/doi/abs/10.1021/bi026388n,/
+1ARS,A,K,258,6.87,P00509,246,https://pubs.acs.org/doi/pdf/10.1021/bi001403e,/
+1TGU,A,K,448,10.4,P00432,449,https://www.sciencedirect.com/science/article/pii/S0003986117301996?via%3Dihub,/
+Swiss,A,K,84,8.6,P00644,172,/,Δ+PHS A90K
+1BPI,A,K,46,10.6,P00974,81,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+2ZTA,A,K,28,10.64,P03069,276,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+2BCA,A,K,55,12.12,P02633,59,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1IGV,A,K,7,11.36,P02633,11,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1KSM,A,K,25,11.7,P02633,29,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1LE2,A,K,95,10.2,P02649,113,https://www.cell.com/structure/fulltext/S0969-2126(00)00072-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212600000721%3Fshowall%3Dtrue,/
+1AXT,H,K,93,5.5,P01865,5099,https://www.science.org/doi/10.1126/science.278.5346.2085,/
+3BH2,A,K,115,5.96,P23670,115,https://www.nature.com/articles/nature07938#ref-CR6,/
+AAKAA,A,K,3,10.4,AAKAA,3,model_compound,/
+1JV8,A,K,15,10.4,P00974,50,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+2IGH,A,K,24,10.7,P06654,315,https://pubs.acs.org/doi/full/10.1021/bi9630927,/
+3ICB,A,K,16,10.06,P02633,20,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+Swiss,A,K,94,8.6,P00644,182,/,Δ+PHS N100K
+1GS9,A,K,69,10.4,P02649,87,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+1IGV,A,K,25,11.81,P02633,29,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+3ICB,A,K,25,11.72,P02633,29,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1KSM,A,K,1,10.6,P02633,5,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+3QOJ,A,K,23,7.3,P00644,105,https://www.pnas.org/doi/suppl/10.1073/pnas.1010750108,Δ+PHS V23K
+3GDK,A,K,93,7.7,P03962,93,https://pubs.acs.org/doi/10.1021/ja3058474,/
+1IGV,A,K,1,10.59,P02633,5,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1IG5,A,K,16,11.06,P02633,20,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+2QMT,A,K,28,10.9,P19909,329,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+6MZ1,A,K,73,5.4,Q9L5C7,76,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7084157/,/
+1IG5,A,K,55,12.12,P02633,59,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+Swiss,A,K,34,7.1,P00644,116,/,Δ+PHS F34K
+3GB1,A,K,28,10.9,P06654,254,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+Swiss,A,K,37,10.4,P00644,119,/,Δ+PHS L37K
+1IG5,A,K,72,11.33,P02633,76,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+4ICB,A,K,41,10.93,P02633,45,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+3RUZ,A,K,74,7.4,P00644,156,https://www.pnas.org/doi/suppl/10.1073/pnas.1010750108,Δ+PHS V74K
+4LZT,A,K,97,10.3,P00698,115,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1IG5,A,K,25,11.81,P02633,29,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+2BCA,A,K,12,11.06,P02633,16,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1NFN,A,K,143,9.5,P02649,161,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+1NFN,A,K,72,10,P02649,90,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+2ZTA,A,K,3,10.78,P03069,251,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+4LZT,A,K,116,10.4,P00698,134,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1LSE,A,K,116,10.4,P00698,134,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1MUT,A,K,39,8.4,P08337,39,https://pubs.acs.org/doi/abs/10.1021/bi9918745,/
+1IG5,A,K,1,10.59,P02633,5,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+Swiss,A,K,103,9.2,P00644,191,/,Δ+PHS A109K
+1NFN,A,K,95,10.1,P02649,113,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+1IGV,A,K,41,10.93,P02633,45,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1KSM,A,K,41,10.9,P02633,45,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+4ICB,A,K,16,10.06,P02633,20,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1PGJ,A,K,185,9.9,P31072,186,https://www.sciencedirect.com/science/article/pii/S1570963914000387?via%3Dihub,/
+1LSE,A,K,33,10.6,P00698,51,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1PGB,A,K,28,10.9,P06654,254,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1IGV,A,K,12,11.06,P02633,16,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1GS9,A,K,143,9.5,P02649,161,https://www.ncbi.nlm.nih.gov/pubmed/12588864,/
+1BPI,A,K,26,10.6,P00974,61,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+2BCA,A,K,72,11.33,P02633,76,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1LE2,A,K,146,9.9,P02649,164,https://www.cell.com/structure/fulltext/S0969-2126(00)00072-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212600000721%3Fshowall%3Dtrue,/
+2ZTA,A,K,15,10.62,P03069,263,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+1KQV,A,K,12,11.1,P02633,16,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+Swiss,A,K,60,6.4,P00644,148,/,Δ+PHS V66K
+1ANS,A,Y,18,10.1,P01535,18,https://www.ncbi.nlm.nih.gov/pubmed/8102051,/
+1HRC,A,Y,67,11,P00004,68,https://pubs.acs.org/doi/abs/10.1021/bi00654a018,/
+3FT7,B,Y,16,9.67,Q54323,16,,/
+1BMF,D,Y,368,7.2,P00829,418,https://portlandpress.com/biochemj/article/423/2/219/44702/Nitration-of-tyrosine-residues-368-and-345-in-the,/
+2OVO,A,Y,20,11.07,P67954,20,https://www.ncbi.nlm.nih.gov/pubmed/9628726,/
+4PTI,A,Y,23,11.7,P00974,58,https://pubs.acs.org/doi/abs/10.1021/bi00688a008,/
+1BPI,A,Y,10,9.46,P00974,45,https://pubs.acs.org/doi/pdf/10.1021/bi00264a020,/
+1MBC,A,Y,103,10.3,P02185,104,https://www.ncbi.nlm.nih.gov/pubmed/8455,/
+2MB5,A,Y,103,10.3,P02185,104,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+2LZT,A,Y,23,9.8,P00698,41,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1BMF,D,Y,345,8.3,P00829,395,https://portlandpress.com/biochemj/article/423/2/219/44702/Nitration-of-tyrosine-residues-368-and-345-in-the,/
+1BEG,A,Y,85,10.35,P15570,105,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+2OVO,A,Y,31,12.5,P67954,31,https://www.sciencedirect.com/science/article/pii/S0006349512007333?via%3Dihub#app2,/
+1PPF,I,Y,11,10.2,P68390,140,https://pubs.acs.org/doi/pdf/10.1021/bi00014a028,/
+1BEO,A,Y,12,11.5,P15570,32,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+1JV8,A,Y,35,10.6,P00974,70,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+1MBC,A,Y,151,10.5,P02185,152,https://www.ncbi.nlm.nih.gov/pubmed/8455,/
+1BEO,A,Y,85,10.35,P15570,105,https://www.ncbi.nlm.nih.gov/pubmed/9862128,/
+1A42,A,Y,7,7.1,P00918,7,https://www.pnas.org/doi/10.1073/pnas.1502255112?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed,/
+AAYAA,A,Y,3,10.1,AAYAA,3,model_compound,/
+2UDP,A,Y,149,6.08,P09147,149,https://pubs.acs.org/doi/pdf/10.1021/bi970430a,/
+1BPI,A,Y,35,10.6,P00974,70,https://pubs.acs.org/doi/pdf/10.1021/bi00264a020,/
+2LZT,A,Y,53,12.1,P00698,71,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1BPI,A,Y,23,11,P00974,58,https://pubs.acs.org/doi/pdf/10.1021/bi00264a020,/
+4PTI,A,Y,10,10.4,P00974,45,https://pubs.acs.org/doi/abs/10.1021/bi00688a008,/
+1ANS,A,Y,7,9.7,P01535,7,https://www.ncbi.nlm.nih.gov/pubmed/8102051,/
+4PTI,A,Y,21,11,P00974,56,https://pubs.acs.org/doi/abs/10.1021/bi00688a008,/
+1JV8,A,Y,23,11,P00974,58,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+1PPF,I,Y,20,11.1,P68390,149,https://pubs.acs.org/doi/pdf/10.1021/bi00014a028,/
+2ZTA,A,Y,17,9.82,P03069,265,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+1Q74,A,Y,142,10.5,P9WJN3,142,https://www.sciencedirect.com/science/article/pii/S0021925820654527?via%3Dihub,/
+2MB5,A,Y,151,10.5,P02185,152,https://www.ncbi.nlm.nih.gov/pubmed/8455,/
+1GB1,A,Y,33,11,P06654,259,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1RGG,A,Y,30,11.3,P05798,30,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1BPI,A,Y,21,10,P00974,56,https://pubs.acs.org/doi/pdf/10.1021/bi00264a020,/
+1RNZ,A,D,121,3,P61823,147,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1EX3,A,D,194,2.29,P00766,194,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,/
+1ERU,A,D,20,3.8,P10599,20,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1PGB,A,D,47,3.4,P06654,273,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1B2X,A,D,75,3.1,P00648,122,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1RNH,A,D,108,3.2,P0A7Y4,108,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+7RSA,A,D,121,3,P61823,147,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1TRS,A,D,20,3.8,P10599,20,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1RGG,A,D,17,3.72,P05798,17,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1BNI,A,D,75,3.1,P00648,122,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1TRW,A,D,20,3.8,P10599,20,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+3GB1,A,D,47,3.4,P06654,273,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1RGG,A,D,33,2.39,P05798,33,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+2HBA,A,D,8,2.94,P02417,8,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+2GB1,A,D,47,3.4,P06654,273,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1CX6,A,D,47,3,P00720,47,https://onlinelibrary.wiley.com/doi/10.1002/pro.3562,/
+1GOA,A,D,108,3.2,P0A7Y4,108,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+9RAT,A,D,121,3,P61823,147,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1KF3,A,D,121,3,P61823,147,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+Swiss,A,D,38,6.8,P00644,120,/,Δ+PHS L38D
+3RN3,A,D,83,3.5,P61823,109,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1H4G,A,D,15,3.35,Q7SIE3,15,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1TEW,A,D,87,2.13,P00703,105,https://reader.elsevier.com/reader/sd/pii/S0006349594809002?token=3D6664526AD45A3909B80FDC6879934AF28431AFF02233FC744194410646D9BBAB83885869BC39F14A040B11EE5A3A30&originRegion=us-east-1&originCreation=20230216013558,/
+1SGZ,A,D,32,5.2,P56817,93,https://pubs.acs.org/doi/10.1021/acs.jcim.8b00227,/
+1IW6,A,D,85,7.2,P02945,98,https://pubs.acs.org/doi/10.1021/bi9020204,ground state
+4LZT,A,D,101,4.09,P00698,119,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1LYS,A,D,101,4.09,P00698,119,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+2OXP,A,D,66,8.7,P00644,148,https://www.pnas.org/doi/10.1073/pnas.0805113105,PHS V66D
+1DIV,A,D,8,2.99,P02417,8,https://pubs.acs.org/doi/full/10.1021/bi982931h,/
+1GB1,A,D,47,3.4,P06654,273,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1RDD,A,D,108,3.2,P0A7Y4,108,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1BNJ,A,D,75,3.1,P00648,122,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1JV8,A,D,3,3.55,P00974,38,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+2LZT,A,D,101,4.09,P00698,119,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+3FT7,B,D,38,2.92,Q54323,38,,/
+1A2P,A,D,75,3.1,P00648,122,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1FW7,A,D,75,3.1,P00648,122,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+2RN2,A,D,108,3.2,P0A7Y4,108,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1QH7,A,D,15,3.35,Q7SIE3,15,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1BNR,A,D,75,3.1,P00648,122,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,/
+1PPF,I,D,27,2.22,P68390,156,https://www.ncbi.nlm.nih.gov/pubmed/7718577,/
+2HBB,A,D,8,2.99,P02417,8,https://www.sciencedirect.com/science/article/pii/S0006349510006089?via%3Dihub,/
+1PGA,A,D,47,3.4,P06654,273,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+1LSE,A,D,101,4.09,P00698,119,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+1ERT,A,D,20,3.6,P10599,20,https://pubs.acs.org/doi/abs/10.1021/bi00128a019,reduced form
+2TRX,A,D,20,3.8,P0AA25,21,https://pubs.acs.org/doi/abs/10.1021/bi961801a,/
+4EQP,A,D,72,7.6,P00644,154,,Δ+PHS I72D
+1BG8,A,D,43,3.9,P0AES9,64,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+135L,A,D,87,2.13,P00703,105,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,/
+Swiss,A,D,98,8,Q6J4G7,98,/,A178Q
+5H3M,A,D,34,4.5,P06396,88,https://www.nature.com/articles/srep45230,/
+3FT7,B,E,46,2.97,Q54323,46,,/
+Swiss,A,E,200,7,P09850,200,/,Y174D
+1H4G,A,E,184,6.5,Q7SIE3,184,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+5ISR,A,E,73,3.4,P00644,155,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+2IGH,A,E,32,4.6,P06654,323,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2RN2,A,E,135,4.3,P0A7Y4,135,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+3BDC,A,E,57,3.5,P00644,139,https://onlinelibrary.wiley.com/doi/full/10.1002/prot.22470,Δ+PHS
+2RN2,A,E,154,4.4,P0A7Y4,154,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1STN,A,E,52,3.93,P00644,134,https://www.ncbi.nlm.nih.gov/pubmed/19533744,/
+Swiss,A,E,106,4.2,P09850,106,/,T111D
+1GOA,A,E,135,4.3,P0A7Y4,135,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+2IGD,A,E,32,4.6,P06654,323,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+2M5S,A,E,307,3.9,P26747,307,https://www.sciencedirect.com/science/article/pii/S0021925820408749?via%3Dihub,/
+1ERT,A,E,98,3.9,P10599,98,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1IGV,A,E,5,3.4,P02633,9,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1ERU,A,E,103,4.5,P10599,103,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+1IGD,A,E,32,4.6,P06654,323,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+5ISR,A,E,67,3.8,P00644,149,https://www.sciencedirect.com/science/article/pii/S0022283609003325?via%3Dihub#bib40,Δ+PHS L38E
+Swiss,A,E,95,3.9,P00644,101,/,Δ+PHS L38K
+3EVQ,A,E,25,7.5,P00644,107,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS L25E
+2ZTA,A,E,22,4.2,P03069,270,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,P03069-2
+1LNI,A,E,14,5.02,P05798,14,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1RDD,A,E,154,4.4,P0A7Y4,154,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+2QMT,A,E,56,4,P19909,357,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+3ICB,A,E,5,3.4,P02633,9,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1RDD,A,E,135,4.3,P0A7Y4,135,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1BG8,A,E,26,4.6,P0AES9,47,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+1PPF,I,E,10,4.14,P68390,139,https://www.ncbi.nlm.nih.gov/pubmed/7718577,/
+1GOA,A,E,154,4.4,P0A7Y4,154,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,/
+1QH7,A,E,56,4.55,Q7SIE3,56,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1RGG,A,E,74,3.47,P05798,74,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+1IG5,A,E,5,3.4,P02633,9,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1KSM,A,E,5,3.4,P02633,9,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1W4H,A,E,161,3.64,P0AFG6,144,https://www.sciencedirect.com/science/article/pii/S0022283610009423?via%3Dihub,/
+1QH7,A,E,184,6.5,Q7SIE3,184,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+Swiss,A,E,37,5.2,P00644,119,/,Δ+PHS L37E
+5G39,A,E,54,4.5,P0A432,80,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.201900739,/
+4ICB,A,E,5,3.4,P02633,9,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,/
+1BG8,A,E,46,4.1,P0AES9,67,https://www.sciencedirect.com/science/article/pii/S0022283615000078?via%3Dihub,/
+1KQV,A,E,5,3.4,P02633,9,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1TRW,A,E,98,3.9,P10599,98,https://pubs.acs.org/doi/abs/10.1021/bi952299h,reduced form
+1H4G,A,E,56,4.55,Q7SIE3,56,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1TRS,A,E,103,4.5,P10599,103,https://pubs.acs.org/doi/abs/10.1021/bi952299h,oxidized form
+3VZK,A,E,35,3.4,P09850,63,https://pubs.acs.org/doi/10.1021/bi400034m,N35E
+1RNH,A,E,135,4.3,P0A7Y4,135,https://academic.oup.com/nar/article-abstract/21/20/4690/1398030#no-access-message,/
+1IGC,A,E,32,4.6,P06654,323,https://pubs.acs.org/doi/abs/10.1021/bi9630927,/
+Swiss,A,E,97,8.9,P00644,185,/,Δ+PHS L103E
+5E1F,A,E,20,4.5,P00644,102,https://www.pnas.org/doi/10.1073/pnas.0805113105,Δ+PHS G20E
+1B2V,A,H,32,7.3,Q54450,32,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2373534/,/
+4HHB,A,H,20,7.6,P69905,21,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,HbCO form
+1RNZ,A,H,119,6.5,P61823,145,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+2XV2,A,H,115,5.2,P00282,135,https://pubs.acs.org/doi/10.1021/ic101413e,AZ2A2A
+1H4G,A,H,32,6.68,Q7SIE3,32,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+1PPF,I,H,52,7.5,P68390,181,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,/
+5DFR,A,H,114,6.8,P0ABQ4,114,https://pubs.acs.org/doi/10.1021/bi300911d,/
+1RGG,A,H,53,8.27,P05798,53,https://www.ncbi.nlm.nih.gov/pubmed/12527309,/
+3SRN,B,H,119,6.33,P61823,145,https://www.pnas.org/content/88/18/8116,/
+5H3M,A,H,124,6.2,P06396,178,https://www.nature.com/articles/srep45230,/
+2XV0,A,H,115,5.2,P00282,135,https://pubs.acs.org/doi/10.1021/ic101413e,AZ2A2A
+1A6M,A,H,12,6.29,P02185,13,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+1MBC,A,H,12,6.4,P02185,13,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+9RAT,A,H,119,6.5,P61823,145,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+7RSA,A,H,119,6.5,P61823,145,https://www.sciencedirect.com/science/article/pii/S0003986196901083?via%3Dihub,/
+1KN6,A,H,45,5.6,P63239,72,https://pubs.acs.org/doi/10.1021/acs.analchem.5b01721,/
+1HHO,A,H,20,7,P69905,21,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,deoxy form
+1EPI,A,H,22,6.8,P01132,998,https://www.ncbi.nlm.nih.gov/pubmed/2036358,/
+3EGF,A,H,22,6.8,P01132,998,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+3KMF,A,H,20,7.23,P69905,21,https://www.sciencedirect.com/science/article/pii/S0022283610002548?via%3Dihub,deoxy form
+1KN6,A,H,58,5.9,P63239,85,https://pubs.acs.org/doi/10.1021/acs.analchem.5b01721,/
+1KF3,A,H,119,6.5,P61823,145,https://www.ncbi.nlm.nih.gov/pubmed/8615690,/
+4MBN,A,H,12,6.49,P02185,13,https://www.ncbi.nlm.nih.gov/pubmed/10969024,/
+1EPH,A,H,22,6.8,P01132,998,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,/
+1A6K,A,H,12,6.29,P02185,13,https://pubs.acs.org/doi/abs/10.1021/bi00082a027,/
+3SSI,A,H,43,3.25,P01006,74,https://www.ncbi.nlm.nih.gov/pubmed/6998977,/
+2MB5,A,H,12,6.4,P02185,13,https://www.ncbi.nlm.nih.gov/pubmed/9414234,/
+1QH7,A,H,32,6.68,Q7SIE3,32,https://pubs.acs.org/doi/abs/10.1021/bi049948m,/
+2TRX,A,C,35,9.9,P0AA25,36,,/
+1THE,A,C,29,3.6,P00787,108,,/
+1MH1,A,C,18,7.3,P63000,18,https://www.sciencedirect.com/science/article/pii/S0891584914004468?via%3Dihub,/
+2BCA,A,K,29,11.28,P02633,33,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1D0D,B,K,41,10.8,P00974,76,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+1LYS,A,K,13,10.5,P00698,31,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+Swiss,A,K,60,6.6,P00644,148,/,Δ+PHS V66KE67A
+4LZT,A,K,13,10.6,P00698,31,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+Swiss,A,K,85,9,P00644,173,/,Δ+PHS Y91K
+1KSM,A,K,29,11.4,P02633,33,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+1JV8,A,K,46,10.4,P00974,81,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+1IG5,A,K,29,11.28,P02633,33,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1KQV,A,K,29,11.4,P02633,33,https://www.sciencedirect.com/science/article/pii/S0022283696903617,/
+4ICB,A,K,29,11.28,P02633,33,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1PPF,I,K,13,9.87,P68390,142,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,/
+1LSE,A,K,13,10.5,P00698,31,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+Swiss,A,K,20,10.4,P00644,102,/,Δ+PHS G20K
+2LZT,A,K,13,10.6,P00698,31,https://www.ncbi.nlm.nih.gov/pubmed/6771251,/
+1IGV,A,K,29,11.28,P02633,33,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1BHC,J,K,41,10.8,P00974,76,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+4PTI,A,K,41,10.8,P00974,76,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,/
+3ICB,A,K,29,11.05,P02633,33,https://www.ncbi.nlm.nih.gov/pubmed/8683586,/
+1RGG,A,Y,49,10.6,P05798,49,https://www.sciencedirect.com/science/article/pii/S0022283602012731?via%3Dihub,/
+1JV8,A,Y,10,9.46,P00974,45,https://pubs.acs.org/doi/abs/10.1021/bi00264a020,/
+Swiss,A,D,38,6.6,P00644,120,/,L38DE122Q-dPHS
+Swiss,A,E,38,6.1,P00644,120,/,L38ED77N-dPHS
+Swiss,A,E,38,6.2,P00644,120,/,L38EE122Q-dPHS
+Swiss,A,E,38,7.4,P00644,120,/,L38EE122D-dPHS
+Swiss,A,E,38,7.2,P00644,120,/,L38ER126Q-dPHS
+Swiss,A,K,38,10.4,P00644,120,/,L38KE122Q-PHS
+Swiss,A,K,38,10.4,P00644,120,/,L38KE122A-PHS
+Swiss,A,D,143,3.8,P00644,219,/,L38E-dPHS
+Swiss,A,D,146,3.9,P00644,222,/,L38E-dPHS
+Swiss,A,E,10,3.1,P00644,92,/,L38E-dPHS
+Swiss,A,E,67,3.8,P00644,143,/,L38E-dPHS
+Swiss,A,E,75,3.3,P00644,151,/,L38E-dPHS
+Swiss,A,E,142,4.5,P00644,218,/,L38E-dPHS
+Swiss,A,H,8,6.6,P00644,90,/,1-dPHS
+Swiss,A,H,121,5.4,P00644,197,/,1-dPHS
+Swiss,A,H,8,6.5,P00644,90,/,E122Q-dPHS
+Swiss,A,H,121,5.3,P00644,197,/,E122Q-dPHS
+Swiss,A,H,8,6.5,P00644,90,/,L38K-dPHS
+Swiss,A,H,121,5.6,P00644,197,/,L38K-dPHS
+Swiss,A,H,8,6.5,P00644,90,/,L38E-dPHS
+Swiss,A,H,121,5.7,P00644,197,/,L38E-dPHS
+Swiss,A,H,8,6.4,P00644,90,/,L38EE122Q-dPHS
+Swiss,A,H,121,5.7,P00644,197,/,L38EE122Q-dPHS
+Swiss,A,H,8,6.5,P00644,90,/,L38D-dPHS
+Swiss,A,H,121,5.7,P00644,197,/,L38D-dPHS
+Swiss,A,H,8,6.5,P00644,90,/,L38DE122Q-dPHS
+Swiss,A,H,121,5.8,P00644,197,/,L38DE122Q-dPHS
+Swiss,A,D,143,3.8,P00644,219,/,1-dPHS
+Swiss,A,D,146,3.86,P00644,222,/,1-dPHS
+Swiss,A,E,142,4.49,P00644,218,/,1-dPHS
+Swiss,A,H,8,6.51,P00644,90,/,1-PHS
+Swiss,A,H,46,5.9,P00644,128,/,1-PHS
+Swiss,A,H,121,5.31,P00644,203,/,1-PHS
+Swiss,A,H,8,6.51,P00644,90,/,V66K-PHS
+Swiss,A,H,46,6.38,P00644,128,/,V66K-PHS
+Swiss,A,H,121,6.49,P00644,203,/,V66K-PHS
+Swiss,A,H,8,6.56,P00644,90,/,V66K-dPHS
+Swiss,A,H,121,5.38,P00644,197,/,V66K-dPHS
+2MI7,A,Y,34,11.3,2MI7,34,https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc05450k,/
+3SOA,A,C,289,9.2,Q9UQM7,289,https://www.sciencedirect.com/science/article/pii/S0003986124003904?via%3Dihub#sec4,/
+1NZP,A,K,248,10.27,Q9UGP5,248,https://pubs.acs.org/doi/10.1021/bi051856p,/
+1NZP,A,K,259,10.07,Q9UGP5,259,https://pubs.acs.org/doi/10.1021/bi051856p,/
+1NZP,A,K,265,10.23,Q9UGP5,265,https://pubs.acs.org/doi/10.1021/bi051856p,/
+1NZP,A,K,273,10.07,Q9UGP5,273,https://pubs.acs.org/doi/10.1021/bi051856p,/
+1NZP,A,K,281,10.01,Q9UGP5,281,https://pubs.acs.org/doi/10.1021/bi051856p,/
+1NZP,A,K,287,10.65,Q9UGP5,287,https://pubs.acs.org/doi/10.1021/bi051856p,/
+1NZP,A,K,291,10.26,Q9UGP5,291,https://pubs.acs.org/doi/10.1021/bi051856p,/
+1NZP,A,K,307,10.16,Q9UGP5,307,https://pubs.acs.org/doi/10.1021/bi051856p,/
+1NZP,A,K,324,10.27,Q9UGP5,324,https://pubs.acs.org/doi/10.1021/bi051856p,/
+1LKJ,A,K,13,10.23,P06787,14,https://www.jbc.org/article/S0021-9258(18)41546-3/pdf,/
+1LKJ,A,K,21,10.55,P06787,22,https://www.jbc.org/article/S0021-9258(18)41546-3/pdf,/
+1LKJ,A,K,77,10.55,P06787,78,https://www.jbc.org/article/S0021-9258(18)41546-3/pdf,/
+1LKJ,A,K,94,10.55,P06787,95,https://www.jbc.org/article/S0021-9258(18)41546-3/pdf,/
+2QDB,A,H,8,6.18,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E75Q
+2QDB,A,H,121,4.03,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E75Q
+2QDB,A,H,124,5.71,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E75Q
+2RDF,A,H,8,6.3,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E75A
+2RDF,A,H,121,4.24,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E75A
+2RDF,A,H,124,5.64,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E75A
+P00644,A,H,8,6.46,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA
+P00644,A,H,121,5.22,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA
+P00644,A,H,124,5.58,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA
+P00644,A,H,8,6.73,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA K9A
+P00644,A,H,121,5.48,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA K9A
+P00644,A,H,124,5.67,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA K9A
+P00644,A,H,8,6.47,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E73A
+P00644,A,H,121,5.24,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E73A
+P00644,A,H,124,5.63,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E73A
+P00644,A,H,8,6.44,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA D77A
+P00644,A,H,121,5.89,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA D77A
+P00644,A,H,124,5.77,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA D77A
+P00644,A,H,8,6.29,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA D77N
+P00644,A,H,121,5.77,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA D77N
+P00644,A,H,124,5.81,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA D77N
+P00644,A,H,8,6.42,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y91A
+P00644,A,H,121,5.32,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y91A
+P00644,A,H,124,5.82,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y91A
+P00644,A,H,8,6.36,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y91F
+P00644,A,H,121,6.04,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y91F
+P00644,A,H,124,5.65,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y91F
+P00644,A,H,8,6.45,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y93A
+P00644,A,H,121,5.94,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y93A
+P00644,A,H,124,5.68,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y93A
+P00644,A,H,8,6.46,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y93F
+P00644,A,H,121,4,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y93F
+P00644,A,H,124,5.52,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA Y93F
+P00644,A,H,8,6.49,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E101A
+P00644,A,H,121,5.26,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E101A
+P00644,A,H,124,5.04,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA E101A
+P00644,A,H,8,6.51,P00644,90,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA K127A
+P00644,A,H,121,5.3,P00644,203,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA K127A
+P00644,A,H,124,5.99,P00644,206,https://www.sciencedirect.com/science/article/pii/S002228360800452X?via%3Dihub,NVIAGA K127A
